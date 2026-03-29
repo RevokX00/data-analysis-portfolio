@@ -1,0 +1,81 @@
+# Target Brazil — E-Commerce Operations Analysis (2016–2018)
+
+**Real Dataset | 99,441 Orders | 8 Datasets | 27 States | 3-Year Review**
+
+---
+
+## Project Overview
+
+This project is a full three-year strategic analysis of Target's e-commerce operations in Brazil, covering September 2016 through October 2018. The dataset contains 99,441 orders across 27 Brazilian states and 4,119 cities — one of the most comprehensive public e-commerce datasets available for the Brazilian market.
+
+The analysis covers every dimension of the business: order growth trends, geographic customer distribution, freight economics across Brazil's diverse geography, delivery performance versus estimates, payment behaviour including Brazil's unique installment culture, and customer satisfaction patterns across 99,224 reviews.
+
+---
+
+## Key Findings
+
+- **137% revenue growth** comparing Jan–Aug 2017 vs Jan–Aug 2018 — 11x the Brazilian market growth rate
+- **São Paulo accounts for 40%+** of all orders — proven commercial foundation with concentration risk
+- **Northern states face freight costs 3–4x higher** than São Paulo — structural barrier to national expansion
+- **Multiple states deliver 10–20 days ahead of estimated date** — a competitive advantage generating zero marketing value
+- **Average review score: 4.09/5.0** across 99,224 reviews — strong foundation with addressable gaps
+- **Credit card dominates at 70%+** of transactions — boleto serves a stable, distinct customer segment
+- **Afternoon (13–18h) is peak shopping time** — most marketing scheduled at wrong time of day
+
+---
+
+## Dataset
+
+| File | Records | Description |
+|---|---|---|
+| customers.csv | 99,441 | Customer IDs, cities, states |
+| orders.csv | 99,441 | Order status, timestamps, delivery dates |
+| order_items.csv | 112,650 | Products, prices, freight per order |
+| payments.csv | 103,886 | Payment type, installments, value |
+| reviews.csv | 99,224 | Review scores and timestamps |
+| products.csv | 32,951 | Product categories and attributes |
+| sellers.csv | 3,095 | Seller locations |
+| geolocation.csv | 1,000,163 | Zip code coordinates |
+
+---
+
+## Tools and Techniques
+
+- **Python** — Pandas, NumPy, Matplotlib, Seaborn
+- **SQL** — Joins, CTEs, window functions, aggregations
+- **Excel** — 5-sheet dashboard with charts and KPI summary
+- **ReportLab** — Full PDF report generation
+
+---
+
+## Files in This Project
+
+| File | Description |
+|---|---|
+| `Target_Brazil_analysis.py` | Full Python analysis script — 14 charts |
+| `Target_Brazil_Analysis_Report.pdf` | Premium 16-page report with all charts and 8 strategic recommendations |
+| `Target_Brazil_orders.csv` | Orders dataset |
+| `Target_Brazil_customers.csv` | Customers dataset |
+| `Target_Brazil_payments.csv` | Payments dataset |
+| `Target_Brazil_order_items.csv` | Order items dataset |
+| `Target_Brazil_reviews.csv` | Reviews dataset |
+
+---
+
+## Strategic Recommendations Summary
+
+1. **Invest ahead of the growth curve** — 137% growth creates a closing window for market share capture
+2. **Solve northern states freight** — negotiate regional carriers or introduce freight subsidies
+3. **Shift campaign timing to 12:00–14:00** — afternoon is peak demand, most marketing misses it
+4. **Turn early delivery into a marketing asset** — communicate it, it currently generates zero brand value
+5. **Diversify beyond São Paulo** — RJ, MG, PR, and RS are underserved with strong demographics
+6. **Installment-forward merchandising** — display installment pricing at product level for high-value items
+7. **Address the review score ceiling** — delivery variance in the north is the primary driver of 1-star reviews
+8. **Build a boleto retention strategy** — this segment is stable and serves the unbanked market
+
+---
+
+## Author
+
+**Sadi Jagdish Reddy** — Data Analyst  
+📍 Dubai, UAE | 📧 sadijagdishreddy@protonmail.com | 🔗 linkedin.com/in/jagdishreddy
