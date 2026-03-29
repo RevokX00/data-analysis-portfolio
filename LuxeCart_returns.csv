@@ -1,0 +1,2370 @@
+return_id,order_id,product_id,category,return_date,return_reason,refund_amount,country
+RET1001,ORD100017,PRD1008,Bags,2023-11-25,Better price found,51.34,United States
+RET1002,ORD100018,PRD1026,Sunglasses,2023-07-08,Wrong size,148.49,United States
+RET1003,ORD100028,PRD1010,Jewellery,2023-06-29,Wrong size,91.88,United Kingdom
+RET1004,ORD100056,PRD1017,Watches,2022-03-07,Wrong size,330.2,United States
+RET1005,ORD100057,PRD1006,Bags,2023-01-17,Defective item,45.21,United States
+RET1006,ORD100057,PRD1009,Jewellery,2023-01-17,Wrong size,25.56,United States
+RET1007,ORD100092,PRD1031,Belts,2023-06-13,Changed mind,24.77,United States
+RET1008,ORD100112,PRD1010,Jewellery,2023-10-02,Wrong size,91.88,United States
+RET1009,ORD100127,PRD1014,Jewellery,2022-12-12,Not as described,109.25,United States
+RET1010,ORD100155,PRD1002,Bags,2023-12-06,Defective item,259.42,Australia
+RET1011,ORD100157,PRD1002,Bags,2024-01-26,Wrong size,259.42,Canada
+RET1012,ORD100175,PRD1001,Bags,2023-01-18,Defective item,148.0,Canada
+RET1013,ORD100191,PRD1020,Watches,2023-05-11,Defective item,412.66,Canada
+RET1014,ORD100195,PRD1017,Watches,2022-11-22,Not as described,330.2,Australia
+RET1015,ORD100219,PRD1026,Sunglasses,2023-03-10,Not as described,148.49,Australia
+RET1016,ORD100255,PRD1024,Sunglasses,2024-01-11,Wrong size,76.03,United States
+RET1017,ORD100285,PRD1019,Watches,2022-12-18,Defective item,394.01,Canada
+RET1018,ORD100291,PRD1007,Bags,2023-08-01,Not as described,128.67,United Kingdom
+RET1019,ORD100325,PRD1014,Jewellery,2024-04-06,Not as described,109.25,United States
+RET1020,ORD100338,PRD1017,Watches,2022-12-02,Changed mind,330.2,Australia
+RET1021,ORD100339,PRD1018,Watches,2023-10-02,Wrong size,289.08,United States
+RET1022,ORD100359,PRD1008,Bags,2023-01-14,Wrong size,51.34,United States
+RET1023,ORD100363,PRD1001,Bags,2022-02-26,Better price found,148.0,United States
+RET1024,ORD100370,PRD1020,Watches,2023-09-30,Defective item,412.66,United States
+RET1025,ORD100388,PRD1027,Sunglasses,2023-05-17,Not as described,35.64,United States
+RET1026,ORD100394,PRD1019,Watches,2023-11-19,Better price found,394.01,Canada
+RET1027,ORD100399,PRD1018,Watches,2023-06-30,Not as described,289.08,Canada
+RET1028,ORD100420,PRD1010,Jewellery,2024-04-06,Gift return,91.88,United States
+RET1029,ORD100420,PRD1030,Scarves,2024-04-24,Wrong size,106.99,United States
+RET1030,ORD100431,PRD1017,Watches,2022-08-16,Changed mind,330.2,United Kingdom
+RET1031,ORD100448,PRD1006,Bags,2022-12-24,Wrong size,45.21,United States
+RET1032,ORD100461,PRD1022,Watches,2023-07-16,Defective item,111.06,Canada
+RET1033,ORD100476,PRD1007,Bags,2022-07-13,Wrong size,128.67,Canada
+RET1034,ORD100476,PRD1023,Sunglasses,2022-07-08,Not as described,120.94,Canada
+RET1035,ORD100480,PRD1028,Scarves,2023-11-17,Not as described,92.58,United States
+RET1036,ORD100518,PRD1012,Jewellery,2024-03-08,Wrong size,157.31,United States
+RET1037,ORD100525,PRD1007,Bags,2023-05-18,Wrong size,128.67,United States
+RET1038,ORD100528,PRD1018,Watches,2023-12-15,Defective item,289.08,United States
+RET1039,ORD100528,PRD1007,Bags,2023-11-28,Better price found,128.67,United States
+RET1040,ORD100543,PRD1006,Bags,2024-10-21,Better price found,45.21,Canada
+RET1041,ORD100560,PRD1016,Jewellery,2024-05-16,Defective item,23.57,United States
+RET1042,ORD100584,PRD1006,Bags,2024-08-03,Changed mind,45.21,United States
+RET1043,ORD100585,PRD1006,Bags,2022-12-21,Better price found,45.21,United States
+RET1044,ORD100618,PRD1004,Bags,2024-10-21,Better price found,136.77,United Kingdom
+RET1045,ORD100659,PRD1014,Jewellery,2023-03-05,Wrong size,109.25,United States
+RET1046,ORD100698,PRD1025,Sunglasses,2024-10-17,Defective item,69.07,United States
+RET1047,ORD100710,PRD1005,Bags,2024-01-14,Defective item,50.66,United States
+RET1048,ORD100714,PRD1009,Jewellery,2023-12-04,Wrong size,25.56,Canada
+RET1049,ORD100719,PRD1020,Watches,2022-04-23,Changed mind,412.66,United States
+RET1050,ORD100773,PRD1024,Sunglasses,2023-09-10,Changed mind,76.03,United States
+RET1051,ORD100774,PRD1025,Sunglasses,2023-12-22,Not as described,69.07,United Kingdom
+RET1052,ORD100775,PRD1007,Bags,2022-06-23,Defective item,128.67,United Kingdom
+RET1053,ORD100779,PRD1013,Jewellery,2023-05-06,Better price found,28.54,United Kingdom
+RET1054,ORD100795,PRD1012,Jewellery,2024-09-29,Changed mind,157.31,Canada
+RET1055,ORD100803,PRD1004,Bags,2022-12-08,Not as described,136.77,United States
+RET1056,ORD100807,PRD1026,Sunglasses,2024-07-25,Defective item,148.49,United States
+RET1057,ORD100815,PRD1006,Bags,2022-11-17,Changed mind,45.21,United States
+RET1058,ORD100825,PRD1003,Bags,2023-06-28,Wrong size,87.9,United States
+RET1059,ORD100844,PRD1020,Watches,2024-04-06,Defective item,412.66,Canada
+RET1060,ORD100851,PRD1031,Belts,2022-11-15,Wrong size,24.77,United States
+RET1061,ORD100855,PRD1002,Bags,2024-09-13,Wrong size,259.42,Canada
+RET1062,ORD100873,PRD1016,Jewellery,2022-06-12,Not as described,23.57,United Kingdom
+RET1063,ORD100873,PRD1013,Jewellery,2022-05-22,Changed mind,28.54,United Kingdom
+RET1064,ORD100886,PRD1007,Bags,2022-07-19,Defective item,128.67,United States
+RET1065,ORD100896,PRD1017,Watches,2024-09-09,Better price found,330.2,United States
+RET1066,ORD100897,PRD1021,Watches,2024-05-08,Not as described,210.92,United States
+RET1067,ORD100906,PRD1020,Watches,2023-11-12,Defective item,412.66,United Kingdom
+RET1068,ORD100912,PRD1023,Sunglasses,2023-11-28,Better price found,120.94,Canada
+RET1069,ORD100948,PRD1026,Sunglasses,2023-06-10,Defective item,148.49,United States
+RET1070,ORD100951,PRD1003,Bags,2022-04-12,Defective item,87.9,United States
+RET1071,ORD100952,PRD1018,Watches,2024-01-05,Wrong size,289.08,United States
+RET1072,ORD100956,PRD1033,Belts,2022-06-16,Not as described,86.54,United States
+RET1073,ORD100958,PRD1006,Bags,2024-10-07,Gift return,45.21,United States
+RET1074,ORD100963,PRD1023,Sunglasses,2023-04-30,Changed mind,120.94,United States
+RET1075,ORD100993,PRD1022,Watches,2022-12-20,Gift return,111.06,United States
+RET1076,ORD101016,PRD1003,Bags,2024-08-17,Defective item,87.9,United States
+RET1077,ORD101035,PRD1011,Jewellery,2022-12-15,Changed mind,79.96,Canada
+RET1078,ORD101135,PRD1001,Bags,2022-05-09,Changed mind,148.0,United Kingdom
+RET1079,ORD101146,PRD1027,Sunglasses,2022-01-26,Changed mind,35.64,United States
+RET1080,ORD101149,PRD1007,Bags,2023-12-30,Not as described,128.67,United States
+RET1081,ORD101167,PRD1013,Jewellery,2024-02-19,Defective item,28.54,United States
+RET1082,ORD101169,PRD1018,Watches,2023-12-02,Not as described,289.08,United States
+RET1083,ORD101172,PRD1032,Belts,2023-09-16,Changed mind,69.94,United States
+RET1084,ORD101185,PRD1021,Watches,2024-03-11,Wrong size,210.92,United States
+RET1085,ORD101187,PRD1024,Sunglasses,2023-07-04,Not as described,76.03,Canada
+RET1086,ORD101209,PRD1009,Jewellery,2023-03-02,Better price found,25.56,United Kingdom
+RET1087,ORD101210,PRD1027,Sunglasses,2023-01-06,Not as described,35.64,Canada
+RET1088,ORD101218,PRD1001,Bags,2024-05-03,Wrong size,148.0,United Kingdom
+RET1089,ORD101224,PRD1017,Watches,2022-12-21,Wrong size,330.2,United States
+RET1090,ORD101235,PRD1023,Sunglasses,2023-06-14,Defective item,120.94,United Kingdom
+RET1091,ORD101235,PRD1011,Jewellery,2023-06-18,Wrong size,79.96,United Kingdom
+RET1092,ORD101255,PRD1022,Watches,2024-05-09,Changed mind,111.06,Canada
+RET1093,ORD101278,PRD1011,Jewellery,2024-06-13,Wrong size,79.96,Australia
+RET1094,ORD101279,PRD1008,Bags,2024-02-16,Changed mind,51.34,Canada
+RET1095,ORD101283,PRD1001,Bags,2024-01-02,Wrong size,148.0,United States
+RET1096,ORD101290,PRD1007,Bags,2023-03-01,Wrong size,128.67,United States
+RET1097,ORD101300,PRD1005,Bags,2022-10-24,Defective item,50.66,Canada
+RET1098,ORD101310,PRD1003,Bags,2024-10-04,Better price found,87.9,Canada
+RET1099,ORD101333,PRD1017,Watches,2023-03-05,Not as described,330.2,United Kingdom
+RET1100,ORD101334,PRD1022,Watches,2024-05-30,Wrong size,111.06,Australia
+RET1101,ORD101369,PRD1026,Sunglasses,2023-03-06,Gift return,148.49,Canada
+RET1102,ORD101370,PRD1006,Bags,2023-06-06,Changed mind,45.21,United States
+RET1103,ORD101398,PRD1028,Scarves,2022-09-16,Wrong size,92.58,United States
+RET1104,ORD101404,PRD1005,Bags,2022-02-22,Wrong size,50.66,United States
+RET1105,ORD101415,PRD1006,Bags,2023-02-21,Defective item,45.21,United States
+RET1106,ORD101432,PRD1032,Belts,2023-01-17,Wrong size,69.94,United States
+RET1107,ORD101432,PRD1005,Bags,2023-01-16,Changed mind,50.66,United States
+RET1108,ORD101460,PRD1017,Watches,2024-05-03,Wrong size,330.2,Australia
+RET1109,ORD101461,PRD1007,Bags,2023-02-27,Better price found,128.67,Canada
+RET1110,ORD101480,PRD1011,Jewellery,2023-11-01,Wrong size,79.96,United Kingdom
+RET1111,ORD101481,PRD1014,Jewellery,2022-10-04,Gift return,109.25,Canada
+RET1112,ORD101488,PRD1017,Watches,2023-03-21,Defective item,330.2,United States
+RET1113,ORD101526,PRD1021,Watches,2024-03-26,Wrong size,210.92,United States
+RET1114,ORD101542,PRD1019,Watches,2023-11-05,Defective item,394.01,United States
+RET1115,ORD101543,PRD1012,Jewellery,2024-07-24,Changed mind,157.31,United States
+RET1116,ORD101559,PRD1022,Watches,2022-11-18,Gift return,111.06,United States
+RET1117,ORD101562,PRD1025,Sunglasses,2023-01-04,Changed mind,69.07,Canada
+RET1118,ORD101574,PRD1027,Sunglasses,2022-10-16,Changed mind,35.64,Australia
+RET1119,ORD101606,PRD1008,Bags,2022-12-31,Wrong size,51.34,United States
+RET1120,ORD101606,PRD1017,Watches,2023-01-09,Changed mind,330.2,United States
+RET1121,ORD101627,PRD1023,Sunglasses,2022-03-15,Better price found,120.94,United States
+RET1122,ORD101639,PRD1015,Jewellery,2024-04-20,Wrong size,33.82,Australia
+RET1123,ORD101679,PRD1004,Bags,2022-06-20,Changed mind,136.77,United States
+RET1124,ORD101693,PRD1002,Bags,2024-03-20,Gift return,259.42,United Kingdom
+RET1125,ORD101693,PRD1028,Scarves,2024-03-13,Gift return,92.58,United Kingdom
+RET1126,ORD101720,PRD1005,Bags,2023-05-12,Wrong size,50.66,Australia
+RET1127,ORD101728,PRD1033,Belts,2022-08-31,Defective item,86.54,United States
+RET1128,ORD101737,PRD1018,Watches,2024-06-19,Changed mind,289.08,Australia
+RET1129,ORD101762,PRD1018,Watches,2024-07-09,Wrong size,289.08,United States
+RET1130,ORD101771,PRD1010,Jewellery,2024-01-05,Defective item,91.88,United States
+RET1131,ORD101776,PRD1021,Watches,2024-08-09,Not as described,210.92,United States
+RET1132,ORD101794,PRD1001,Bags,2024-04-17,Wrong size,148.0,United States
+RET1133,ORD101801,PRD1010,Jewellery,2022-11-26,Defective item,91.88,United States
+RET1134,ORD101815,PRD1016,Jewellery,2023-05-09,Wrong size,23.57,United States
+RET1135,ORD101850,PRD1016,Jewellery,2024-01-09,Not as described,23.57,United Kingdom
+RET1136,ORD101867,PRD1004,Bags,2022-09-02,Not as described,136.77,United States
+RET1137,ORD101868,PRD1021,Watches,2023-08-31,Not as described,210.92,Canada
+RET1138,ORD101880,PRD1024,Sunglasses,2022-06-05,Defective item,76.03,United Kingdom
+RET1139,ORD101884,PRD1016,Jewellery,2024-10-27,Changed mind,23.57,United States
+RET1140,ORD101891,PRD1006,Bags,2022-08-20,Changed mind,45.21,United States
+RET1141,ORD101922,PRD1016,Jewellery,2023-11-20,Wrong size,23.57,United States
+RET1142,ORD101940,PRD1016,Jewellery,2022-10-27,Defective item,23.57,Canada
+RET1143,ORD101962,PRD1002,Bags,2023-11-09,Wrong size,259.42,United States
+RET1144,ORD101975,PRD1005,Bags,2022-11-05,Changed mind,50.66,United States
+RET1145,ORD101977,PRD1007,Bags,2022-11-23,Better price found,128.67,United States
+RET1146,ORD101991,PRD1002,Bags,2023-06-15,Better price found,259.42,United Kingdom
+RET1147,ORD101998,PRD1014,Jewellery,2022-03-07,Not as described,109.25,United States
+RET1148,ORD102017,PRD1026,Sunglasses,2022-07-15,Wrong size,148.49,United Kingdom
+RET1149,ORD102017,PRD1003,Bags,2022-07-06,Defective item,87.9,United Kingdom
+RET1150,ORD102047,PRD1019,Watches,2022-12-31,Changed mind,394.01,Canada
+RET1151,ORD102056,PRD1003,Bags,2023-07-09,Changed mind,87.9,United States
+RET1152,ORD102070,PRD1001,Bags,2024-09-10,Not as described,148.0,United States
+RET1153,ORD102070,PRD1007,Bags,2024-08-31,Defective item,128.67,United States
+RET1154,ORD102083,PRD1022,Watches,2024-05-21,Not as described,111.06,Canada
+RET1155,ORD102087,PRD1007,Bags,2022-11-08,Wrong size,128.67,United Kingdom
+RET1156,ORD102113,PRD1024,Sunglasses,2022-02-23,Changed mind,76.03,United States
+RET1157,ORD102130,PRD1020,Watches,2023-01-08,Defective item,412.66,United States
+RET1158,ORD102142,PRD1011,Jewellery,2023-07-07,Wrong size,79.96,United States
+RET1159,ORD102180,PRD1005,Bags,2023-03-09,Changed mind,50.66,United States
+RET1160,ORD102190,PRD1010,Jewellery,2023-07-22,Wrong size,91.88,United Kingdom
+RET1161,ORD102193,PRD1005,Bags,2023-11-06,Changed mind,50.66,Australia
+RET1162,ORD102193,PRD1022,Watches,2023-11-07,Wrong size,111.06,Australia
+RET1163,ORD102241,PRD1015,Jewellery,2023-07-15,Not as described,33.82,United Kingdom
+RET1164,ORD102259,PRD1009,Jewellery,2023-11-13,Changed mind,25.56,United States
+RET1165,ORD102284,PRD1010,Jewellery,2022-09-09,Not as described,91.88,United States
+RET1166,ORD102289,PRD1008,Bags,2024-04-04,Wrong size,51.34,United States
+RET1167,ORD102297,PRD1003,Bags,2024-03-10,Changed mind,87.9,United Kingdom
+RET1168,ORD102302,PRD1027,Sunglasses,2022-12-03,Not as described,35.64,United States
+RET1169,ORD102304,PRD1029,Scarves,2024-01-26,Gift return,113.0,United States
+RET1170,ORD102310,PRD1024,Sunglasses,2023-06-23,Defective item,76.03,Australia
+RET1171,ORD102323,PRD1008,Bags,2022-12-03,Defective item,51.34,United Kingdom
+RET1172,ORD102331,PRD1001,Bags,2024-09-20,Better price found,148.0,United States
+RET1173,ORD102344,PRD1001,Bags,2024-05-07,Changed mind,148.0,Canada
+RET1174,ORD102368,PRD1027,Sunglasses,2023-12-08,Changed mind,35.64,Canada
+RET1175,ORD102391,PRD1023,Sunglasses,2022-11-16,Not as described,120.94,United States
+RET1176,ORD102476,PRD1027,Sunglasses,2024-07-28,Better price found,35.64,United States
+RET1177,ORD102480,PRD1021,Watches,2024-02-18,Wrong size,210.92,United States
+RET1178,ORD102483,PRD1028,Scarves,2023-03-23,Gift return,92.58,United States
+RET1179,ORD102488,PRD1017,Watches,2023-05-27,Changed mind,330.2,United States
+RET1180,ORD102503,PRD1031,Belts,2023-01-28,Gift return,24.77,United States
+RET1181,ORD102508,PRD1023,Sunglasses,2023-08-24,Wrong size,120.94,United Kingdom
+RET1182,ORD102509,PRD1021,Watches,2023-05-20,Gift return,210.92,United Kingdom
+RET1183,ORD102519,PRD1020,Watches,2023-01-20,Gift return,412.66,Canada
+RET1184,ORD102521,PRD1007,Bags,2022-06-03,Defective item,128.67,United Kingdom
+RET1185,ORD102523,PRD1007,Bags,2024-06-19,Better price found,128.67,United Kingdom
+RET1186,ORD102540,PRD1019,Watches,2023-12-16,Defective item,394.01,United Kingdom
+RET1187,ORD102552,PRD1001,Bags,2024-02-17,Not as described,148.0,United Kingdom
+RET1188,ORD102600,PRD1014,Jewellery,2022-03-08,Defective item,109.25,Australia
+RET1189,ORD102611,PRD1020,Watches,2023-12-30,Changed mind,412.66,United States
+RET1190,ORD102613,PRD1029,Scarves,2022-07-23,Not as described,113.0,Canada
+RET1191,ORD102680,PRD1015,Jewellery,2024-06-22,Not as described,33.82,United Kingdom
+RET1192,ORD102705,PRD1020,Watches,2023-02-28,Not as described,412.66,United Kingdom
+RET1193,ORD102752,PRD1011,Jewellery,2022-12-24,Gift return,79.96,United States
+RET1194,ORD102754,PRD1031,Belts,2023-03-10,Not as described,24.77,Canada
+RET1195,ORD102763,PRD1005,Bags,2023-12-20,Changed mind,50.66,United States
+RET1196,ORD102772,PRD1032,Belts,2022-12-27,Changed mind,69.94,United States
+RET1197,ORD102776,PRD1007,Bags,2023-12-16,Changed mind,128.67,United Kingdom
+RET1198,ORD102784,PRD1020,Watches,2023-12-24,Changed mind,412.66,United States
+RET1199,ORD102787,PRD1020,Watches,2023-06-15,Wrong size,412.66,United States
+RET1200,ORD102810,PRD1001,Bags,2023-12-20,Defective item,148.0,United Kingdom
+RET1201,ORD102846,PRD1006,Bags,2024-06-26,Not as described,45.21,United Kingdom
+RET1202,ORD102847,PRD1032,Belts,2022-02-11,Not as described,69.94,Australia
+RET1203,ORD102852,PRD1009,Jewellery,2023-10-01,Changed mind,25.56,United Kingdom
+RET1204,ORD102871,PRD1025,Sunglasses,2023-03-21,Changed mind,69.07,United States
+RET1205,ORD102880,PRD1019,Watches,2023-05-20,Wrong size,394.01,Canada
+RET1206,ORD102889,PRD1020,Watches,2024-07-27,Not as described,412.66,United States
+RET1207,ORD102892,PRD1003,Bags,2024-05-23,Wrong size,87.9,United States
+RET1208,ORD102900,PRD1004,Bags,2022-05-19,Better price found,136.77,United States
+RET1209,ORD102933,PRD1032,Belts,2023-10-31,Not as described,69.94,United States
+RET1210,ORD102970,PRD1002,Bags,2023-10-06,Changed mind,259.42,Canada
+RET1211,ORD102971,PRD1010,Jewellery,2024-08-11,Not as described,91.88,United States
+RET1212,ORD102972,PRD1006,Bags,2024-08-09,Wrong size,45.21,United Kingdom
+RET1213,ORD102984,PRD1027,Sunglasses,2023-02-02,Changed mind,35.64,United States
+RET1214,ORD102997,PRD1027,Sunglasses,2022-05-20,Changed mind,35.64,United States
+RET1215,ORD103001,PRD1031,Belts,2023-09-19,Wrong size,24.77,United Kingdom
+RET1216,ORD103003,PRD1024,Sunglasses,2024-07-29,Better price found,76.03,United Kingdom
+RET1217,ORD103010,PRD1004,Bags,2022-07-11,Wrong size,136.77,United States
+RET1218,ORD103013,PRD1029,Scarves,2022-02-03,Wrong size,113.0,United States
+RET1219,ORD103035,PRD1019,Watches,2023-01-22,Defective item,394.01,United States
+RET1220,ORD103072,PRD1019,Watches,2024-10-29,Defective item,394.01,United Kingdom
+RET1221,ORD103074,PRD1017,Watches,2022-05-30,Changed mind,330.2,United States
+RET1222,ORD103088,PRD1001,Bags,2022-12-06,Better price found,148.0,Canada
+RET1223,ORD103097,PRD1031,Belts,2023-03-24,Better price found,24.77,Australia
+RET1224,ORD103126,PRD1023,Sunglasses,2022-11-18,Changed mind,120.94,United States
+RET1225,ORD103129,PRD1025,Sunglasses,2023-04-25,Wrong size,69.07,United States
+RET1226,ORD103142,PRD1019,Watches,2022-03-10,Wrong size,394.01,United Kingdom
+RET1227,ORD103147,PRD1003,Bags,2023-12-05,Better price found,87.9,United States
+RET1228,ORD103150,PRD1019,Watches,2023-03-12,Gift return,394.01,United Kingdom
+RET1229,ORD103169,PRD1021,Watches,2024-01-01,Better price found,210.92,United States
+RET1230,ORD103171,PRD1027,Sunglasses,2023-12-16,Changed mind,35.64,Australia
+RET1231,ORD103171,PRD1002,Bags,2024-01-04,Changed mind,259.42,Australia
+RET1232,ORD103175,PRD1028,Scarves,2024-10-07,Not as described,92.58,United States
+RET1233,ORD103222,PRD1008,Bags,2022-11-21,Better price found,51.34,United States
+RET1234,ORD103234,PRD1022,Watches,2022-04-23,Defective item,111.06,Canada
+RET1235,ORD103236,PRD1026,Sunglasses,2023-12-21,Better price found,148.49,United States
+RET1236,ORD103259,PRD1033,Belts,2024-01-11,Changed mind,86.54,United States
+RET1237,ORD103264,PRD1026,Sunglasses,2024-10-27,Better price found,148.49,United Kingdom
+RET1238,ORD103267,PRD1001,Bags,2024-01-05,Not as described,148.0,Canada
+RET1239,ORD103269,PRD1008,Bags,2023-05-12,Changed mind,51.34,United States
+RET1240,ORD103270,PRD1004,Bags,2022-06-12,Wrong size,136.77,United States
+RET1241,ORD103272,PRD1030,Scarves,2023-12-09,Better price found,106.99,United States
+RET1242,ORD103290,PRD1005,Bags,2022-03-14,Wrong size,50.66,Australia
+RET1243,ORD103335,PRD1011,Jewellery,2022-12-26,Changed mind,79.96,United States
+RET1244,ORD103349,PRD1027,Sunglasses,2023-07-08,Not as described,35.64,United States
+RET1245,ORD103358,PRD1002,Bags,2024-06-28,Not as described,259.42,United Kingdom
+RET1246,ORD103369,PRD1002,Bags,2023-07-10,Changed mind,259.42,Canada
+RET1247,ORD103379,PRD1024,Sunglasses,2024-05-02,Changed mind,76.03,Canada
+RET1248,ORD103381,PRD1031,Belts,2022-09-19,Defective item,24.77,United States
+RET1249,ORD103396,PRD1015,Jewellery,2022-11-13,Changed mind,33.82,Canada
+RET1250,ORD103398,PRD1016,Jewellery,2024-10-21,Not as described,23.57,United Kingdom
+RET1251,ORD103402,PRD1030,Scarves,2022-11-28,Wrong size,106.99,United States
+RET1252,ORD103417,PRD1022,Watches,2023-07-16,Wrong size,111.06,Canada
+RET1253,ORD103429,PRD1012,Jewellery,2022-03-09,Wrong size,157.31,United States
+RET1254,ORD103450,PRD1004,Bags,2023-11-17,Wrong size,136.77,Australia
+RET1255,ORD103462,PRD1010,Jewellery,2024-01-02,Gift return,91.88,United Kingdom
+RET1256,ORD103463,PRD1006,Bags,2023-10-06,Not as described,45.21,Australia
+RET1257,ORD103491,PRD1030,Scarves,2023-05-17,Wrong size,106.99,United Kingdom
+RET1258,ORD103501,PRD1026,Sunglasses,2024-06-17,Changed mind,148.49,United States
+RET1259,ORD103527,PRD1021,Watches,2022-12-02,Wrong size,210.92,United States
+RET1260,ORD103543,PRD1005,Bags,2023-01-08,Not as described,50.66,United Kingdom
+RET1261,ORD103544,PRD1004,Bags,2022-10-04,Not as described,136.77,United States
+RET1262,ORD103545,PRD1002,Bags,2022-11-26,Wrong size,259.42,United Kingdom
+RET1263,ORD103559,PRD1008,Bags,2024-01-17,Wrong size,51.34,United States
+RET1264,ORD103565,PRD1013,Jewellery,2022-12-06,Defective item,28.54,United States
+RET1265,ORD103572,PRD1023,Sunglasses,2022-11-20,Not as described,120.94,United States
+RET1266,ORD103582,PRD1023,Sunglasses,2023-12-23,Defective item,120.94,United States
+RET1267,ORD103593,PRD1023,Sunglasses,2023-04-06,Defective item,120.94,United Kingdom
+RET1268,ORD103631,PRD1020,Watches,2023-10-26,Not as described,412.66,United States
+RET1269,ORD103641,PRD1020,Watches,2022-10-19,Not as described,412.66,United States
+RET1270,ORD103645,PRD1033,Belts,2023-02-28,Not as described,86.54,Canada
+RET1271,ORD103699,PRD1030,Scarves,2023-12-08,Not as described,106.99,Australia
+RET1272,ORD103713,PRD1022,Watches,2022-02-24,Changed mind,111.06,United States
+RET1273,ORD103714,PRD1021,Watches,2024-04-04,Gift return,210.92,Australia
+RET1274,ORD103732,PRD1017,Watches,2024-01-12,Not as described,330.2,United States
+RET1275,ORD103735,PRD1003,Bags,2024-01-01,Defective item,87.9,United States
+RET1276,ORD103748,PRD1011,Jewellery,2024-04-12,Changed mind,79.96,Canada
+RET1277,ORD103751,PRD1009,Jewellery,2024-10-30,Defective item,25.56,United States
+RET1278,ORD103764,PRD1002,Bags,2023-06-07,Defective item,259.42,United States
+RET1279,ORD103800,PRD1004,Bags,2023-12-08,Defective item,136.77,United States
+RET1280,ORD103802,PRD1014,Jewellery,2022-11-12,Defective item,109.25,United States
+RET1281,ORD103806,PRD1005,Bags,2022-10-01,Wrong size,50.66,United States
+RET1282,ORD103810,PRD1005,Bags,2023-03-24,Wrong size,50.66,United Kingdom
+RET1283,ORD103841,PRD1028,Scarves,2024-10-06,Wrong size,92.58,Australia
+RET1284,ORD103898,PRD1003,Bags,2023-03-08,Changed mind,87.9,United States
+RET1285,ORD103925,PRD1017,Watches,2022-12-05,Changed mind,330.2,Australia
+RET1286,ORD103929,PRD1027,Sunglasses,2022-12-06,Defective item,35.64,United States
+RET1287,ORD103967,PRD1021,Watches,2022-11-16,Changed mind,210.92,United States
+RET1288,ORD103985,PRD1017,Watches,2022-11-28,Changed mind,330.2,United States
+RET1289,ORD104005,PRD1018,Watches,2023-12-07,Changed mind,289.08,Australia
+RET1290,ORD104025,PRD1011,Jewellery,2023-07-04,Gift return,79.96,United States
+RET1291,ORD104033,PRD1003,Bags,2024-01-19,Wrong size,87.9,United Kingdom
+RET1292,ORD104062,PRD1029,Scarves,2024-06-07,Not as described,113.0,United States
+RET1293,ORD104081,PRD1022,Watches,2022-04-10,Gift return,111.06,Australia
+RET1294,ORD104102,PRD1005,Bags,2023-11-29,Wrong size,50.66,United States
+RET1295,ORD104114,PRD1030,Scarves,2023-10-02,Changed mind,106.99,United States
+RET1296,ORD104156,PRD1008,Bags,2023-09-10,Defective item,51.34,Australia
+RET1297,ORD104177,PRD1007,Bags,2022-05-07,Not as described,128.67,United States
+RET1298,ORD104186,PRD1028,Scarves,2024-05-27,Gift return,92.58,United States
+RET1299,ORD104203,PRD1008,Bags,2024-10-24,Changed mind,51.34,United States
+RET1300,ORD104205,PRD1007,Bags,2022-07-21,Gift return,128.67,United Kingdom
+RET1301,ORD104212,PRD1009,Jewellery,2023-09-17,Defective item,25.56,Canada
+RET1302,ORD104223,PRD1013,Jewellery,2022-03-16,Defective item,28.54,United States
+RET1303,ORD104238,PRD1024,Sunglasses,2024-10-20,Changed mind,76.03,United Kingdom
+RET1304,ORD104247,PRD1030,Scarves,2022-02-21,Not as described,106.99,Canada
+RET1305,ORD104284,PRD1028,Scarves,2022-12-08,Better price found,92.58,Canada
+RET1306,ORD104295,PRD1029,Scarves,2022-11-22,Not as described,113.0,Australia
+RET1307,ORD104304,PRD1005,Bags,2024-08-29,Wrong size,50.66,United States
+RET1308,ORD104309,PRD1022,Watches,2023-09-04,Wrong size,111.06,Australia
+RET1309,ORD104320,PRD1007,Bags,2024-01-04,Changed mind,128.67,United States
+RET1310,ORD104340,PRD1029,Scarves,2023-12-01,Not as described,113.0,Australia
+RET1311,ORD104360,PRD1029,Scarves,2024-11-10,Changed mind,113.0,Canada
+RET1312,ORD104361,PRD1027,Sunglasses,2023-12-25,Gift return,35.64,United Kingdom
+RET1313,ORD104392,PRD1019,Watches,2023-08-22,Wrong size,394.01,Canada
+RET1314,ORD104417,PRD1025,Sunglasses,2022-12-18,Changed mind,69.07,United States
+RET1315,ORD104443,PRD1002,Bags,2024-02-10,Wrong size,259.42,United States
+RET1316,ORD104526,PRD1024,Sunglasses,2024-10-24,Gift return,76.03,Canada
+RET1317,ORD104546,PRD1030,Scarves,2022-03-23,Gift return,106.99,United States
+RET1318,ORD104561,PRD1021,Watches,2022-06-16,Wrong size,210.92,Canada
+RET1319,ORD104596,PRD1015,Jewellery,2024-01-08,Better price found,33.82,United States
+RET1320,ORD104606,PRD1009,Jewellery,2023-11-27,Defective item,25.56,Australia
+RET1321,ORD104620,PRD1031,Belts,2024-07-29,Defective item,24.77,Australia
+RET1322,ORD104646,PRD1017,Watches,2023-10-28,Wrong size,330.2,United States
+RET1323,ORD104681,PRD1005,Bags,2022-11-22,Changed mind,50.66,United States
+RET1324,ORD104758,PRD1020,Watches,2022-03-06,Changed mind,412.66,Canada
+RET1325,ORD104767,PRD1018,Watches,2022-02-27,Defective item,289.08,United States
+RET1326,ORD104775,PRD1008,Bags,2022-06-05,Not as described,51.34,United States
+RET1327,ORD104779,PRD1020,Watches,2023-01-13,Gift return,412.66,Australia
+RET1328,ORD104791,PRD1012,Jewellery,2023-01-06,Changed mind,157.31,Australia
+RET1329,ORD104801,PRD1030,Scarves,2023-09-18,Wrong size,106.99,United States
+RET1330,ORD104802,PRD1009,Jewellery,2022-12-24,Defective item,25.56,United States
+RET1331,ORD104837,PRD1022,Watches,2022-12-16,Not as described,111.06,United States
+RET1332,ORD104878,PRD1001,Bags,2023-03-14,Not as described,148.0,United Kingdom
+RET1333,ORD104903,PRD1019,Watches,2023-09-20,Better price found,394.01,Canada
+RET1334,ORD104924,PRD1027,Sunglasses,2022-06-30,Wrong size,35.64,Canada
+RET1335,ORD104944,PRD1009,Jewellery,2024-09-28,Wrong size,25.56,United States
+RET1336,ORD104953,PRD1004,Bags,2023-03-31,Wrong size,136.77,United Kingdom
+RET1337,ORD104967,PRD1003,Bags,2022-10-22,Wrong size,87.9,United States
+RET1338,ORD104982,PRD1031,Belts,2024-05-22,Better price found,24.77,Canada
+RET1339,ORD105036,PRD1032,Belts,2024-03-19,Changed mind,69.94,United States
+RET1340,ORD105038,PRD1014,Jewellery,2022-10-21,Not as described,109.25,United States
+RET1341,ORD105086,PRD1012,Jewellery,2024-03-28,Not as described,157.31,United States
+RET1342,ORD105088,PRD1008,Bags,2024-02-27,Defective item,51.34,United States
+RET1343,ORD105090,PRD1001,Bags,2022-11-27,Wrong size,148.0,United States
+RET1344,ORD105092,PRD1007,Bags,2023-04-17,Wrong size,128.67,United States
+RET1345,ORD105098,PRD1021,Watches,2024-01-20,Not as described,210.92,United States
+RET1346,ORD105100,PRD1014,Jewellery,2024-08-10,Gift return,109.25,United States
+RET1347,ORD105109,PRD1020,Watches,2022-10-14,Wrong size,412.66,Australia
+RET1348,ORD105110,PRD1002,Bags,2024-07-30,Wrong size,259.42,Canada
+RET1349,ORD105114,PRD1002,Bags,2024-06-24,Defective item,259.42,United States
+RET1350,ORD105142,PRD1015,Jewellery,2022-11-29,Changed mind,33.82,United States
+RET1351,ORD105143,PRD1028,Scarves,2023-01-26,Changed mind,92.58,United States
+RET1352,ORD105158,PRD1008,Bags,2023-03-12,Changed mind,51.34,United States
+RET1353,ORD105164,PRD1033,Belts,2023-03-12,Wrong size,86.54,Australia
+RET1354,ORD105190,PRD1006,Bags,2023-04-27,Changed mind,45.21,United States
+RET1355,ORD105223,PRD1033,Belts,2024-01-15,Changed mind,86.54,United Kingdom
+RET1356,ORD105255,PRD1002,Bags,2023-02-24,Better price found,259.42,United States
+RET1357,ORD105258,PRD1024,Sunglasses,2022-11-26,Not as described,76.03,United Kingdom
+RET1358,ORD105275,PRD1023,Sunglasses,2022-03-18,Not as described,120.94,Australia
+RET1359,ORD105286,PRD1006,Bags,2023-11-01,Gift return,45.21,United States
+RET1360,ORD105299,PRD1013,Jewellery,2024-03-30,Defective item,28.54,United Kingdom
+RET1361,ORD105305,PRD1018,Watches,2022-05-03,Changed mind,289.08,Canada
+RET1362,ORD105311,PRD1023,Sunglasses,2023-05-07,Gift return,120.94,United States
+RET1363,ORD105384,PRD1031,Belts,2022-04-04,Better price found,24.77,United States
+RET1364,ORD105387,PRD1001,Bags,2023-09-28,Better price found,148.0,United Kingdom
+RET1365,ORD105397,PRD1024,Sunglasses,2022-07-19,Defective item,76.03,United States
+RET1366,ORD105431,PRD1001,Bags,2022-11-26,Wrong size,148.0,United Kingdom
+RET1367,ORD105438,PRD1011,Jewellery,2024-11-06,Not as described,79.96,United States
+RET1368,ORD105462,PRD1026,Sunglasses,2023-04-07,Wrong size,148.49,Australia
+RET1369,ORD105463,PRD1004,Bags,2024-07-23,Better price found,136.77,Australia
+RET1370,ORD105464,PRD1004,Bags,2023-09-22,Defective item,136.77,United States
+RET1371,ORD105465,PRD1005,Bags,2022-04-18,Wrong size,50.66,United States
+RET1372,ORD105474,PRD1002,Bags,2024-06-26,Not as described,259.42,United States
+RET1373,ORD105477,PRD1021,Watches,2023-07-10,Defective item,210.92,United States
+RET1374,ORD105486,PRD1004,Bags,2023-11-13,Defective item,136.77,United States
+RET1375,ORD105501,PRD1020,Watches,2024-08-29,Defective item,412.66,United States
+RET1376,ORD105513,PRD1024,Sunglasses,2022-12-09,Wrong size,76.03,United States
+RET1377,ORD105518,PRD1024,Sunglasses,2022-06-19,Better price found,76.03,United Kingdom
+RET1378,ORD105518,PRD1031,Belts,2022-06-12,Wrong size,24.77,United Kingdom
+RET1379,ORD105525,PRD1011,Jewellery,2022-02-26,Wrong size,79.96,United States
+RET1380,ORD105531,PRD1021,Watches,2023-05-18,Not as described,210.92,United Kingdom
+RET1381,ORD105573,PRD1020,Watches,2022-11-05,Changed mind,412.66,United States
+RET1382,ORD105580,PRD1007,Bags,2023-11-28,Changed mind,128.67,Canada
+RET1383,ORD105580,PRD1006,Bags,2023-11-11,Changed mind,45.21,Canada
+RET1384,ORD105606,PRD1024,Sunglasses,2023-11-12,Not as described,76.03,United Kingdom
+RET1385,ORD105637,PRD1005,Bags,2024-02-09,Defective item,50.66,United Kingdom
+RET1386,ORD105642,PRD1006,Bags,2024-03-15,Defective item,45.21,United States
+RET1387,ORD105655,PRD1012,Jewellery,2022-07-18,Defective item,157.31,United States
+RET1388,ORD105683,PRD1005,Bags,2024-02-17,Changed mind,50.66,United States
+RET1389,ORD105695,PRD1003,Bags,2023-10-27,Wrong size,87.9,Canada
+RET1390,ORD105700,PRD1024,Sunglasses,2022-11-25,Changed mind,76.03,Australia
+RET1391,ORD105725,PRD1022,Watches,2023-12-20,Wrong size,111.06,Australia
+RET1392,ORD105727,PRD1021,Watches,2024-06-22,Not as described,210.92,Canada
+RET1393,ORD105736,PRD1022,Watches,2022-02-12,Better price found,111.06,United States
+RET1394,ORD105740,PRD1022,Watches,2022-05-31,Wrong size,111.06,United States
+RET1395,ORD105747,PRD1021,Watches,2024-10-15,Not as described,210.92,United States
+RET1396,ORD105751,PRD1003,Bags,2022-05-16,Not as described,87.9,United States
+RET1397,ORD105777,PRD1017,Watches,2022-10-11,Not as described,330.2,United States
+RET1398,ORD105798,PRD1022,Watches,2024-07-14,Changed mind,111.06,Australia
+RET1399,ORD105836,PRD1016,Jewellery,2024-10-09,Better price found,23.57,United States
+RET1400,ORD105849,PRD1002,Bags,2024-10-11,Wrong size,259.42,Canada
+RET1401,ORD105856,PRD1015,Jewellery,2023-08-28,Gift return,33.82,United States
+RET1402,ORD105859,PRD1016,Jewellery,2024-08-28,Defective item,23.57,Australia
+RET1403,ORD105867,PRD1015,Jewellery,2023-01-06,Wrong size,33.82,United Kingdom
+RET1404,ORD105880,PRD1018,Watches,2023-11-28,Changed mind,289.08,United States
+RET1405,ORD105884,PRD1007,Bags,2023-06-07,Better price found,128.67,United States
+RET1406,ORD105884,PRD1021,Watches,2023-06-07,Changed mind,210.92,United States
+RET1407,ORD105893,PRD1006,Bags,2022-03-05,Better price found,45.21,United States
+RET1408,ORD105905,PRD1024,Sunglasses,2024-10-31,Wrong size,76.03,United Kingdom
+RET1409,ORD105909,PRD1003,Bags,2024-04-08,Defective item,87.9,United Kingdom
+RET1410,ORD105919,PRD1001,Bags,2023-10-05,Defective item,148.0,Canada
+RET1411,ORD105928,PRD1025,Sunglasses,2024-09-29,Gift return,69.07,United States
+RET1412,ORD105929,PRD1010,Jewellery,2022-02-13,Gift return,91.88,United States
+RET1413,ORD105941,PRD1023,Sunglasses,2023-10-25,Better price found,120.94,United Kingdom
+RET1414,ORD105958,PRD1008,Bags,2023-01-04,Wrong size,51.34,United States
+RET1415,ORD105975,PRD1015,Jewellery,2023-05-14,Wrong size,33.82,United States
+RET1416,ORD105995,PRD1007,Bags,2024-01-06,Defective item,128.67,United Kingdom
+RET1417,ORD105995,PRD1015,Jewellery,2024-01-05,Defective item,33.82,United Kingdom
+RET1418,ORD106045,PRD1004,Bags,2022-12-27,Wrong size,136.77,United States
+RET1419,ORD106070,PRD1022,Watches,2023-01-13,Wrong size,111.06,United States
+RET1420,ORD106123,PRD1028,Scarves,2023-04-18,Wrong size,92.58,United States
+RET1421,ORD106170,PRD1009,Jewellery,2022-04-16,Defective item,25.56,United States
+RET1422,ORD106188,PRD1004,Bags,2024-10-26,Better price found,136.77,Canada
+RET1423,ORD106209,PRD1009,Jewellery,2024-01-27,Changed mind,25.56,United Kingdom
+RET1424,ORD106240,PRD1007,Bags,2024-04-18,Changed mind,128.67,United States
+RET1425,ORD106258,PRD1012,Jewellery,2022-06-11,Changed mind,157.31,United Kingdom
+RET1426,ORD106283,PRD1003,Bags,2023-10-27,Defective item,87.9,United States
+RET1427,ORD106285,PRD1002,Bags,2024-04-14,Wrong size,259.42,United Kingdom
+RET1428,ORD106305,PRD1027,Sunglasses,2024-09-06,Wrong size,35.64,United States
+RET1429,ORD106325,PRD1004,Bags,2023-09-01,Defective item,136.77,Australia
+RET1430,ORD106328,PRD1025,Sunglasses,2022-10-11,Not as described,69.07,Canada
+RET1431,ORD106329,PRD1032,Belts,2023-08-31,Better price found,69.94,United Kingdom
+RET1432,ORD106355,PRD1010,Jewellery,2023-12-07,Defective item,91.88,United States
+RET1433,ORD106365,PRD1015,Jewellery,2023-04-15,Wrong size,33.82,United States
+RET1434,ORD106379,PRD1005,Bags,2024-08-10,Changed mind,50.66,United States
+RET1435,ORD106400,PRD1005,Bags,2022-12-20,Wrong size,50.66,United States
+RET1436,ORD106410,PRD1002,Bags,2022-12-02,Changed mind,259.42,United Kingdom
+RET1437,ORD106418,PRD1004,Bags,2024-07-19,Wrong size,136.77,United States
+RET1438,ORD106435,PRD1029,Scarves,2022-07-27,Wrong size,113.0,Canada
+RET1439,ORD106438,PRD1019,Watches,2024-11-07,Better price found,394.01,Australia
+RET1440,ORD106441,PRD1006,Bags,2024-02-24,Changed mind,45.21,United Kingdom
+RET1441,ORD106450,PRD1014,Jewellery,2024-06-26,Changed mind,109.25,United Kingdom
+RET1442,ORD106466,PRD1002,Bags,2023-12-01,Not as described,259.42,United States
+RET1443,ORD106466,PRD1012,Jewellery,2023-11-19,Wrong size,157.31,United States
+RET1444,ORD106495,PRD1026,Sunglasses,2023-11-19,Changed mind,148.49,United States
+RET1445,ORD106503,PRD1020,Watches,2023-07-04,Wrong size,412.66,United States
+RET1446,ORD106572,PRD1015,Jewellery,2023-02-19,Better price found,33.82,United Kingdom
+RET1447,ORD106586,PRD1030,Scarves,2022-12-12,Not as described,106.99,United Kingdom
+RET1448,ORD106594,PRD1004,Bags,2023-02-14,Wrong size,136.77,United States
+RET1449,ORD106603,PRD1012,Jewellery,2024-09-23,Wrong size,157.31,United States
+RET1450,ORD106609,PRD1019,Watches,2023-05-15,Wrong size,394.01,United States
+RET1451,ORD106621,PRD1026,Sunglasses,2024-03-23,Gift return,148.49,United States
+RET1452,ORD106635,PRD1017,Watches,2022-03-17,Defective item,330.2,United States
+RET1453,ORD106647,PRD1002,Bags,2022-02-19,Changed mind,259.42,United Kingdom
+RET1454,ORD106648,PRD1007,Bags,2023-09-17,Changed mind,128.67,United States
+RET1455,ORD106669,PRD1012,Jewellery,2024-03-16,Changed mind,157.31,United States
+RET1456,ORD106675,PRD1002,Bags,2022-04-03,Changed mind,259.42,United States
+RET1457,ORD106710,PRD1002,Bags,2024-01-10,Defective item,259.42,United States
+RET1458,ORD106716,PRD1024,Sunglasses,2024-04-05,Better price found,76.03,United States
+RET1459,ORD106720,PRD1012,Jewellery,2024-10-13,Better price found,157.31,United States
+RET1460,ORD106736,PRD1002,Bags,2022-12-02,Gift return,259.42,Australia
+RET1461,ORD106759,PRD1024,Sunglasses,2023-05-14,Wrong size,76.03,Australia
+RET1462,ORD106762,PRD1011,Jewellery,2024-03-04,Better price found,79.96,United States
+RET1463,ORD106763,PRD1003,Bags,2023-12-22,Changed mind,87.9,United States
+RET1464,ORD106765,PRD1025,Sunglasses,2023-08-05,Better price found,69.07,Australia
+RET1465,ORD106772,PRD1005,Bags,2022-12-21,Wrong size,50.66,United States
+RET1466,ORD106780,PRD1026,Sunglasses,2022-02-24,Gift return,148.49,United States
+RET1467,ORD106791,PRD1003,Bags,2023-06-01,Better price found,87.9,United States
+RET1468,ORD106793,PRD1005,Bags,2022-03-19,Not as described,50.66,Canada
+RET1469,ORD106795,PRD1026,Sunglasses,2023-09-08,Changed mind,148.49,United States
+RET1470,ORD106810,PRD1025,Sunglasses,2024-03-22,Not as described,69.07,United Kingdom
+RET1471,ORD106818,PRD1029,Scarves,2023-12-24,Changed mind,113.0,Australia
+RET1472,ORD106830,PRD1017,Watches,2023-08-01,Better price found,330.2,United States
+RET1473,ORD106840,PRD1006,Bags,2022-09-11,Changed mind,45.21,United States
+RET1474,ORD106861,PRD1028,Scarves,2022-02-10,Wrong size,92.58,United States
+RET1475,ORD106863,PRD1012,Jewellery,2023-12-29,Defective item,157.31,United Kingdom
+RET1476,ORD106871,PRD1009,Jewellery,2024-02-01,Wrong size,25.56,United States
+RET1477,ORD106885,PRD1013,Jewellery,2022-11-16,Wrong size,28.54,Australia
+RET1478,ORD106907,PRD1012,Jewellery,2022-12-03,Changed mind,157.31,United Kingdom
+RET1479,ORD106909,PRD1027,Sunglasses,2022-11-17,Not as described,35.64,Australia
+RET1480,ORD106943,PRD1025,Sunglasses,2024-03-05,Not as described,69.07,Canada
+RET1481,ORD106966,PRD1002,Bags,2023-11-27,Changed mind,259.42,United States
+RET1482,ORD106989,PRD1011,Jewellery,2022-06-24,Wrong size,79.96,United Kingdom
+RET1483,ORD106993,PRD1006,Bags,2024-06-12,Not as described,45.21,United Kingdom
+RET1484,ORD107008,PRD1001,Bags,2022-11-20,Not as described,148.0,Australia
+RET1485,ORD107017,PRD1021,Watches,2024-01-15,Changed mind,210.92,Australia
+RET1486,ORD107024,PRD1003,Bags,2024-08-16,Wrong size,87.9,United States
+RET1487,ORD107049,PRD1027,Sunglasses,2022-12-28,Wrong size,35.64,United Kingdom
+RET1488,ORD107058,PRD1031,Belts,2022-12-11,Better price found,24.77,United States
+RET1489,ORD107086,PRD1006,Bags,2022-03-21,Better price found,45.21,Canada
+RET1490,ORD107091,PRD1030,Scarves,2022-05-23,Not as described,106.99,Australia
+RET1491,ORD107098,PRD1019,Watches,2023-12-30,Changed mind,394.01,United States
+RET1492,ORD107100,PRD1022,Watches,2023-09-27,Changed mind,111.06,United Kingdom
+RET1493,ORD107123,PRD1022,Watches,2023-07-17,Wrong size,111.06,Australia
+RET1494,ORD107134,PRD1019,Watches,2023-09-20,Not as described,394.01,United States
+RET1495,ORD107136,PRD1007,Bags,2024-03-28,Changed mind,128.67,Canada
+RET1496,ORD107157,PRD1002,Bags,2022-04-28,Changed mind,259.42,Canada
+RET1497,ORD107185,PRD1017,Watches,2023-12-18,Better price found,330.2,United States
+RET1498,ORD107192,PRD1031,Belts,2023-06-13,Wrong size,24.77,United States
+RET1499,ORD107197,PRD1023,Sunglasses,2023-03-01,Wrong size,120.94,United States
+RET1500,ORD107198,PRD1001,Bags,2022-03-15,Not as described,148.0,Australia
+RET1501,ORD107206,PRD1024,Sunglasses,2022-07-16,Changed mind,76.03,United States
+RET1502,ORD107239,PRD1024,Sunglasses,2022-12-18,Not as described,76.03,United States
+RET1503,ORD107288,PRD1012,Jewellery,2023-01-01,Not as described,157.31,United Kingdom
+RET1504,ORD107301,PRD1011,Jewellery,2023-12-23,Not as described,79.96,Australia
+RET1505,ORD107311,PRD1017,Watches,2023-01-02,Wrong size,330.2,United States
+RET1506,ORD107329,PRD1019,Watches,2023-07-18,Gift return,394.01,United Kingdom
+RET1507,ORD107340,PRD1029,Scarves,2022-06-25,Wrong size,113.0,United Kingdom
+RET1508,ORD107365,PRD1022,Watches,2023-03-28,Better price found,111.06,Australia
+RET1509,ORD107379,PRD1027,Sunglasses,2023-04-03,Gift return,35.64,United States
+RET1510,ORD107380,PRD1027,Sunglasses,2024-01-20,Not as described,35.64,United Kingdom
+RET1511,ORD107392,PRD1003,Bags,2023-07-21,Defective item,87.9,United Kingdom
+RET1512,ORD107392,PRD1001,Bags,2023-07-13,Changed mind,148.0,United Kingdom
+RET1513,ORD107393,PRD1003,Bags,2024-01-03,Wrong size,87.9,United States
+RET1514,ORD107408,PRD1001,Bags,2023-10-12,Defective item,148.0,Canada
+RET1515,ORD107409,PRD1007,Bags,2022-12-13,Defective item,128.67,United States
+RET1516,ORD107437,PRD1013,Jewellery,2022-10-07,Wrong size,28.54,United States
+RET1517,ORD107451,PRD1019,Watches,2022-05-23,Wrong size,394.01,United States
+RET1518,ORD107491,PRD1003,Bags,2024-09-07,Not as described,87.9,United States
+RET1519,ORD107505,PRD1031,Belts,2022-06-08,Not as described,24.77,United States
+RET1520,ORD107505,PRD1002,Bags,2022-06-11,Changed mind,259.42,United States
+RET1521,ORD107511,PRD1005,Bags,2022-11-19,Better price found,50.66,United States
+RET1522,ORD107596,PRD1020,Watches,2022-06-07,Changed mind,412.66,United Kingdom
+RET1523,ORD107607,PRD1005,Bags,2023-01-11,Wrong size,50.66,Australia
+RET1524,ORD107609,PRD1015,Jewellery,2022-03-08,Not as described,33.82,United States
+RET1525,ORD107623,PRD1003,Bags,2022-12-05,Not as described,87.9,United States
+RET1526,ORD107648,PRD1022,Watches,2024-02-13,Better price found,111.06,United States
+RET1527,ORD107665,PRD1029,Scarves,2022-07-27,Not as described,113.0,United Kingdom
+RET1528,ORD107693,PRD1019,Watches,2023-10-04,Not as described,394.01,United States
+RET1529,ORD107707,PRD1025,Sunglasses,2023-11-29,Changed mind,69.07,United States
+RET1530,ORD107735,PRD1020,Watches,2022-03-12,Defective item,412.66,United States
+RET1531,ORD107737,PRD1019,Watches,2023-11-22,Changed mind,394.01,United States
+RET1532,ORD107741,PRD1025,Sunglasses,2023-03-13,Wrong size,69.07,Australia
+RET1533,ORD107746,PRD1026,Sunglasses,2022-12-03,Not as described,148.49,United Kingdom
+RET1534,ORD107776,PRD1005,Bags,2023-12-30,Wrong size,50.66,United States
+RET1535,ORD107795,PRD1025,Sunglasses,2023-02-11,Defective item,69.07,United States
+RET1536,ORD107796,PRD1025,Sunglasses,2023-03-08,Wrong size,69.07,United States
+RET1537,ORD107828,PRD1008,Bags,2022-12-17,Better price found,51.34,United States
+RET1538,ORD107845,PRD1006,Bags,2023-12-25,Better price found,45.21,United States
+RET1539,ORD107851,PRD1006,Bags,2024-06-25,Better price found,45.21,Canada
+RET1540,ORD107867,PRD1026,Sunglasses,2023-02-07,Gift return,148.49,United States
+RET1541,ORD107947,PRD1016,Jewellery,2023-12-06,Wrong size,23.57,Canada
+RET1542,ORD107952,PRD1020,Watches,2024-07-07,Wrong size,412.66,United Kingdom
+RET1543,ORD108006,PRD1012,Jewellery,2024-07-31,Defective item,157.31,Canada
+RET1544,ORD108021,PRD1031,Belts,2023-12-14,Wrong size,24.77,United Kingdom
+RET1545,ORD108032,PRD1021,Watches,2022-10-23,Not as described,210.92,United Kingdom
+RET1546,ORD108040,PRD1027,Sunglasses,2022-08-08,Defective item,35.64,United States
+RET1547,ORD108043,PRD1007,Bags,2022-07-16,Changed mind,128.67,United States
+RET1548,ORD108058,PRD1024,Sunglasses,2024-04-07,Wrong size,76.03,United States
+RET1549,ORD108063,PRD1029,Scarves,2022-09-23,Changed mind,113.0,United States
+RET1550,ORD108068,PRD1032,Belts,2022-12-11,Defective item,69.94,United States
+RET1551,ORD108074,PRD1006,Bags,2024-10-24,Changed mind,45.21,Canada
+RET1552,ORD108080,PRD1027,Sunglasses,2023-01-12,Better price found,35.64,United States
+RET1553,ORD108094,PRD1030,Scarves,2024-11-02,Wrong size,106.99,United States
+RET1554,ORD108104,PRD1023,Sunglasses,2022-11-06,Wrong size,120.94,United States
+RET1555,ORD108139,PRD1012,Jewellery,2022-12-13,Not as described,157.31,United States
+RET1556,ORD108157,PRD1007,Bags,2023-08-08,Wrong size,128.67,Canada
+RET1557,ORD108175,PRD1032,Belts,2022-03-19,Not as described,69.94,United Kingdom
+RET1558,ORD108177,PRD1003,Bags,2022-06-27,Changed mind,87.9,United States
+RET1559,ORD108186,PRD1014,Jewellery,2023-04-04,Wrong size,109.25,United Kingdom
+RET1560,ORD108190,PRD1001,Bags,2024-01-30,Gift return,148.0,United States
+RET1561,ORD108191,PRD1004,Bags,2022-10-10,Wrong size,136.77,United States
+RET1562,ORD108193,PRD1020,Watches,2022-07-09,Defective item,412.66,United Kingdom
+RET1563,ORD108229,PRD1007,Bags,2022-09-26,Wrong size,128.67,United States
+RET1564,ORD108230,PRD1006,Bags,2022-12-10,Wrong size,45.21,Canada
+RET1565,ORD108243,PRD1019,Watches,2023-07-23,Not as described,394.01,United States
+RET1566,ORD108248,PRD1030,Scarves,2023-05-29,Changed mind,106.99,Canada
+RET1567,ORD108250,PRD1011,Jewellery,2023-08-04,Better price found,79.96,United States
+RET1568,ORD108266,PRD1009,Jewellery,2022-12-27,Wrong size,25.56,Canada
+RET1569,ORD108271,PRD1021,Watches,2023-11-01,Defective item,210.92,United States
+RET1570,ORD108283,PRD1017,Watches,2023-02-22,Not as described,330.2,Australia
+RET1571,ORD108312,PRD1007,Bags,2022-12-10,Wrong size,128.67,United States
+RET1572,ORD108327,PRD1029,Scarves,2022-12-26,Gift return,113.0,United States
+RET1573,ORD108335,PRD1003,Bags,2023-09-09,Changed mind,87.9,United States
+RET1574,ORD108389,PRD1028,Scarves,2022-10-08,Changed mind,92.58,Canada
+RET1575,ORD108404,PRD1032,Belts,2023-12-31,Changed mind,69.94,United Kingdom
+RET1576,ORD108407,PRD1002,Bags,2024-01-26,Not as described,259.42,United States
+RET1577,ORD108408,PRD1009,Jewellery,2022-02-05,Wrong size,25.56,United Kingdom
+RET1578,ORD108440,PRD1006,Bags,2023-01-05,Better price found,45.21,United Kingdom
+RET1579,ORD108449,PRD1024,Sunglasses,2024-02-27,Wrong size,76.03,United States
+RET1580,ORD108456,PRD1020,Watches,2023-05-26,Wrong size,412.66,United States
+RET1581,ORD108464,PRD1003,Bags,2023-12-28,Defective item,87.9,Australia
+RET1582,ORD108470,PRD1020,Watches,2023-12-26,Better price found,412.66,United States
+RET1583,ORD108474,PRD1020,Watches,2022-12-06,Not as described,412.66,Australia
+RET1584,ORD108477,PRD1005,Bags,2022-08-18,Defective item,50.66,United States
+RET1585,ORD108493,PRD1009,Jewellery,2022-11-30,Changed mind,25.56,United Kingdom
+RET1586,ORD108504,PRD1005,Bags,2024-01-12,Wrong size,50.66,United States
+RET1587,ORD108504,PRD1003,Bags,2024-01-23,Changed mind,87.9,United States
+RET1588,ORD108507,PRD1007,Bags,2022-12-28,Changed mind,128.67,Australia
+RET1589,ORD108514,PRD1014,Jewellery,2023-10-24,Wrong size,109.25,Australia
+RET1590,ORD108534,PRD1016,Jewellery,2024-04-30,Gift return,23.57,United States
+RET1591,ORD108553,PRD1030,Scarves,2023-05-30,Gift return,106.99,United States
+RET1592,ORD108555,PRD1004,Bags,2022-08-08,Better price found,136.77,United States
+RET1593,ORD108564,PRD1018,Watches,2022-12-12,Changed mind,289.08,United States
+RET1594,ORD108565,PRD1031,Belts,2024-01-16,Defective item,24.77,United Kingdom
+RET1595,ORD108575,PRD1015,Jewellery,2023-06-14,Not as described,33.82,United States
+RET1596,ORD108578,PRD1002,Bags,2023-01-11,Wrong size,259.42,United Kingdom
+RET1597,ORD108581,PRD1001,Bags,2023-12-16,Not as described,148.0,United Kingdom
+RET1598,ORD108590,PRD1027,Sunglasses,2023-08-09,Changed mind,35.64,United States
+RET1599,ORD108594,PRD1007,Bags,2022-03-22,Not as described,128.67,Canada
+RET1600,ORD108616,PRD1018,Watches,2022-03-15,Changed mind,289.08,Australia
+RET1601,ORD108619,PRD1027,Sunglasses,2024-10-03,Changed mind,35.64,United States
+RET1602,ORD108643,PRD1004,Bags,2023-09-11,Wrong size,136.77,United States
+RET1603,ORD108679,PRD1003,Bags,2022-08-09,Better price found,87.9,United Kingdom
+RET1604,ORD108679,PRD1009,Jewellery,2022-08-26,Wrong size,25.56,United Kingdom
+RET1605,ORD108680,PRD1020,Watches,2023-12-20,Better price found,412.66,United States
+RET1606,ORD108681,PRD1025,Sunglasses,2022-02-17,Not as described,69.07,United States
+RET1607,ORD108685,PRD1013,Jewellery,2024-06-19,Changed mind,28.54,Australia
+RET1608,ORD108705,PRD1032,Belts,2023-08-19,Wrong size,69.94,United States
+RET1609,ORD108744,PRD1006,Bags,2023-07-22,Gift return,45.21,United States
+RET1610,ORD108776,PRD1005,Bags,2024-05-12,Better price found,50.66,Australia
+RET1611,ORD108776,PRD1013,Jewellery,2024-04-28,Better price found,28.54,Australia
+RET1612,ORD108788,PRD1031,Belts,2022-10-31,Better price found,24.77,Canada
+RET1613,ORD108789,PRD1005,Bags,2022-12-10,Not as described,50.66,United States
+RET1614,ORD108812,PRD1003,Bags,2022-03-21,Wrong size,87.9,United States
+RET1615,ORD108824,PRD1010,Jewellery,2022-09-13,Better price found,91.88,Canada
+RET1616,ORD108837,PRD1019,Watches,2022-04-03,Defective item,394.01,Australia
+RET1617,ORD108846,PRD1013,Jewellery,2023-03-22,Wrong size,28.54,United States
+RET1618,ORD108850,PRD1024,Sunglasses,2024-06-25,Wrong size,76.03,United Kingdom
+RET1619,ORD108859,PRD1003,Bags,2022-10-02,Not as described,87.9,United States
+RET1620,ORD108859,PRD1001,Bags,2022-10-05,Wrong size,148.0,United States
+RET1621,ORD108869,PRD1022,Watches,2023-02-21,Defective item,111.06,Canada
+RET1622,ORD108894,PRD1004,Bags,2024-05-27,Changed mind,136.77,United States
+RET1623,ORD108898,PRD1014,Jewellery,2024-09-01,Not as described,109.25,United States
+RET1624,ORD108901,PRD1019,Watches,2022-02-28,Wrong size,394.01,United States
+RET1625,ORD108948,PRD1012,Jewellery,2024-02-26,Defective item,157.31,United States
+RET1626,ORD108962,PRD1015,Jewellery,2022-06-28,Defective item,33.82,United Kingdom
+RET1627,ORD108986,PRD1001,Bags,2022-02-25,Better price found,148.0,Canada
+RET1628,ORD109001,PRD1009,Jewellery,2023-03-14,Changed mind,25.56,United States
+RET1629,ORD109048,PRD1013,Jewellery,2023-06-16,Better price found,28.54,United States
+RET1630,ORD109053,PRD1028,Scarves,2023-05-15,Wrong size,92.58,Canada
+RET1631,ORD109064,PRD1009,Jewellery,2023-09-01,Better price found,25.56,United States
+RET1632,ORD109095,PRD1018,Watches,2024-03-02,Changed mind,289.08,United States
+RET1633,ORD109110,PRD1002,Bags,2022-07-06,Gift return,259.42,United Kingdom
+RET1634,ORD109128,PRD1002,Bags,2023-07-20,Wrong size,259.42,Canada
+RET1635,ORD109142,PRD1009,Jewellery,2023-06-04,Gift return,25.56,United States
+RET1636,ORD109165,PRD1028,Scarves,2023-01-07,Wrong size,92.58,Canada
+RET1637,ORD109166,PRD1008,Bags,2024-09-05,Not as described,51.34,United Kingdom
+RET1638,ORD109210,PRD1027,Sunglasses,2023-01-01,Wrong size,35.64,Australia
+RET1639,ORD109210,PRD1006,Bags,2023-01-07,Changed mind,45.21,Australia
+RET1640,ORD109244,PRD1005,Bags,2023-03-11,Defective item,50.66,United States
+RET1641,ORD109249,PRD1009,Jewellery,2022-04-02,Wrong size,25.56,United States
+RET1642,ORD109273,PRD1002,Bags,2022-02-16,Changed mind,259.42,United States
+RET1643,ORD109279,PRD1020,Watches,2022-08-13,Not as described,412.66,Australia
+RET1644,ORD109307,PRD1019,Watches,2023-12-20,Better price found,394.01,Canada
+RET1645,ORD109321,PRD1033,Belts,2024-03-21,Better price found,86.54,United States
+RET1646,ORD109325,PRD1030,Scarves,2022-06-10,Gift return,106.99,United States
+RET1647,ORD109340,PRD1004,Bags,2022-06-16,Wrong size,136.77,United States
+RET1648,ORD109357,PRD1023,Sunglasses,2022-01-21,Changed mind,120.94,Canada
+RET1649,ORD109361,PRD1030,Scarves,2022-02-26,Wrong size,106.99,Canada
+RET1650,ORD109370,PRD1013,Jewellery,2024-07-05,Wrong size,28.54,United States
+RET1651,ORD109389,PRD1020,Watches,2024-06-25,Wrong size,412.66,Canada
+RET1652,ORD109396,PRD1021,Watches,2024-02-12,Wrong size,210.92,United States
+RET1653,ORD109403,PRD1008,Bags,2024-06-14,Not as described,51.34,Australia
+RET1654,ORD109407,PRD1025,Sunglasses,2023-12-06,Not as described,69.07,United Kingdom
+RET1655,ORD109416,PRD1008,Bags,2023-12-09,Changed mind,51.34,United States
+RET1656,ORD109416,PRD1004,Bags,2023-12-26,Changed mind,136.77,United States
+RET1657,ORD109421,PRD1011,Jewellery,2024-01-04,Better price found,79.96,United States
+RET1658,ORD109438,PRD1033,Belts,2024-01-25,Wrong size,86.54,United Kingdom
+RET1659,ORD109447,PRD1009,Jewellery,2023-09-05,Changed mind,25.56,United Kingdom
+RET1660,ORD109453,PRD1006,Bags,2023-02-07,Not as described,45.21,United States
+RET1661,ORD109454,PRD1005,Bags,2024-09-21,Wrong size,50.66,United States
+RET1662,ORD109466,PRD1018,Watches,2023-12-03,Wrong size,289.08,Canada
+RET1663,ORD109487,PRD1029,Scarves,2022-06-04,Better price found,113.0,United States
+RET1664,ORD109493,PRD1010,Jewellery,2023-02-20,Changed mind,91.88,United States
+RET1665,ORD109493,PRD1004,Bags,2023-03-05,Changed mind,136.77,United States
+RET1666,ORD109496,PRD1020,Watches,2024-11-21,Changed mind,412.66,United States
+RET1667,ORD109500,PRD1001,Bags,2023-03-22,Changed mind,148.0,United States
+RET1668,ORD109501,PRD1013,Jewellery,2022-03-15,Gift return,28.54,Australia
+RET1669,ORD109511,PRD1001,Bags,2023-01-08,Defective item,148.0,United States
+RET1670,ORD109511,PRD1033,Belts,2023-01-04,Changed mind,86.54,United States
+RET1671,ORD109547,PRD1022,Watches,2022-03-12,Wrong size,111.06,United States
+RET1672,ORD109565,PRD1027,Sunglasses,2024-04-11,Defective item,35.64,United States
+RET1673,ORD109579,PRD1002,Bags,2023-10-02,Not as described,259.42,United States
+RET1674,ORD109625,PRD1020,Watches,2022-06-09,Not as described,412.66,United States
+RET1675,ORD109633,PRD1020,Watches,2023-02-10,Not as described,412.66,United States
+RET1676,ORD109638,PRD1001,Bags,2023-04-09,Changed mind,148.0,Canada
+RET1677,ORD109648,PRD1008,Bags,2022-12-19,Changed mind,51.34,United States
+RET1678,ORD109664,PRD1003,Bags,2023-08-02,Defective item,87.9,Australia
+RET1679,ORD109698,PRD1027,Sunglasses,2022-09-29,Wrong size,35.64,United States
+RET1680,ORD109705,PRD1024,Sunglasses,2022-10-03,Defective item,76.03,United States
+RET1681,ORD109716,PRD1004,Bags,2023-06-07,Defective item,136.77,Australia
+RET1682,ORD109755,PRD1009,Jewellery,2023-05-27,Better price found,25.56,Australia
+RET1683,ORD109770,PRD1021,Watches,2024-11-03,Better price found,210.92,United Kingdom
+RET1684,ORD109780,PRD1002,Bags,2022-10-30,Gift return,259.42,United Kingdom
+RET1685,ORD109780,PRD1009,Jewellery,2022-11-09,Not as described,25.56,United Kingdom
+RET1686,ORD109790,PRD1017,Watches,2023-08-06,Not as described,330.2,United Kingdom
+RET1687,ORD109811,PRD1033,Belts,2023-04-03,Better price found,86.54,United States
+RET1688,ORD109820,PRD1013,Jewellery,2023-01-02,Changed mind,28.54,United States
+RET1689,ORD109822,PRD1033,Belts,2022-10-07,Wrong size,86.54,United Kingdom
+RET1690,ORD109827,PRD1008,Bags,2023-06-04,Not as described,51.34,United States
+RET1691,ORD109857,PRD1018,Watches,2022-03-22,Wrong size,289.08,United Kingdom
+RET1692,ORD109859,PRD1013,Jewellery,2022-06-08,Defective item,28.54,United Kingdom
+RET1693,ORD109911,PRD1003,Bags,2023-11-12,Not as described,87.9,Canada
+RET1694,ORD109937,PRD1024,Sunglasses,2023-02-07,Changed mind,76.03,United States
+RET1695,ORD109948,PRD1025,Sunglasses,2023-11-27,Not as described,69.07,United States
+RET1696,ORD109948,PRD1021,Watches,2023-12-03,Changed mind,210.92,United States
+RET1697,ORD109969,PRD1004,Bags,2023-12-03,Changed mind,136.77,United Kingdom
+RET1698,ORD109985,PRD1032,Belts,2022-05-21,Wrong size,69.94,United States
+RET1699,ORD109993,PRD1024,Sunglasses,2022-02-10,Defective item,76.03,United States
+RET1700,ORD109999,PRD1017,Watches,2024-02-17,Wrong size,330.2,Canada
+RET1701,ORD110004,PRD1019,Watches,2024-11-25,Changed mind,394.01,United States
+RET1702,ORD110006,PRD1026,Sunglasses,2022-12-14,Better price found,148.49,United Kingdom
+RET1703,ORD110031,PRD1020,Watches,2022-06-12,Better price found,412.66,United States
+RET1704,ORD110042,PRD1006,Bags,2022-02-06,Better price found,45.21,United States
+RET1705,ORD110075,PRD1019,Watches,2024-10-17,Better price found,394.01,Canada
+RET1706,ORD110121,PRD1023,Sunglasses,2022-07-23,Changed mind,120.94,United States
+RET1707,ORD110131,PRD1004,Bags,2023-02-24,Not as described,136.77,United States
+RET1708,ORD110133,PRD1002,Bags,2024-08-01,Wrong size,259.42,United States
+RET1709,ORD110138,PRD1004,Bags,2023-12-03,Changed mind,136.77,United States
+RET1710,ORD110145,PRD1001,Bags,2023-06-29,Not as described,148.0,Australia
+RET1711,ORD110147,PRD1017,Watches,2022-04-28,Gift return,330.2,United States
+RET1712,ORD110187,PRD1030,Scarves,2024-06-01,Defective item,106.99,Canada
+RET1713,ORD110198,PRD1020,Watches,2022-12-27,Not as described,412.66,Canada
+RET1714,ORD110198,PRD1021,Watches,2023-01-04,Wrong size,210.92,Canada
+RET1715,ORD110213,PRD1008,Bags,2022-02-20,Wrong size,51.34,United States
+RET1716,ORD110220,PRD1008,Bags,2023-01-07,Defective item,51.34,Canada
+RET1717,ORD110275,PRD1013,Jewellery,2022-03-24,Changed mind,28.54,United States
+RET1718,ORD110303,PRD1004,Bags,2024-06-21,Wrong size,136.77,United Kingdom
+RET1719,ORD110303,PRD1008,Bags,2024-07-06,Not as described,51.34,United Kingdom
+RET1720,ORD110368,PRD1021,Watches,2024-01-10,Changed mind,210.92,Canada
+RET1721,ORD110370,PRD1018,Watches,2023-01-06,Wrong size,289.08,Australia
+RET1722,ORD110371,PRD1022,Watches,2023-11-27,Changed mind,111.06,Canada
+RET1723,ORD110380,PRD1030,Scarves,2023-02-28,Defective item,106.99,United States
+RET1724,ORD110417,PRD1007,Bags,2023-02-09,Changed mind,128.67,United States
+RET1725,ORD110420,PRD1024,Sunglasses,2024-10-29,Wrong size,76.03,United States
+RET1726,ORD110422,PRD1014,Jewellery,2024-07-23,Defective item,109.25,United States
+RET1727,ORD110428,PRD1004,Bags,2024-06-14,Wrong size,136.77,United States
+RET1728,ORD110428,PRD1026,Sunglasses,2024-06-18,Not as described,148.49,United States
+RET1729,ORD110454,PRD1014,Jewellery,2024-06-16,Wrong size,109.25,United States
+RET1730,ORD110456,PRD1027,Sunglasses,2022-10-28,Changed mind,35.64,United States
+RET1731,ORD110457,PRD1020,Watches,2022-12-13,Changed mind,412.66,United States
+RET1732,ORD110468,PRD1022,Watches,2022-03-22,Not as described,111.06,United States
+RET1733,ORD110502,PRD1006,Bags,2023-12-02,Wrong size,45.21,United States
+RET1734,ORD110538,PRD1001,Bags,2022-12-16,Defective item,148.0,Australia
+RET1735,ORD110541,PRD1012,Jewellery,2024-04-27,Changed mind,157.31,United States
+RET1736,ORD110551,PRD1008,Bags,2022-05-22,Not as described,51.34,Canada
+RET1737,ORD110561,PRD1005,Bags,2023-06-26,Defective item,50.66,United Kingdom
+RET1738,ORD110566,PRD1003,Bags,2022-12-17,Wrong size,87.9,United States
+RET1739,ORD110575,PRD1007,Bags,2022-11-22,Wrong size,128.67,United States
+RET1740,ORD110590,PRD1025,Sunglasses,2023-03-06,Wrong size,69.07,United States
+RET1741,ORD110594,PRD1005,Bags,2022-04-29,Not as described,50.66,Canada
+RET1742,ORD110613,PRD1029,Scarves,2022-08-01,Changed mind,113.0,United States
+RET1743,ORD110625,PRD1020,Watches,2023-10-24,Better price found,412.66,Australia
+RET1744,ORD110639,PRD1019,Watches,2022-10-14,Defective item,394.01,United States
+RET1745,ORD110648,PRD1027,Sunglasses,2022-02-04,Changed mind,35.64,United Kingdom
+RET1746,ORD110649,PRD1033,Belts,2022-09-26,Not as described,86.54,United States
+RET1747,ORD110668,PRD1004,Bags,2023-03-20,Changed mind,136.77,United States
+RET1748,ORD110673,PRD1021,Watches,2023-07-25,Wrong size,210.92,United States
+RET1749,ORD110701,PRD1018,Watches,2022-06-25,Better price found,289.08,United States
+RET1750,ORD110705,PRD1004,Bags,2023-11-21,Defective item,136.77,United Kingdom
+RET1751,ORD110760,PRD1005,Bags,2024-01-27,Wrong size,50.66,United States
+RET1752,ORD110769,PRD1005,Bags,2022-04-03,Changed mind,50.66,Canada
+RET1753,ORD110783,PRD1020,Watches,2024-06-05,Changed mind,412.66,United Kingdom
+RET1754,ORD110837,PRD1027,Sunglasses,2022-10-10,Not as described,35.64,United States
+RET1755,ORD110839,PRD1017,Watches,2023-05-08,Defective item,330.2,Australia
+RET1756,ORD110846,PRD1019,Watches,2024-05-22,Defective item,394.01,Canada
+RET1757,ORD110852,PRD1018,Watches,2023-12-02,Changed mind,289.08,United States
+RET1758,ORD110858,PRD1008,Bags,2022-03-10,Wrong size,51.34,United States
+RET1759,ORD110866,PRD1020,Watches,2022-02-14,Defective item,412.66,United States
+RET1760,ORD110877,PRD1028,Scarves,2024-08-03,Not as described,92.58,United States
+RET1761,ORD110902,PRD1002,Bags,2022-06-03,Defective item,259.42,United States
+RET1762,ORD110927,PRD1024,Sunglasses,2022-05-17,Changed mind,76.03,United Kingdom
+RET1763,ORD110945,PRD1008,Bags,2024-04-18,Not as described,51.34,United Kingdom
+RET1764,ORD110950,PRD1023,Sunglasses,2022-03-30,Changed mind,120.94,United Kingdom
+RET1765,ORD110964,PRD1004,Bags,2023-12-25,Not as described,136.77,United States
+RET1766,ORD110969,PRD1005,Bags,2024-06-15,Defective item,50.66,United States
+RET1767,ORD110970,PRD1021,Watches,2022-12-17,Changed mind,210.92,Canada
+RET1768,ORD110987,PRD1008,Bags,2023-04-27,Changed mind,51.34,United States
+RET1769,ORD110995,PRD1022,Watches,2022-07-19,Wrong size,111.06,United Kingdom
+RET1770,ORD111006,PRD1007,Bags,2024-11-12,Not as described,128.67,United Kingdom
+RET1771,ORD111011,PRD1007,Bags,2023-10-10,Wrong size,128.67,Australia
+RET1772,ORD111016,PRD1031,Belts,2022-12-23,Defective item,24.77,United Kingdom
+RET1773,ORD111021,PRD1017,Watches,2022-09-26,Not as described,330.2,Canada
+RET1774,ORD111036,PRD1017,Watches,2022-06-28,Not as described,330.2,Australia
+RET1775,ORD111036,PRD1020,Watches,2022-06-27,Wrong size,412.66,Australia
+RET1776,ORD111038,PRD1025,Sunglasses,2023-08-28,Wrong size,69.07,United Kingdom
+RET1777,ORD111050,PRD1011,Jewellery,2022-12-21,Not as described,79.96,United States
+RET1778,ORD111057,PRD1024,Sunglasses,2024-06-22,Defective item,76.03,United States
+RET1779,ORD111095,PRD1017,Watches,2023-12-26,Defective item,330.2,Australia
+RET1780,ORD111106,PRD1002,Bags,2024-04-06,Better price found,259.42,United Kingdom
+RET1781,ORD111144,PRD1006,Bags,2024-03-08,Changed mind,45.21,United Kingdom
+RET1782,ORD111151,PRD1016,Jewellery,2022-04-11,Wrong size,23.57,United Kingdom
+RET1783,ORD111166,PRD1026,Sunglasses,2022-11-30,Defective item,148.49,United States
+RET1784,ORD111198,PRD1005,Bags,2022-02-18,Not as described,50.66,United States
+RET1785,ORD111206,PRD1002,Bags,2024-05-19,Defective item,259.42,United States
+RET1786,ORD111207,PRD1002,Bags,2023-01-10,Changed mind,259.42,United Kingdom
+RET1787,ORD111209,PRD1006,Bags,2023-11-16,Changed mind,45.21,United Kingdom
+RET1788,ORD111218,PRD1023,Sunglasses,2024-08-24,Defective item,120.94,United Kingdom
+RET1789,ORD111218,PRD1018,Watches,2024-08-18,Not as described,289.08,United Kingdom
+RET1790,ORD111276,PRD1010,Jewellery,2023-09-13,Defective item,91.88,United States
+RET1791,ORD111291,PRD1033,Belts,2022-12-25,Defective item,86.54,United States
+RET1792,ORD111293,PRD1008,Bags,2023-05-11,Wrong size,51.34,United States
+RET1793,ORD111298,PRD1029,Scarves,2023-02-06,Wrong size,113.0,United States
+RET1794,ORD111303,PRD1004,Bags,2024-09-27,Changed mind,136.77,United States
+RET1795,ORD111308,PRD1032,Belts,2023-11-10,Gift return,69.94,Australia
+RET1796,ORD111312,PRD1021,Watches,2022-10-21,Changed mind,210.92,Canada
+RET1797,ORD111317,PRD1011,Jewellery,2022-06-09,Defective item,79.96,United States
+RET1798,ORD111329,PRD1001,Bags,2023-11-08,Not as described,148.0,United States
+RET1799,ORD111338,PRD1020,Watches,2022-03-07,Wrong size,412.66,United Kingdom
+RET1800,ORD111355,PRD1017,Watches,2024-01-27,Defective item,330.2,Canada
+RET1801,ORD111364,PRD1002,Bags,2023-12-19,Not as described,259.42,United States
+RET1802,ORD111369,PRD1012,Jewellery,2022-02-07,Wrong size,157.31,United States
+RET1803,ORD111411,PRD1028,Scarves,2022-06-01,Not as described,92.58,United States
+RET1804,ORD111444,PRD1006,Bags,2024-04-10,Changed mind,45.21,United States
+RET1805,ORD111447,PRD1016,Jewellery,2023-01-15,Not as described,23.57,United Kingdom
+RET1806,ORD111458,PRD1021,Watches,2022-06-20,Changed mind,210.92,United States
+RET1807,ORD111463,PRD1013,Jewellery,2022-02-10,Defective item,28.54,United States
+RET1808,ORD111466,PRD1008,Bags,2023-03-18,Wrong size,51.34,United States
+RET1809,ORD111480,PRD1019,Watches,2022-02-10,Not as described,394.01,United States
+RET1810,ORD111481,PRD1030,Scarves,2024-09-07,Not as described,106.99,Canada
+RET1811,ORD111505,PRD1003,Bags,2024-05-30,Wrong size,87.9,Canada
+RET1812,ORD111524,PRD1002,Bags,2022-01-22,Not as described,259.42,United States
+RET1813,ORD111554,PRD1022,Watches,2023-05-16,Wrong size,111.06,United States
+RET1814,ORD111558,PRD1013,Jewellery,2023-11-08,Better price found,28.54,United States
+RET1815,ORD111581,PRD1003,Bags,2023-03-03,Changed mind,87.9,United States
+RET1816,ORD111582,PRD1014,Jewellery,2024-04-05,Changed mind,109.25,United States
+RET1817,ORD111608,PRD1003,Bags,2023-02-03,Changed mind,87.9,United States
+RET1818,ORD111616,PRD1007,Bags,2024-07-24,Changed mind,128.67,United States
+RET1819,ORD111621,PRD1003,Bags,2024-09-30,Wrong size,87.9,United States
+RET1820,ORD111630,PRD1018,Watches,2023-01-19,Wrong size,289.08,Canada
+RET1821,ORD111666,PRD1007,Bags,2022-10-15,Changed mind,128.67,United States
+RET1822,ORD111717,PRD1007,Bags,2024-01-03,Wrong size,128.67,United States
+RET1823,ORD111728,PRD1032,Belts,2022-07-16,Not as described,69.94,Australia
+RET1824,ORD111730,PRD1007,Bags,2024-09-06,Gift return,128.67,Canada
+RET1825,ORD111737,PRD1021,Watches,2023-01-23,Defective item,210.92,United States
+RET1826,ORD111757,PRD1027,Sunglasses,2023-12-31,Defective item,35.64,United Kingdom
+RET1827,ORD111770,PRD1019,Watches,2024-01-11,Wrong size,394.01,United States
+RET1828,ORD111770,PRD1015,Jewellery,2024-01-05,Wrong size,33.82,United States
+RET1829,ORD111775,PRD1007,Bags,2022-10-05,Changed mind,128.67,United States
+RET1830,ORD111776,PRD1011,Jewellery,2022-12-07,Wrong size,79.96,United States
+RET1831,ORD111800,PRD1027,Sunglasses,2023-04-11,Wrong size,35.64,United States
+RET1832,ORD111842,PRD1017,Watches,2023-12-25,Wrong size,330.2,Australia
+RET1833,ORD111853,PRD1008,Bags,2024-08-29,Wrong size,51.34,United Kingdom
+RET1834,ORD111863,PRD1009,Jewellery,2022-11-13,Better price found,25.56,United States
+RET1835,ORD111899,PRD1031,Belts,2023-07-15,Defective item,24.77,United States
+RET1836,ORD111928,PRD1015,Jewellery,2023-11-14,Defective item,33.82,United Kingdom
+RET1837,ORD111930,PRD1008,Bags,2024-07-04,Defective item,51.34,United States
+RET1838,ORD111932,PRD1011,Jewellery,2022-05-11,Better price found,79.96,United States
+RET1839,ORD111956,PRD1023,Sunglasses,2023-02-23,Changed mind,120.94,Australia
+RET1840,ORD111960,PRD1001,Bags,2024-03-09,Defective item,148.0,United States
+RET1841,ORD111976,PRD1027,Sunglasses,2023-06-19,Wrong size,35.64,United States
+RET1842,ORD111983,PRD1007,Bags,2023-05-12,Changed mind,128.67,United States
+RET1843,ORD111992,PRD1022,Watches,2022-11-09,Gift return,111.06,United Kingdom
+RET1844,ORD112007,PRD1017,Watches,2024-08-16,Changed mind,330.2,United Kingdom
+RET1845,ORD112015,PRD1015,Jewellery,2022-02-22,Not as described,33.82,United States
+RET1846,ORD112021,PRD1015,Jewellery,2024-07-07,Changed mind,33.82,Canada
+RET1847,ORD112052,PRD1011,Jewellery,2023-05-11,Changed mind,79.96,United Kingdom
+RET1848,ORD112066,PRD1025,Sunglasses,2022-12-13,Defective item,69.07,United States
+RET1849,ORD112072,PRD1033,Belts,2023-12-01,Not as described,86.54,United States
+RET1850,ORD112076,PRD1008,Bags,2022-02-16,Defective item,51.34,Canada
+RET1851,ORD112096,PRD1016,Jewellery,2023-01-06,Changed mind,23.57,United States
+RET1852,ORD112104,PRD1030,Scarves,2022-12-27,Wrong size,106.99,United States
+RET1853,ORD112125,PRD1030,Scarves,2024-09-08,Gift return,106.99,United States
+RET1854,ORD112129,PRD1021,Watches,2022-11-16,Not as described,210.92,United States
+RET1855,ORD112131,PRD1027,Sunglasses,2022-12-21,Not as described,35.64,United Kingdom
+RET1856,ORD112141,PRD1003,Bags,2023-01-13,Not as described,87.9,United States
+RET1857,ORD112152,PRD1025,Sunglasses,2022-12-09,Changed mind,69.07,United States
+RET1858,ORD112158,PRD1033,Belts,2024-09-01,Wrong size,86.54,United Kingdom
+RET1859,ORD112179,PRD1011,Jewellery,2022-02-02,Wrong size,79.96,Canada
+RET1860,ORD112186,PRD1003,Bags,2022-09-07,Changed mind,87.9,United States
+RET1861,ORD112205,PRD1019,Watches,2023-08-14,Changed mind,394.01,Australia
+RET1862,ORD112245,PRD1033,Belts,2024-01-26,Wrong size,86.54,Australia
+RET1863,ORD112256,PRD1001,Bags,2023-12-16,Wrong size,148.0,United States
+RET1864,ORD112261,PRD1001,Bags,2024-02-17,Wrong size,148.0,Canada
+RET1865,ORD112272,PRD1002,Bags,2022-12-11,Not as described,259.42,United Kingdom
+RET1866,ORD112294,PRD1021,Watches,2024-11-05,Changed mind,210.92,Australia
+RET1867,ORD112329,PRD1014,Jewellery,2023-12-24,Wrong size,109.25,Canada
+RET1868,ORD112332,PRD1023,Sunglasses,2024-11-02,Changed mind,120.94,Australia
+RET1869,ORD112343,PRD1023,Sunglasses,2024-02-19,Not as described,120.94,Canada
+RET1870,ORD112354,PRD1011,Jewellery,2023-03-26,Better price found,79.96,United Kingdom
+RET1871,ORD112386,PRD1018,Watches,2023-10-30,Better price found,289.08,United States
+RET1872,ORD112389,PRD1009,Jewellery,2024-08-01,Wrong size,25.56,United Kingdom
+RET1873,ORD112407,PRD1018,Watches,2023-11-17,Defective item,289.08,Canada
+RET1874,ORD112416,PRD1023,Sunglasses,2023-12-07,Wrong size,120.94,Australia
+RET1875,ORD112421,PRD1017,Watches,2024-01-07,Gift return,330.2,United States
+RET1876,ORD112427,PRD1005,Bags,2024-08-07,Changed mind,50.66,United States
+RET1877,ORD112433,PRD1004,Bags,2023-01-02,Wrong size,136.77,United Kingdom
+RET1878,ORD112444,PRD1022,Watches,2024-01-03,Wrong size,111.06,United States
+RET1879,ORD112482,PRD1005,Bags,2023-10-27,Changed mind,50.66,Australia
+RET1880,ORD112532,PRD1001,Bags,2023-04-07,Not as described,148.0,United States
+RET1881,ORD112532,PRD1021,Watches,2023-04-12,Wrong size,210.92,United States
+RET1882,ORD112578,PRD1003,Bags,2022-10-24,Wrong size,87.9,United States
+RET1883,ORD112610,PRD1014,Jewellery,2023-07-29,Defective item,109.25,United Kingdom
+RET1884,ORD112646,PRD1019,Watches,2023-07-15,Wrong size,394.01,Canada
+RET1885,ORD112686,PRD1016,Jewellery,2022-06-27,Defective item,23.57,Australia
+RET1886,ORD112705,PRD1026,Sunglasses,2023-11-19,Wrong size,148.49,United States
+RET1887,ORD112705,PRD1030,Scarves,2023-11-11,Changed mind,106.99,United States
+RET1888,ORD112705,PRD1017,Watches,2023-11-30,Wrong size,330.2,United States
+RET1889,ORD112745,PRD1017,Watches,2022-09-17,Better price found,330.2,United Kingdom
+RET1890,ORD112749,PRD1028,Scarves,2023-03-22,Defective item,92.58,United States
+RET1891,ORD112749,PRD1005,Bags,2023-03-17,Better price found,50.66,United States
+RET1892,ORD112750,PRD1004,Bags,2023-03-16,Changed mind,136.77,Canada
+RET1893,ORD112752,PRD1017,Watches,2023-12-06,Wrong size,330.2,United States
+RET1894,ORD112758,PRD1024,Sunglasses,2024-08-19,Changed mind,76.03,United States
+RET1895,ORD112765,PRD1001,Bags,2023-08-11,Wrong size,148.0,United States
+RET1896,ORD112801,PRD1023,Sunglasses,2023-01-10,Changed mind,120.94,United Kingdom
+RET1897,ORD112818,PRD1011,Jewellery,2024-07-07,Wrong size,79.96,United States
+RET1898,ORD112840,PRD1018,Watches,2023-05-31,Better price found,289.08,United States
+RET1899,ORD112872,PRD1027,Sunglasses,2024-06-30,Wrong size,35.64,Canada
+RET1900,ORD112877,PRD1022,Watches,2022-09-06,Wrong size,111.06,United States
+RET1901,ORD112897,PRD1003,Bags,2024-04-05,Better price found,87.9,United Kingdom
+RET1902,ORD112898,PRD1007,Bags,2024-08-25,Changed mind,128.67,United States
+RET1903,ORD112912,PRD1011,Jewellery,2022-10-17,Not as described,79.96,Canada
+RET1904,ORD112934,PRD1013,Jewellery,2024-03-16,Wrong size,28.54,United States
+RET1905,ORD112975,PRD1009,Jewellery,2022-02-14,Wrong size,25.56,United Kingdom
+RET1906,ORD112994,PRD1008,Bags,2022-06-09,Wrong size,51.34,United States
+RET1907,ORD112997,PRD1007,Bags,2023-08-03,Not as described,128.67,United States
+RET1908,ORD113015,PRD1025,Sunglasses,2024-03-01,Better price found,69.07,United Kingdom
+RET1909,ORD113025,PRD1013,Jewellery,2023-03-06,Changed mind,28.54,United States
+RET1910,ORD113076,PRD1004,Bags,2024-03-24,Not as described,136.77,United States
+RET1911,ORD113083,PRD1019,Watches,2023-12-01,Wrong size,394.01,United States
+RET1912,ORD113085,PRD1002,Bags,2022-11-29,Better price found,259.42,United Kingdom
+RET1913,ORD113151,PRD1023,Sunglasses,2023-05-08,Wrong size,120.94,United States
+RET1914,ORD113171,PRD1007,Bags,2022-12-25,Not as described,128.67,United States
+RET1915,ORD113183,PRD1019,Watches,2022-12-23,Gift return,394.01,United Kingdom
+RET1916,ORD113189,PRD1008,Bags,2024-01-24,Defective item,51.34,United States
+RET1917,ORD113193,PRD1025,Sunglasses,2022-12-05,Changed mind,69.07,Canada
+RET1918,ORD113198,PRD1005,Bags,2023-01-21,Changed mind,50.66,United States
+RET1919,ORD113222,PRD1024,Sunglasses,2023-11-26,Better price found,76.03,United States
+RET1920,ORD113230,PRD1002,Bags,2023-07-30,Changed mind,259.42,United States
+RET1921,ORD113267,PRD1013,Jewellery,2023-12-26,Changed mind,28.54,United Kingdom
+RET1922,ORD113275,PRD1001,Bags,2023-10-04,Defective item,148.0,United States
+RET1923,ORD113280,PRD1028,Scarves,2022-08-27,Not as described,92.58,United Kingdom
+RET1924,ORD113281,PRD1008,Bags,2024-10-06,Wrong size,51.34,Canada
+RET1925,ORD113283,PRD1030,Scarves,2024-09-08,Not as described,106.99,United Kingdom
+RET1926,ORD113285,PRD1004,Bags,2022-03-23,Not as described,136.77,United States
+RET1927,ORD113287,PRD1017,Watches,2024-07-02,Wrong size,330.2,Australia
+RET1928,ORD113302,PRD1003,Bags,2022-07-31,Changed mind,87.9,United Kingdom
+RET1929,ORD113313,PRD1022,Watches,2023-06-13,Changed mind,111.06,Canada
+RET1930,ORD113318,PRD1012,Jewellery,2022-08-16,Defective item,157.31,Australia
+RET1931,ORD113336,PRD1011,Jewellery,2023-12-19,Defective item,79.96,United States
+RET1932,ORD113343,PRD1025,Sunglasses,2022-06-19,Changed mind,69.07,United Kingdom
+RET1933,ORD113347,PRD1004,Bags,2024-03-11,Wrong size,136.77,United States
+RET1934,ORD113353,PRD1020,Watches,2023-03-08,Better price found,412.66,Canada
+RET1935,ORD113437,PRD1001,Bags,2023-08-15,Wrong size,148.0,United States
+RET1936,ORD113454,PRD1017,Watches,2023-04-26,Defective item,330.2,Canada
+RET1937,ORD113462,PRD1003,Bags,2022-08-20,Wrong size,87.9,United States
+RET1938,ORD113462,PRD1006,Bags,2022-08-14,Changed mind,45.21,United States
+RET1939,ORD113470,PRD1012,Jewellery,2022-09-06,Better price found,157.31,Canada
+RET1940,ORD113488,PRD1031,Belts,2022-03-29,Not as described,24.77,United States
+RET1941,ORD113516,PRD1001,Bags,2023-06-06,Wrong size,148.0,Canada
+RET1942,ORD113521,PRD1026,Sunglasses,2022-12-04,Defective item,148.49,Canada
+RET1943,ORD113539,PRD1027,Sunglasses,2024-04-05,Defective item,35.64,United States
+RET1944,ORD113553,PRD1025,Sunglasses,2022-12-16,Not as described,69.07,Canada
+RET1945,ORD113572,PRD1019,Watches,2023-12-01,Defective item,394.01,United Kingdom
+RET1946,ORD113583,PRD1012,Jewellery,2022-09-29,Wrong size,157.31,Canada
+RET1947,ORD113602,PRD1007,Bags,2023-12-20,Better price found,128.67,United Kingdom
+RET1948,ORD113604,PRD1016,Jewellery,2022-04-03,Defective item,23.57,United Kingdom
+RET1949,ORD113607,PRD1026,Sunglasses,2022-02-06,Defective item,148.49,United States
+RET1950,ORD113635,PRD1022,Watches,2022-04-10,Better price found,111.06,United States
+RET1951,ORD113636,PRD1006,Bags,2024-02-01,Wrong size,45.21,United Kingdom
+RET1952,ORD113690,PRD1012,Jewellery,2024-05-29,Changed mind,157.31,United States
+RET1953,ORD113691,PRD1019,Watches,2024-05-20,Better price found,394.01,Australia
+RET1954,ORD113694,PRD1005,Bags,2023-03-28,Changed mind,50.66,United States
+RET1955,ORD113724,PRD1017,Watches,2023-12-08,Defective item,330.2,United States
+RET1956,ORD113724,PRD1019,Watches,2023-12-04,Changed mind,394.01,United States
+RET1957,ORD113732,PRD1025,Sunglasses,2023-11-20,Defective item,69.07,United States
+RET1958,ORD113738,PRD1002,Bags,2022-10-10,Defective item,259.42,United States
+RET1959,ORD113770,PRD1022,Watches,2024-03-23,Defective item,111.06,Canada
+RET1960,ORD113791,PRD1012,Jewellery,2023-07-22,Changed mind,157.31,United States
+RET1961,ORD113795,PRD1017,Watches,2023-07-11,Wrong size,330.2,Canada
+RET1962,ORD113813,PRD1021,Watches,2022-03-01,Changed mind,210.92,United States
+RET1963,ORD113817,PRD1012,Jewellery,2024-04-03,Better price found,157.31,United States
+RET1964,ORD113824,PRD1021,Watches,2024-11-07,Changed mind,210.92,Canada
+RET1965,ORD113826,PRD1019,Watches,2022-12-11,Better price found,394.01,United States
+RET1966,ORD113830,PRD1008,Bags,2023-08-18,Defective item,51.34,United States
+RET1967,ORD113833,PRD1009,Jewellery,2022-12-22,Not as described,25.56,Canada
+RET1968,ORD113845,PRD1032,Belts,2022-02-26,Changed mind,69.94,United States
+RET1969,ORD113856,PRD1033,Belts,2023-01-15,Wrong size,86.54,United States
+RET1970,ORD113857,PRD1025,Sunglasses,2023-11-22,Wrong size,69.07,United States
+RET1971,ORD113857,PRD1001,Bags,2023-11-21,Not as described,148.0,United States
+RET1972,ORD113868,PRD1001,Bags,2023-10-28,Not as described,148.0,United Kingdom
+RET1973,ORD113872,PRD1026,Sunglasses,2022-09-20,Defective item,148.49,United States
+RET1974,ORD113888,PRD1002,Bags,2024-02-19,Better price found,259.42,United States
+RET1975,ORD113918,PRD1028,Scarves,2024-06-17,Defective item,92.58,United Kingdom
+RET1976,ORD113927,PRD1002,Bags,2022-03-04,Wrong size,259.42,United States
+RET1977,ORD113932,PRD1021,Watches,2024-05-02,Changed mind,210.92,United States
+RET1978,ORD113938,PRD1007,Bags,2022-12-09,Wrong size,128.67,United Kingdom
+RET1979,ORD113938,PRD1013,Jewellery,2022-12-20,Changed mind,28.54,United Kingdom
+RET1980,ORD113947,PRD1008,Bags,2022-11-17,Wrong size,51.34,United States
+RET1981,ORD113970,PRD1027,Sunglasses,2022-04-13,Wrong size,35.64,United States
+RET1982,ORD113975,PRD1026,Sunglasses,2024-01-10,Changed mind,148.49,Canada
+RET1983,ORD114005,PRD1018,Watches,2023-08-07,Wrong size,289.08,Canada
+RET1984,ORD114007,PRD1023,Sunglasses,2022-07-11,Changed mind,120.94,United States
+RET1985,ORD114013,PRD1021,Watches,2023-01-23,Changed mind,210.92,United States
+RET1986,ORD114015,PRD1020,Watches,2023-11-08,Defective item,412.66,United States
+RET1987,ORD114053,PRD1018,Watches,2022-08-02,Wrong size,289.08,United States
+RET1988,ORD114057,PRD1016,Jewellery,2023-07-30,Defective item,23.57,United States
+RET1989,ORD114070,PRD1005,Bags,2024-03-22,Not as described,50.66,United States
+RET1990,ORD114080,PRD1003,Bags,2022-12-14,Changed mind,87.9,United Kingdom
+RET1991,ORD114083,PRD1028,Scarves,2022-11-16,Not as described,92.58,Australia
+RET1992,ORD114090,PRD1001,Bags,2023-06-15,Gift return,148.0,United States
+RET1993,ORD114093,PRD1025,Sunglasses,2023-06-01,Changed mind,69.07,United States
+RET1994,ORD114103,PRD1024,Sunglasses,2023-06-24,Defective item,76.03,United Kingdom
+RET1995,ORD114107,PRD1004,Bags,2023-12-21,Wrong size,136.77,Australia
+RET1996,ORD114152,PRD1022,Watches,2022-10-06,Changed mind,111.06,United Kingdom
+RET1997,ORD114167,PRD1020,Watches,2022-03-23,Gift return,412.66,Canada
+RET1998,ORD114167,PRD1014,Jewellery,2022-03-02,Gift return,109.25,Canada
+RET1999,ORD114176,PRD1004,Bags,2023-11-13,Defective item,136.77,Australia
+RET2000,ORD114183,PRD1001,Bags,2023-05-09,Defective item,148.0,United States
+RET2001,ORD114188,PRD1002,Bags,2022-05-03,Not as described,259.42,United Kingdom
+RET2002,ORD114197,PRD1015,Jewellery,2022-03-31,Not as described,33.82,United States
+RET2003,ORD114208,PRD1026,Sunglasses,2023-12-30,Wrong size,148.49,Australia
+RET2004,ORD114222,PRD1030,Scarves,2023-01-28,Changed mind,106.99,United States
+RET2005,ORD114240,PRD1011,Jewellery,2022-06-26,Not as described,79.96,United States
+RET2006,ORD114252,PRD1004,Bags,2024-09-10,Not as described,136.77,United States
+RET2007,ORD114256,PRD1016,Jewellery,2022-08-26,Better price found,23.57,Canada
+RET2008,ORD114267,PRD1005,Bags,2023-02-18,Better price found,50.66,United States
+RET2009,ORD114280,PRD1024,Sunglasses,2022-08-20,Changed mind,76.03,United Kingdom
+RET2010,ORD114322,PRD1002,Bags,2022-07-19,Not as described,259.42,Australia
+RET2011,ORD114327,PRD1032,Belts,2024-01-22,Wrong size,69.94,United States
+RET2012,ORD114329,PRD1019,Watches,2024-04-20,Better price found,394.01,United Kingdom
+RET2013,ORD114341,PRD1007,Bags,2023-11-21,Wrong size,128.67,United Kingdom
+RET2014,ORD114401,PRD1030,Scarves,2022-05-05,Wrong size,106.99,United Kingdom
+RET2015,ORD114412,PRD1030,Scarves,2022-03-15,Changed mind,106.99,United States
+RET2016,ORD114455,PRD1021,Watches,2024-05-28,Not as described,210.92,United States
+RET2017,ORD114492,PRD1004,Bags,2024-02-20,Not as described,136.77,Canada
+RET2018,ORD114497,PRD1003,Bags,2023-06-11,Not as described,87.9,United States
+RET2019,ORD114509,PRD1016,Jewellery,2023-06-27,Not as described,23.57,United States
+RET2020,ORD114526,PRD1022,Watches,2023-11-24,Not as described,111.06,Australia
+RET2021,ORD114544,PRD1017,Watches,2022-10-07,Defective item,330.2,United Kingdom
+RET2022,ORD114547,PRD1022,Watches,2023-05-17,Not as described,111.06,Canada
+RET2023,ORD114572,PRD1013,Jewellery,2024-05-22,Better price found,28.54,United States
+RET2024,ORD114587,PRD1003,Bags,2023-05-20,Defective item,87.9,United States
+RET2025,ORD114602,PRD1002,Bags,2022-04-30,Wrong size,259.42,United States
+RET2026,ORD114609,PRD1026,Sunglasses,2023-06-24,Wrong size,148.49,United States
+RET2027,ORD114631,PRD1010,Jewellery,2024-10-19,Changed mind,91.88,United States
+RET2028,ORD114644,PRD1028,Scarves,2022-06-01,Changed mind,92.58,United States
+RET2029,ORD114644,PRD1026,Sunglasses,2022-06-06,Better price found,148.49,United States
+RET2030,ORD114661,PRD1006,Bags,2022-12-18,Not as described,45.21,United Kingdom
+RET2031,ORD114676,PRD1004,Bags,2024-01-19,Changed mind,136.77,United States
+RET2032,ORD114681,PRD1032,Belts,2023-04-22,Better price found,69.94,United States
+RET2033,ORD114727,PRD1025,Sunglasses,2023-10-19,Wrong size,69.07,United Kingdom
+RET2034,ORD114743,PRD1006,Bags,2023-09-22,Wrong size,45.21,Canada
+RET2035,ORD114820,PRD1021,Watches,2024-10-21,Better price found,210.92,United States
+RET2036,ORD114822,PRD1014,Jewellery,2022-05-26,Defective item,109.25,United States
+RET2037,ORD114856,PRD1019,Watches,2022-04-04,Wrong size,394.01,Australia
+RET2038,ORD114858,PRD1008,Bags,2023-01-10,Wrong size,51.34,United States
+RET2039,ORD114904,PRD1005,Bags,2024-01-23,Wrong size,50.66,United States
+RET2040,ORD114907,PRD1022,Watches,2023-11-12,Changed mind,111.06,United States
+RET2041,ORD114959,PRD1018,Watches,2023-02-28,Better price found,289.08,United Kingdom
+RET2042,ORD114964,PRD1018,Watches,2022-11-14,Not as described,289.08,United States
+RET2043,ORD114992,PRD1015,Jewellery,2023-06-02,Wrong size,33.82,Canada
+RET2044,ORD115018,PRD1019,Watches,2022-12-27,Wrong size,394.01,Canada
+RET2045,ORD115021,PRD1031,Belts,2022-10-16,Wrong size,24.77,United Kingdom
+RET2046,ORD115038,PRD1004,Bags,2023-06-05,Better price found,136.77,Canada
+RET2047,ORD115044,PRD1004,Bags,2024-01-16,Wrong size,136.77,Australia
+RET2048,ORD115064,PRD1019,Watches,2022-07-23,Better price found,394.01,United States
+RET2049,ORD115077,PRD1019,Watches,2022-03-28,Wrong size,394.01,Canada
+RET2050,ORD115094,PRD1013,Jewellery,2024-01-07,Defective item,28.54,United States
+RET2051,ORD115096,PRD1026,Sunglasses,2023-07-27,Not as described,148.49,Australia
+RET2052,ORD115143,PRD1018,Watches,2022-09-19,Changed mind,289.08,United Kingdom
+RET2053,ORD115144,PRD1003,Bags,2022-04-05,Wrong size,87.9,Canada
+RET2054,ORD115192,PRD1020,Watches,2023-05-10,Better price found,412.66,United Kingdom
+RET2055,ORD115208,PRD1006,Bags,2024-10-04,Defective item,45.21,United States
+RET2056,ORD115217,PRD1004,Bags,2024-01-07,Changed mind,136.77,United States
+RET2057,ORD115225,PRD1023,Sunglasses,2024-02-17,Defective item,120.94,Australia
+RET2058,ORD115225,PRD1010,Jewellery,2024-03-02,Wrong size,91.88,Australia
+RET2059,ORD115230,PRD1029,Scarves,2022-07-03,Better price found,113.0,United Kingdom
+RET2060,ORD115233,PRD1019,Watches,2024-09-05,Defective item,394.01,United States
+RET2061,ORD115241,PRD1022,Watches,2022-11-23,Changed mind,111.06,United States
+RET2062,ORD115256,PRD1007,Bags,2023-04-09,Wrong size,128.67,United States
+RET2063,ORD115259,PRD1006,Bags,2023-01-04,Defective item,45.21,Australia
+RET2064,ORD115269,PRD1019,Watches,2022-08-19,Better price found,394.01,United Kingdom
+RET2065,ORD115269,PRD1011,Jewellery,2022-08-11,Not as described,79.96,United Kingdom
+RET2066,ORD115284,PRD1006,Bags,2024-06-11,Wrong size,45.21,United Kingdom
+RET2067,ORD115289,PRD1015,Jewellery,2023-03-16,Better price found,33.82,United States
+RET2068,ORD115304,PRD1020,Watches,2022-12-17,Not as described,412.66,United States
+RET2069,ORD115319,PRD1009,Jewellery,2024-05-17,Wrong size,25.56,United States
+RET2070,ORD115322,PRD1015,Jewellery,2022-09-21,Defective item,33.82,United States
+RET2071,ORD115337,PRD1013,Jewellery,2024-05-23,Wrong size,28.54,United States
+RET2072,ORD115338,PRD1018,Watches,2022-06-18,Changed mind,289.08,United States
+RET2073,ORD115338,PRD1021,Watches,2022-06-20,Wrong size,210.92,United States
+RET2074,ORD115376,PRD1016,Jewellery,2022-06-07,Defective item,23.57,Canada
+RET2075,ORD115385,PRD1003,Bags,2023-12-18,Changed mind,87.9,Canada
+RET2076,ORD115386,PRD1002,Bags,2023-06-24,Better price found,259.42,United States
+RET2077,ORD115389,PRD1031,Belts,2022-11-26,Wrong size,24.77,United States
+RET2078,ORD115396,PRD1020,Watches,2022-02-17,Better price found,412.66,Canada
+RET2079,ORD115405,PRD1004,Bags,2023-03-08,Wrong size,136.77,Canada
+RET2080,ORD115412,PRD1025,Sunglasses,2024-06-24,Wrong size,69.07,United States
+RET2081,ORD115414,PRD1015,Jewellery,2022-03-29,Wrong size,33.82,Australia
+RET2082,ORD115436,PRD1014,Jewellery,2023-05-21,Wrong size,109.25,United States
+RET2083,ORD115436,PRD1016,Jewellery,2023-05-19,Changed mind,23.57,United States
+RET2084,ORD115451,PRD1013,Jewellery,2023-11-28,Not as described,28.54,United States
+RET2085,ORD115502,PRD1025,Sunglasses,2024-04-13,Defective item,69.07,United States
+RET2086,ORD115518,PRD1001,Bags,2024-06-22,Changed mind,148.0,United Kingdom
+RET2087,ORD115533,PRD1022,Watches,2024-04-15,Defective item,111.06,Canada
+RET2088,ORD115539,PRD1023,Sunglasses,2024-09-22,Changed mind,120.94,United States
+RET2089,ORD115551,PRD1010,Jewellery,2022-12-09,Better price found,91.88,Australia
+RET2090,ORD115557,PRD1001,Bags,2022-03-19,Defective item,148.0,United States
+RET2091,ORD115559,PRD1023,Sunglasses,2024-11-03,Better price found,120.94,United States
+RET2092,ORD115567,PRD1029,Scarves,2024-11-06,Changed mind,113.0,Canada
+RET2093,ORD115583,PRD1001,Bags,2023-12-09,Not as described,148.0,United States
+RET2094,ORD115593,PRD1006,Bags,2023-12-22,Not as described,45.21,United States
+RET2095,ORD115609,PRD1005,Bags,2022-01-30,Defective item,50.66,United States
+RET2096,ORD115610,PRD1030,Scarves,2024-09-29,Wrong size,106.99,United States
+RET2097,ORD115693,PRD1010,Jewellery,2022-12-24,Defective item,91.88,Australia
+RET2098,ORD115708,PRD1007,Bags,2023-10-21,Wrong size,128.67,United Kingdom
+RET2099,ORD115718,PRD1004,Bags,2022-12-19,Defective item,136.77,United States
+RET2100,ORD115724,PRD1020,Watches,2022-08-05,Changed mind,412.66,United States
+RET2101,ORD115725,PRD1027,Sunglasses,2024-10-08,Not as described,35.64,United States
+RET2102,ORD115739,PRD1001,Bags,2022-02-25,Defective item,148.0,United Kingdom
+RET2103,ORD115764,PRD1011,Jewellery,2023-01-01,Defective item,79.96,United States
+RET2104,ORD115764,PRD1033,Belts,2022-12-28,Wrong size,86.54,United States
+RET2105,ORD115766,PRD1005,Bags,2023-08-22,Wrong size,50.66,Canada
+RET2106,ORD115767,PRD1025,Sunglasses,2023-12-28,Defective item,69.07,United States
+RET2107,ORD115785,PRD1020,Watches,2023-08-25,Changed mind,412.66,United States
+RET2108,ORD115819,PRD1026,Sunglasses,2022-02-22,Changed mind,148.49,United Kingdom
+RET2109,ORD115903,PRD1007,Bags,2022-12-18,Wrong size,128.67,United States
+RET2110,ORD115923,PRD1027,Sunglasses,2024-08-10,Changed mind,35.64,Australia
+RET2111,ORD115925,PRD1001,Bags,2022-12-14,Gift return,148.0,United States
+RET2112,ORD115938,PRD1024,Sunglasses,2023-03-17,Not as described,76.03,United States
+RET2113,ORD115952,PRD1001,Bags,2022-11-22,Better price found,148.0,United Kingdom
+RET2114,ORD115987,PRD1005,Bags,2022-09-12,Defective item,50.66,United States
+RET2115,ORD116001,PRD1017,Watches,2023-11-30,Changed mind,330.2,United Kingdom
+RET2116,ORD116019,PRD1002,Bags,2022-11-23,Gift return,259.42,United States
+RET2117,ORD116024,PRD1005,Bags,2022-08-16,Not as described,50.66,United Kingdom
+RET2118,ORD116042,PRD1010,Jewellery,2023-06-23,Defective item,91.88,United States
+RET2119,ORD116053,PRD1005,Bags,2023-03-06,Defective item,50.66,United States
+RET2120,ORD116066,PRD1019,Watches,2024-01-11,Wrong size,394.01,United Kingdom
+RET2121,ORD116074,PRD1003,Bags,2023-07-25,Not as described,87.9,United Kingdom
+RET2122,ORD116086,PRD1028,Scarves,2022-11-10,Wrong size,92.58,Australia
+RET2123,ORD116089,PRD1024,Sunglasses,2022-12-07,Changed mind,76.03,United States
+RET2124,ORD116089,PRD1001,Bags,2022-12-17,Wrong size,148.0,United States
+RET2125,ORD116110,PRD1028,Scarves,2023-01-02,Wrong size,92.58,United States
+RET2126,ORD116150,PRD1003,Bags,2022-11-09,Changed mind,87.9,United States
+RET2127,ORD116167,PRD1023,Sunglasses,2022-06-27,Changed mind,120.94,Australia
+RET2128,ORD116184,PRD1008,Bags,2024-03-31,Changed mind,51.34,Australia
+RET2129,ORD116196,PRD1017,Watches,2024-04-17,Wrong size,330.2,United States
+RET2130,ORD116198,PRD1031,Belts,2024-02-21,Changed mind,24.77,Canada
+RET2131,ORD116209,PRD1008,Bags,2024-07-09,Changed mind,51.34,United States
+RET2132,ORD116216,PRD1003,Bags,2022-07-14,Changed mind,87.9,Canada
+RET2133,ORD116216,PRD1008,Bags,2022-07-15,Changed mind,51.34,Canada
+RET2134,ORD116220,PRD1021,Watches,2022-10-10,Changed mind,210.92,United States
+RET2135,ORD116234,PRD1007,Bags,2024-01-04,Defective item,128.67,United States
+RET2136,ORD116234,PRD1017,Watches,2023-12-23,Wrong size,330.2,United States
+RET2137,ORD116236,PRD1029,Scarves,2023-11-03,Wrong size,113.0,United Kingdom
+RET2138,ORD116256,PRD1023,Sunglasses,2022-09-08,Wrong size,120.94,United Kingdom
+RET2139,ORD116272,PRD1003,Bags,2022-02-17,Changed mind,87.9,Canada
+RET2140,ORD116286,PRD1013,Jewellery,2024-11-09,Not as described,28.54,Australia
+RET2141,ORD116315,PRD1008,Bags,2022-10-11,Wrong size,51.34,United States
+RET2142,ORD116324,PRD1008,Bags,2023-10-29,Wrong size,51.34,Canada
+RET2143,ORD116352,PRD1005,Bags,2022-02-04,Wrong size,50.66,United States
+RET2144,ORD116362,PRD1026,Sunglasses,2023-10-29,Changed mind,148.49,Australia
+RET2145,ORD116365,PRD1003,Bags,2022-07-04,Changed mind,87.9,United Kingdom
+RET2146,ORD116375,PRD1009,Jewellery,2023-01-17,Wrong size,25.56,United States
+RET2147,ORD116401,PRD1007,Bags,2023-05-03,Defective item,128.67,United States
+RET2148,ORD116414,PRD1002,Bags,2024-03-20,Wrong size,259.42,United Kingdom
+RET2149,ORD116424,PRD1010,Jewellery,2024-09-28,Wrong size,91.88,United Kingdom
+RET2150,ORD116437,PRD1020,Watches,2022-06-25,Wrong size,412.66,United Kingdom
+RET2151,ORD116437,PRD1009,Jewellery,2022-06-24,Better price found,25.56,United Kingdom
+RET2152,ORD116449,PRD1015,Jewellery,2024-01-17,Not as described,33.82,Australia
+RET2153,ORD116504,PRD1029,Scarves,2024-03-18,Wrong size,113.0,United Kingdom
+RET2154,ORD116515,PRD1027,Sunglasses,2022-12-15,Not as described,35.64,United Kingdom
+RET2155,ORD116539,PRD1020,Watches,2023-02-15,Changed mind,412.66,Canada
+RET2156,ORD116547,PRD1002,Bags,2022-11-20,Defective item,259.42,United States
+RET2157,ORD116558,PRD1021,Watches,2023-05-02,Changed mind,210.92,Canada
+RET2158,ORD116566,PRD1002,Bags,2022-12-24,Not as described,259.42,United States
+RET2159,ORD116571,PRD1003,Bags,2022-08-13,Defective item,87.9,United States
+RET2160,ORD116578,PRD1018,Watches,2024-03-12,Wrong size,289.08,United Kingdom
+RET2161,ORD116578,PRD1022,Watches,2024-03-06,Changed mind,111.06,United Kingdom
+RET2162,ORD116621,PRD1010,Jewellery,2022-02-06,Defective item,91.88,United States
+RET2163,ORD116636,PRD1016,Jewellery,2024-08-09,Changed mind,23.57,United States
+RET2164,ORD116640,PRD1024,Sunglasses,2024-01-08,Not as described,76.03,United States
+RET2165,ORD116651,PRD1010,Jewellery,2024-07-31,Wrong size,91.88,United States
+RET2166,ORD116688,PRD1021,Watches,2023-05-01,Defective item,210.92,United States
+RET2167,ORD116694,PRD1020,Watches,2023-08-29,Defective item,412.66,United States
+RET2168,ORD116729,PRD1031,Belts,2023-09-09,Defective item,24.77,United States
+RET2169,ORD116730,PRD1002,Bags,2024-06-01,Not as described,259.42,United States
+RET2170,ORD116766,PRD1033,Belts,2022-12-18,Changed mind,86.54,United States
+RET2171,ORD116793,PRD1003,Bags,2022-06-26,Wrong size,87.9,United States
+RET2172,ORD116824,PRD1006,Bags,2024-01-01,Not as described,45.21,United States
+RET2173,ORD116863,PRD1030,Scarves,2024-02-27,Not as described,106.99,United States
+RET2174,ORD116866,PRD1022,Watches,2023-12-12,Defective item,111.06,United Kingdom
+RET2175,ORD116867,PRD1005,Bags,2024-02-18,Not as described,50.66,United States
+RET2176,ORD116890,PRD1006,Bags,2022-06-30,Not as described,45.21,United Kingdom
+RET2177,ORD116900,PRD1026,Sunglasses,2024-11-04,Changed mind,148.49,Australia
+RET2178,ORD116904,PRD1015,Jewellery,2024-08-10,Not as described,33.82,United States
+RET2179,ORD116914,PRD1007,Bags,2024-02-20,Defective item,128.67,United Kingdom
+RET2180,ORD116927,PRD1001,Bags,2023-07-05,Not as described,148.0,Canada
+RET2181,ORD116943,PRD1020,Watches,2024-05-29,Gift return,412.66,United States
+RET2182,ORD116966,PRD1009,Jewellery,2023-12-19,Changed mind,25.56,United States
+RET2183,ORD116977,PRD1003,Bags,2022-09-14,Changed mind,87.9,United States
+RET2184,ORD117017,PRD1030,Scarves,2023-11-15,Defective item,106.99,Canada
+RET2185,ORD117063,PRD1023,Sunglasses,2024-02-18,Wrong size,120.94,United States
+RET2186,ORD117065,PRD1033,Belts,2022-03-04,Wrong size,86.54,United States
+RET2187,ORD117087,PRD1023,Sunglasses,2023-03-17,Changed mind,120.94,United States
+RET2188,ORD117131,PRD1003,Bags,2024-03-04,Not as described,87.9,United States
+RET2189,ORD117137,PRD1020,Watches,2022-06-14,Better price found,412.66,United Kingdom
+RET2190,ORD117167,PRD1020,Watches,2022-02-21,Changed mind,412.66,Canada
+RET2191,ORD117170,PRD1026,Sunglasses,2022-11-17,Defective item,148.49,United States
+RET2192,ORD117193,PRD1017,Watches,2023-11-01,Wrong size,330.2,Australia
+RET2193,ORD117201,PRD1001,Bags,2023-11-27,Not as described,148.0,United Kingdom
+RET2194,ORD117212,PRD1013,Jewellery,2023-06-03,Wrong size,28.54,United States
+RET2195,ORD117245,PRD1004,Bags,2022-12-14,Wrong size,136.77,United States
+RET2196,ORD117247,PRD1006,Bags,2023-02-01,Gift return,45.21,United Kingdom
+RET2197,ORD117281,PRD1015,Jewellery,2023-08-27,Defective item,33.82,United Kingdom
+RET2198,ORD117284,PRD1017,Watches,2022-09-11,Changed mind,330.2,United States
+RET2199,ORD117290,PRD1032,Belts,2024-01-01,Not as described,69.94,Canada
+RET2200,ORD117292,PRD1022,Watches,2023-04-22,Wrong size,111.06,Canada
+RET2201,ORD117311,PRD1026,Sunglasses,2024-01-02,Wrong size,148.49,United States
+RET2202,ORD117317,PRD1008,Bags,2023-07-29,Better price found,51.34,United Kingdom
+RET2203,ORD117319,PRD1024,Sunglasses,2024-07-16,Changed mind,76.03,United Kingdom
+RET2204,ORD117327,PRD1005,Bags,2022-12-23,Changed mind,50.66,United Kingdom
+RET2205,ORD117359,PRD1018,Watches,2022-05-18,Not as described,289.08,United Kingdom
+RET2206,ORD117359,PRD1030,Scarves,2022-05-13,Wrong size,106.99,United Kingdom
+RET2207,ORD117383,PRD1003,Bags,2022-12-06,Better price found,87.9,Canada
+RET2208,ORD117383,PRD1009,Jewellery,2022-11-12,Better price found,25.56,Canada
+RET2209,ORD117395,PRD1014,Jewellery,2023-12-01,Defective item,109.25,United Kingdom
+RET2210,ORD117398,PRD1004,Bags,2022-04-03,Defective item,136.77,Canada
+RET2211,ORD117418,PRD1003,Bags,2023-03-14,Wrong size,87.9,Australia
+RET2212,ORD117432,PRD1011,Jewellery,2023-11-15,Wrong size,79.96,Canada
+RET2213,ORD117450,PRD1020,Watches,2024-09-05,Gift return,412.66,United States
+RET2214,ORD117482,PRD1021,Watches,2023-02-15,Wrong size,210.92,United States
+RET2215,ORD117498,PRD1020,Watches,2024-09-16,Not as described,412.66,Australia
+RET2216,ORD117504,PRD1001,Bags,2024-09-12,Defective item,148.0,United States
+RET2217,ORD117515,PRD1020,Watches,2023-12-13,Changed mind,412.66,United Kingdom
+RET2218,ORD117516,PRD1020,Watches,2022-12-29,Gift return,412.66,United States
+RET2219,ORD117521,PRD1016,Jewellery,2022-12-31,Wrong size,23.57,United Kingdom
+RET2220,ORD117542,PRD1025,Sunglasses,2023-10-30,Wrong size,69.07,United Kingdom
+RET2221,ORD117571,PRD1024,Sunglasses,2024-02-15,Better price found,76.03,Canada
+RET2222,ORD117576,PRD1005,Bags,2022-08-04,Changed mind,50.66,United States
+RET2223,ORD117595,PRD1021,Watches,2022-09-02,Gift return,210.92,United States
+RET2224,ORD117611,PRD1018,Watches,2022-12-28,Changed mind,289.08,United Kingdom
+RET2225,ORD117621,PRD1021,Watches,2023-07-13,Gift return,210.92,United States
+RET2226,ORD117642,PRD1012,Jewellery,2023-10-19,Changed mind,157.31,Canada
+RET2227,ORD117691,PRD1025,Sunglasses,2023-01-06,Defective item,69.07,United States
+RET2228,ORD117693,PRD1005,Bags,2024-08-22,Wrong size,50.66,United States
+RET2229,ORD117693,PRD1015,Jewellery,2024-08-01,Wrong size,33.82,United States
+RET2230,ORD117695,PRD1007,Bags,2024-01-09,Wrong size,128.67,Canada
+RET2231,ORD117704,PRD1002,Bags,2024-08-23,Defective item,259.42,United States
+RET2232,ORD117727,PRD1026,Sunglasses,2022-04-03,Wrong size,148.49,Canada
+RET2233,ORD117752,PRD1014,Jewellery,2023-02-22,Changed mind,109.25,Australia
+RET2234,ORD117779,PRD1026,Sunglasses,2024-08-22,Better price found,148.49,Australia
+RET2235,ORD117786,PRD1021,Watches,2022-05-22,Defective item,210.92,United States
+RET2236,ORD117803,PRD1019,Watches,2022-12-26,Not as described,394.01,United States
+RET2237,ORD117805,PRD1006,Bags,2022-09-17,Not as described,45.21,United States
+RET2238,ORD117845,PRD1021,Watches,2023-12-19,Not as described,210.92,Canada
+RET2239,ORD117847,PRD1008,Bags,2023-09-03,Changed mind,51.34,United Kingdom
+RET2240,ORD117856,PRD1009,Jewellery,2023-01-04,Not as described,25.56,United Kingdom
+RET2241,ORD117871,PRD1024,Sunglasses,2023-03-23,Wrong size,76.03,United States
+RET2242,ORD117878,PRD1010,Jewellery,2023-01-05,Changed mind,91.88,Australia
+RET2243,ORD117895,PRD1029,Scarves,2023-10-11,Gift return,113.0,United States
+RET2244,ORD117908,PRD1024,Sunglasses,2022-08-22,Defective item,76.03,Australia
+RET2245,ORD117910,PRD1001,Bags,2024-10-21,Defective item,148.0,United States
+RET2246,ORD117921,PRD1014,Jewellery,2023-05-23,Wrong size,109.25,United States
+RET2247,ORD117925,PRD1024,Sunglasses,2023-10-09,Better price found,76.03,Canada
+RET2248,ORD117934,PRD1019,Watches,2024-01-20,Changed mind,394.01,United Kingdom
+RET2249,ORD118003,PRD1014,Jewellery,2022-10-24,Changed mind,109.25,United States
+RET2250,ORD118009,PRD1030,Scarves,2024-03-04,Better price found,106.99,United States
+RET2251,ORD118032,PRD1031,Belts,2023-02-01,Changed mind,24.77,Australia
+RET2252,ORD118041,PRD1006,Bags,2022-09-27,Changed mind,45.21,Canada
+RET2253,ORD118043,PRD1023,Sunglasses,2023-03-20,Better price found,120.94,United States
+RET2254,ORD118053,PRD1016,Jewellery,2023-07-22,Wrong size,23.57,Australia
+RET2255,ORD118058,PRD1025,Sunglasses,2022-11-08,Wrong size,69.07,United States
+RET2256,ORD118069,PRD1003,Bags,2023-11-08,Defective item,87.9,Australia
+RET2257,ORD118074,PRD1026,Sunglasses,2024-03-12,Wrong size,148.49,United States
+RET2258,ORD118074,PRD1028,Scarves,2024-02-24,Defective item,92.58,United States
+RET2259,ORD118098,PRD1008,Bags,2023-02-19,Defective item,51.34,United Kingdom
+RET2260,ORD118110,PRD1019,Watches,2022-11-17,Changed mind,394.01,Canada
+RET2261,ORD118117,PRD1014,Jewellery,2024-08-14,Better price found,109.25,United States
+RET2262,ORD118177,PRD1001,Bags,2024-01-02,Wrong size,148.0,United Kingdom
+RET2263,ORD118177,PRD1013,Jewellery,2023-12-24,Not as described,28.54,United Kingdom
+RET2264,ORD118183,PRD1021,Watches,2024-01-10,Changed mind,210.92,United States
+RET2265,ORD118183,PRD1020,Watches,2024-01-05,Wrong size,412.66,United States
+RET2266,ORD118201,PRD1007,Bags,2022-12-28,Gift return,128.67,United States
+RET2267,ORD118212,PRD1001,Bags,2024-05-22,Changed mind,148.0,United States
+RET2268,ORD118272,PRD1003,Bags,2022-09-30,Defective item,87.9,United States
+RET2269,ORD118281,PRD1006,Bags,2022-03-27,Wrong size,45.21,United Kingdom
+RET2270,ORD118294,PRD1011,Jewellery,2022-09-14,Changed mind,79.96,United States
+RET2271,ORD118317,PRD1022,Watches,2024-06-26,Wrong size,111.06,United Kingdom
+RET2272,ORD118334,PRD1013,Jewellery,2023-12-22,Better price found,28.54,Canada
+RET2273,ORD118364,PRD1029,Scarves,2024-05-10,Defective item,113.0,United States
+RET2274,ORD118418,PRD1011,Jewellery,2024-01-16,Defective item,79.96,United States
+RET2275,ORD118421,PRD1009,Jewellery,2023-09-19,Wrong size,25.56,Canada
+RET2276,ORD118449,PRD1033,Belts,2023-06-18,Changed mind,86.54,United States
+RET2277,ORD118485,PRD1028,Scarves,2022-11-20,Not as described,92.58,Australia
+RET2278,ORD118498,PRD1019,Watches,2024-09-15,Wrong size,394.01,Canada
+RET2279,ORD118521,PRD1020,Watches,2022-09-19,Wrong size,412.66,United Kingdom
+RET2280,ORD118530,PRD1023,Sunglasses,2024-06-06,Defective item,120.94,United States
+RET2281,ORD118538,PRD1008,Bags,2024-08-15,Changed mind,51.34,United States
+RET2282,ORD118553,PRD1022,Watches,2023-02-25,Better price found,111.06,United Kingdom
+RET2283,ORD118580,PRD1021,Watches,2022-12-24,Defective item,210.92,Australia
+RET2284,ORD118587,PRD1018,Watches,2022-12-20,Gift return,289.08,United Kingdom
+RET2285,ORD118638,PRD1008,Bags,2023-10-22,Not as described,51.34,United States
+RET2286,ORD118667,PRD1004,Bags,2023-11-28,Better price found,136.77,United States
+RET2287,ORD118706,PRD1017,Watches,2024-01-02,Wrong size,330.2,United States
+RET2288,ORD118725,PRD1005,Bags,2023-07-11,Better price found,50.66,Australia
+RET2289,ORD118803,PRD1003,Bags,2022-12-10,Not as described,87.9,Australia
+RET2290,ORD118826,PRD1019,Watches,2023-04-02,Changed mind,394.01,Canada
+RET2291,ORD118826,PRD1025,Sunglasses,2023-04-16,Changed mind,69.07,Canada
+RET2292,ORD118832,PRD1014,Jewellery,2024-01-04,Changed mind,109.25,United States
+RET2293,ORD118837,PRD1011,Jewellery,2022-11-20,Not as described,79.96,United States
+RET2294,ORD118850,PRD1018,Watches,2022-11-15,Not as described,289.08,Canada
+RET2295,ORD118861,PRD1011,Jewellery,2023-08-07,Not as described,79.96,United States
+RET2296,ORD118865,PRD1020,Watches,2024-05-20,Better price found,412.66,United States
+RET2297,ORD118866,PRD1030,Scarves,2022-11-04,Changed mind,106.99,Australia
+RET2298,ORD118867,PRD1027,Sunglasses,2024-01-23,Defective item,35.64,United States
+RET2299,ORD118886,PRD1004,Bags,2023-10-30,Changed mind,136.77,United States
+RET2300,ORD118913,PRD1032,Belts,2022-11-06,Wrong size,69.94,United Kingdom
+RET2301,ORD118913,PRD1030,Scarves,2022-11-22,Wrong size,106.99,United Kingdom
+RET2302,ORD118914,PRD1026,Sunglasses,2023-12-18,Wrong size,148.49,Australia
+RET2303,ORD118929,PRD1020,Watches,2023-06-18,Changed mind,412.66,United States
+RET2304,ORD118941,PRD1029,Scarves,2023-09-16,Better price found,113.0,United States
+RET2305,ORD118947,PRD1027,Sunglasses,2022-08-12,Defective item,35.64,United States
+RET2306,ORD118953,PRD1004,Bags,2023-05-09,Wrong size,136.77,United States
+RET2307,ORD118955,PRD1028,Scarves,2023-05-05,Not as described,92.58,United Kingdom
+RET2308,ORD118998,PRD1002,Bags,2024-11-09,Wrong size,259.42,United Kingdom
+RET2309,ORD119003,PRD1012,Jewellery,2023-09-07,Changed mind,157.31,Canada
+RET2310,ORD119006,PRD1002,Bags,2023-12-24,Wrong size,259.42,United States
+RET2311,ORD119022,PRD1007,Bags,2024-02-14,Wrong size,128.67,United States
+RET2312,ORD119031,PRD1008,Bags,2024-01-14,Wrong size,51.34,United Kingdom
+RET2313,ORD119031,PRD1003,Bags,2024-01-16,Changed mind,87.9,United Kingdom
+RET2314,ORD119038,PRD1014,Jewellery,2022-02-20,Better price found,109.25,United States
+RET2315,ORD119054,PRD1003,Bags,2023-03-18,Not as described,87.9,United States
+RET2316,ORD119096,PRD1002,Bags,2023-12-16,Wrong size,259.42,Australia
+RET2317,ORD119097,PRD1008,Bags,2024-06-25,Changed mind,51.34,United States
+RET2318,ORD119106,PRD1010,Jewellery,2023-11-28,Gift return,91.88,United Kingdom
+RET2319,ORD119113,PRD1031,Belts,2023-11-21,Not as described,24.77,Australia
+RET2320,ORD119122,PRD1007,Bags,2022-05-30,Changed mind,128.67,United Kingdom
+RET2321,ORD119131,PRD1020,Watches,2023-11-20,Better price found,412.66,United States
+RET2322,ORD119217,PRD1032,Belts,2023-08-21,Wrong size,69.94,United Kingdom
+RET2323,ORD119224,PRD1027,Sunglasses,2022-06-18,Not as described,35.64,Canada
+RET2324,ORD119235,PRD1020,Watches,2023-12-18,Not as described,412.66,United States
+RET2325,ORD119236,PRD1005,Bags,2023-06-29,Changed mind,50.66,United States
+RET2326,ORD119245,PRD1001,Bags,2022-12-21,Gift return,148.0,Canada
+RET2327,ORD119258,PRD1014,Jewellery,2022-05-22,Wrong size,109.25,Canada
+RET2328,ORD119291,PRD1029,Scarves,2023-03-11,Defective item,113.0,United States
+RET2329,ORD119321,PRD1010,Jewellery,2024-07-17,Defective item,91.88,United Kingdom
+RET2330,ORD119328,PRD1001,Bags,2022-12-15,Changed mind,148.0,United Kingdom
+RET2331,ORD119338,PRD1008,Bags,2022-04-04,Not as described,51.34,United States
+RET2332,ORD119340,PRD1021,Watches,2023-01-14,Wrong size,210.92,United States
+RET2333,ORD119349,PRD1014,Jewellery,2024-08-28,Defective item,109.25,United States
+RET2334,ORD119356,PRD1004,Bags,2023-02-10,Wrong size,136.77,United States
+RET2335,ORD119371,PRD1001,Bags,2024-03-16,Wrong size,148.0,Canada
+RET2336,ORD119372,PRD1005,Bags,2024-11-03,Wrong size,50.66,United States
+RET2337,ORD119376,PRD1004,Bags,2022-11-26,Defective item,136.77,Canada
+RET2338,ORD119383,PRD1007,Bags,2023-01-22,Wrong size,128.67,United Kingdom
+RET2339,ORD119395,PRD1008,Bags,2022-09-15,Changed mind,51.34,Australia
+RET2340,ORD119405,PRD1024,Sunglasses,2023-03-19,Changed mind,76.03,United Kingdom
+RET2341,ORD119451,PRD1024,Sunglasses,2024-02-23,Wrong size,76.03,Canada
+RET2342,ORD119469,PRD1014,Jewellery,2023-11-23,Wrong size,109.25,United Kingdom
+RET2343,ORD119485,PRD1018,Watches,2023-06-13,Defective item,289.08,United Kingdom
+RET2344,ORD119531,PRD1002,Bags,2023-03-16,Changed mind,259.42,United Kingdom
+RET2345,ORD119551,PRD1008,Bags,2024-02-17,Wrong size,51.34,United States
+RET2346,ORD119553,PRD1026,Sunglasses,2023-11-17,Better price found,148.49,United States
+RET2347,ORD119562,PRD1024,Sunglasses,2022-05-23,Wrong size,76.03,Canada
+RET2348,ORD119567,PRD1003,Bags,2023-05-22,Better price found,87.9,United States
+RET2349,ORD119567,PRD1020,Watches,2023-05-25,Changed mind,412.66,United States
+RET2350,ORD119615,PRD1024,Sunglasses,2023-12-21,Wrong size,76.03,United States
+RET2351,ORD119637,PRD1016,Jewellery,2022-08-16,Changed mind,23.57,United States
+RET2352,ORD119696,PRD1002,Bags,2024-10-24,Wrong size,259.42,United States
+RET2353,ORD119696,PRD1001,Bags,2024-10-05,Defective item,148.0,United States
+RET2354,ORD119705,PRD1019,Watches,2024-10-27,Changed mind,394.01,United States
+RET2355,ORD119711,PRD1002,Bags,2023-12-05,Not as described,259.42,United Kingdom
+RET2356,ORD119740,PRD1004,Bags,2024-09-03,Changed mind,136.77,Australia
+RET2357,ORD119790,PRD1001,Bags,2022-05-25,Changed mind,148.0,United Kingdom
+RET2358,ORD119852,PRD1005,Bags,2022-10-26,Better price found,50.66,United Kingdom
+RET2359,ORD119879,PRD1015,Jewellery,2024-07-04,Changed mind,33.82,United States
+RET2360,ORD119913,PRD1007,Bags,2023-11-23,Changed mind,128.67,United States
+RET2361,ORD119940,PRD1009,Jewellery,2023-01-12,Gift return,25.56,United Kingdom
+RET2362,ORD119961,PRD1006,Bags,2024-07-17,Changed mind,45.21,Australia
+RET2363,ORD119966,PRD1031,Belts,2022-03-06,Better price found,24.77,United Kingdom
+RET2364,ORD119970,PRD1002,Bags,2024-01-10,Wrong size,259.42,United States
+RET2365,ORD120036,PRD1009,Jewellery,2024-09-14,Wrong size,25.56,United States
+RET2366,ORD120041,PRD1023,Sunglasses,2022-03-11,Wrong size,120.94,United States
+RET2367,ORD120041,PRD1017,Watches,2022-02-22,Better price found,330.2,United States
+RET2368,ORD120044,PRD1004,Bags,2024-01-20,Defective item,136.77,United States
+RET2369,ORD120076,PRD1022,Watches,2022-10-01,Wrong size,111.06,United Kingdom
+RET2370,ORD120077,PRD1029,Scarves,2023-10-22,Not as described,113.0,United States
+RET2371,ORD120100,PRD1005,Bags,2022-08-03,Wrong size,50.66,Australia
+RET2372,ORD120100,PRD1027,Sunglasses,2022-08-13,Wrong size,35.64,Australia
+RET2373,ORD120102,PRD1003,Bags,2023-12-18,Wrong size,87.9,United States
+RET2374,ORD120111,PRD1031,Belts,2023-12-28,Not as described,24.77,Canada
+RET2375,ORD120113,PRD1022,Watches,2024-03-04,Changed mind,111.06,United States
+RET2376,ORD120119,PRD1011,Jewellery,2023-06-19,Defective item,79.96,United Kingdom
+RET2377,ORD120140,PRD1002,Bags,2024-02-11,Wrong size,259.42,Canada
+RET2378,ORD120150,PRD1019,Watches,2023-11-10,Defective item,394.01,United States
+RET2379,ORD120157,PRD1007,Bags,2024-05-03,Defective item,128.67,Australia
+RET2380,ORD120171,PRD1018,Watches,2022-03-12,Not as described,289.08,United Kingdom
+RET2381,ORD120187,PRD1019,Watches,2024-05-18,Changed mind,394.01,United States
+RET2382,ORD120192,PRD1006,Bags,2022-11-09,Changed mind,45.21,Canada
+RET2383,ORD120201,PRD1002,Bags,2024-03-13,Defective item,259.42,United States
+RET2384,ORD120210,PRD1026,Sunglasses,2023-12-01,Wrong size,148.49,Canada
+RET2385,ORD120236,PRD1011,Jewellery,2023-02-06,Wrong size,79.96,United Kingdom
+RET2386,ORD120239,PRD1030,Scarves,2024-05-25,Wrong size,106.99,United States
+RET2387,ORD120282,PRD1001,Bags,2023-03-07,Defective item,148.0,United States
+RET2388,ORD120289,PRD1013,Jewellery,2023-01-01,Not as described,28.54,United States
+RET2389,ORD120292,PRD1017,Watches,2023-09-04,Changed mind,330.2,United States
+RET2390,ORD120315,PRD1008,Bags,2023-04-21,Wrong size,51.34,United States
+RET2391,ORD120315,PRD1024,Sunglasses,2023-04-28,Wrong size,76.03,United States
+RET2392,ORD120336,PRD1029,Scarves,2024-07-09,Changed mind,113.0,Canada
+RET2393,ORD120372,PRD1001,Bags,2022-08-07,Changed mind,148.0,United Kingdom
+RET2394,ORD120377,PRD1003,Bags,2023-12-09,Better price found,87.9,Australia
+RET2395,ORD120442,PRD1001,Bags,2023-08-25,Changed mind,148.0,United States
+RET2396,ORD120457,PRD1030,Scarves,2024-09-24,Wrong size,106.99,Australia
+RET2397,ORD120491,PRD1022,Watches,2022-12-03,Wrong size,111.06,United States
+RET2398,ORD120507,PRD1032,Belts,2023-03-03,Wrong size,69.94,United Kingdom
+RET2399,ORD120532,PRD1015,Jewellery,2022-05-25,Better price found,33.82,United States
+RET2400,ORD120539,PRD1007,Bags,2022-02-14,Defective item,128.67,Canada
+RET2401,ORD120582,PRD1032,Belts,2024-01-21,Defective item,69.94,United States
+RET2402,ORD120593,PRD1027,Sunglasses,2022-11-17,Not as described,35.64,United States
+RET2403,ORD120597,PRD1023,Sunglasses,2024-07-13,Wrong size,120.94,United States
+RET2404,ORD120601,PRD1022,Watches,2022-07-11,Not as described,111.06,United States
+RET2405,ORD120635,PRD1003,Bags,2024-03-11,Not as described,87.9,United States
+RET2406,ORD120640,PRD1006,Bags,2022-03-22,Defective item,45.21,Canada
+RET2407,ORD120662,PRD1025,Sunglasses,2024-06-16,Wrong size,69.07,Australia
+RET2408,ORD120670,PRD1012,Jewellery,2024-04-16,Wrong size,157.31,United States
+RET2409,ORD120678,PRD1018,Watches,2023-11-24,Better price found,289.08,Canada
+RET2410,ORD120696,PRD1024,Sunglasses,2023-12-04,Not as described,76.03,United Kingdom
+RET2411,ORD120714,PRD1006,Bags,2023-04-11,Changed mind,45.21,Canada
+RET2412,ORD120757,PRD1005,Bags,2022-02-09,Better price found,50.66,United Kingdom
+RET2413,ORD120767,PRD1003,Bags,2024-11-01,Gift return,87.9,United States
+RET2414,ORD120773,PRD1009,Jewellery,2023-04-03,Not as described,25.56,United States
+RET2415,ORD120791,PRD1026,Sunglasses,2023-11-29,Better price found,148.49,Canada
+RET2416,ORD120795,PRD1018,Watches,2023-02-16,Gift return,289.08,United States
+RET2417,ORD120820,PRD1006,Bags,2023-07-31,Wrong size,45.21,United Kingdom
+RET2418,ORD120834,PRD1006,Bags,2024-05-02,Better price found,45.21,United States
+RET2419,ORD120853,PRD1019,Watches,2023-05-05,Wrong size,394.01,United States
+RET2420,ORD120915,PRD1024,Sunglasses,2022-10-11,Wrong size,76.03,United States
+RET2421,ORD120920,PRD1007,Bags,2023-07-18,Changed mind,128.67,United States
+RET2422,ORD120932,PRD1005,Bags,2022-07-16,Changed mind,50.66,Australia
+RET2423,ORD120933,PRD1023,Sunglasses,2022-03-31,Wrong size,120.94,United States
+RET2424,ORD120939,PRD1025,Sunglasses,2023-01-31,Wrong size,69.07,United States
+RET2425,ORD120948,PRD1009,Jewellery,2024-08-26,Defective item,25.56,United Kingdom
+RET2426,ORD120951,PRD1022,Watches,2023-05-30,Not as described,111.06,United States
+RET2427,ORD120959,PRD1025,Sunglasses,2024-03-01,Changed mind,69.07,United States
+RET2428,ORD120963,PRD1006,Bags,2024-10-13,Wrong size,45.21,Australia
+RET2429,ORD120979,PRD1004,Bags,2024-09-11,Better price found,136.77,United States
+RET2430,ORD120983,PRD1013,Jewellery,2024-01-06,Wrong size,28.54,United States
+RET2431,ORD120984,PRD1020,Watches,2022-10-24,Wrong size,412.66,United States
+RET2432,ORD120986,PRD1018,Watches,2024-06-15,Gift return,289.08,United States
+RET2433,ORD121063,PRD1026,Sunglasses,2024-09-08,Gift return,148.49,Canada
+RET2434,ORD121067,PRD1017,Watches,2024-07-01,Not as described,330.2,United States
+RET2435,ORD121076,PRD1013,Jewellery,2023-12-26,Defective item,28.54,Australia
+RET2436,ORD121117,PRD1015,Jewellery,2022-11-18,Defective item,33.82,United Kingdom
+RET2437,ORD121118,PRD1001,Bags,2024-03-06,Changed mind,148.0,United Kingdom
+RET2438,ORD121135,PRD1008,Bags,2024-01-01,Changed mind,51.34,United States
+RET2439,ORD121201,PRD1023,Sunglasses,2024-05-08,Wrong size,120.94,Canada
+RET2440,ORD121210,PRD1020,Watches,2023-12-19,Defective item,412.66,United States
+RET2441,ORD121245,PRD1002,Bags,2022-11-03,Changed mind,259.42,United Kingdom
+RET2442,ORD121245,PRD1032,Belts,2022-11-04,Gift return,69.94,United Kingdom
+RET2443,ORD121251,PRD1003,Bags,2022-11-23,Defective item,87.9,Canada
+RET2444,ORD121258,PRD1023,Sunglasses,2023-02-08,Changed mind,120.94,United Kingdom
+RET2445,ORD121273,PRD1020,Watches,2024-05-07,Wrong size,412.66,United States
+RET2446,ORD121287,PRD1005,Bags,2024-03-09,Better price found,50.66,United States
+RET2447,ORD121299,PRD1011,Jewellery,2023-06-21,Not as described,79.96,Canada
+RET2448,ORD121306,PRD1005,Bags,2022-09-28,Defective item,50.66,United States
+RET2449,ORD121318,PRD1019,Watches,2022-02-09,Defective item,394.01,United States
+RET2450,ORD121335,PRD1005,Bags,2022-11-27,Defective item,50.66,United States
+RET2451,ORD121356,PRD1024,Sunglasses,2024-07-12,Better price found,76.03,United States
+RET2452,ORD121359,PRD1007,Bags,2023-07-31,Defective item,128.67,Canada
+RET2453,ORD121366,PRD1027,Sunglasses,2022-06-14,Gift return,35.64,United States
+RET2454,ORD121371,PRD1011,Jewellery,2022-12-30,Changed mind,79.96,Canada
+RET2455,ORD121403,PRD1013,Jewellery,2022-09-18,Wrong size,28.54,United Kingdom
+RET2456,ORD121419,PRD1017,Watches,2023-12-05,Better price found,330.2,United States
+RET2457,ORD121420,PRD1024,Sunglasses,2024-03-06,Changed mind,76.03,United States
+RET2458,ORD121420,PRD1008,Bags,2024-02-27,Gift return,51.34,United States
+RET2459,ORD121441,PRD1032,Belts,2022-08-07,Changed mind,69.94,Canada
+RET2460,ORD121443,PRD1008,Bags,2022-08-14,Changed mind,51.34,United Kingdom
+RET2461,ORD121449,PRD1001,Bags,2024-04-15,Changed mind,148.0,Australia
+RET2462,ORD121449,PRD1033,Belts,2024-04-13,Wrong size,86.54,Australia
+RET2463,ORD121451,PRD1011,Jewellery,2024-04-25,Wrong size,79.96,Canada
+RET2464,ORD121453,PRD1025,Sunglasses,2023-05-23,Changed mind,69.07,United States
+RET2465,ORD121469,PRD1026,Sunglasses,2022-10-08,Wrong size,148.49,United States
+RET2466,ORD121469,PRD1002,Bags,2022-10-20,Not as described,259.42,United States
+RET2467,ORD121475,PRD1005,Bags,2022-11-23,Gift return,50.66,United States
+RET2468,ORD121499,PRD1005,Bags,2022-04-17,Not as described,50.66,United States
+RET2469,ORD121533,PRD1001,Bags,2023-01-19,Changed mind,148.0,United States
+RET2470,ORD121534,PRD1018,Watches,2022-12-15,Changed mind,289.08,United States
+RET2471,ORD121538,PRD1029,Scarves,2024-08-04,Wrong size,113.0,United Kingdom
+RET2472,ORD121557,PRD1002,Bags,2023-03-29,Wrong size,259.42,United States
+RET2473,ORD121576,PRD1017,Watches,2024-05-23,Wrong size,330.2,United States
+RET2474,ORD121583,PRD1020,Watches,2022-08-08,Changed mind,412.66,United Kingdom
+RET2475,ORD121597,PRD1030,Scarves,2022-04-26,Wrong size,106.99,United Kingdom
+RET2476,ORD121604,PRD1008,Bags,2023-12-14,Wrong size,51.34,United States
+RET2477,ORD121610,PRD1032,Belts,2022-08-20,Not as described,69.94,United States
+RET2478,ORD121624,PRD1003,Bags,2022-11-24,Wrong size,87.9,United States
+RET2479,ORD121643,PRD1027,Sunglasses,2022-08-09,Not as described,35.64,United States
+RET2480,ORD121656,PRD1027,Sunglasses,2024-11-13,Better price found,35.64,United States
+RET2481,ORD121672,PRD1028,Scarves,2023-01-29,Defective item,92.58,United Kingdom
+RET2482,ORD121706,PRD1008,Bags,2023-04-12,Changed mind,51.34,Australia
+RET2483,ORD121711,PRD1005,Bags,2023-09-08,Changed mind,50.66,United States
+RET2484,ORD121712,PRD1016,Jewellery,2023-02-05,Changed mind,23.57,United States
+RET2485,ORD121715,PRD1017,Watches,2024-01-06,Gift return,330.2,United Kingdom
+RET2486,ORD121773,PRD1033,Belts,2022-11-23,Wrong size,86.54,Canada
+RET2487,ORD121774,PRD1020,Watches,2022-11-08,Changed mind,412.66,Australia
+RET2488,ORD121775,PRD1004,Bags,2022-12-10,Wrong size,136.77,United Kingdom
+RET2489,ORD121784,PRD1018,Watches,2024-06-27,Defective item,289.08,Canada
+RET2490,ORD121800,PRD1019,Watches,2024-06-03,Better price found,394.01,Canada
+RET2491,ORD121808,PRD1032,Belts,2024-06-07,Better price found,69.94,Canada
+RET2492,ORD121813,PRD1006,Bags,2023-11-02,Better price found,45.21,Australia
+RET2493,ORD121828,PRD1018,Watches,2023-11-27,Wrong size,289.08,United States
+RET2494,ORD121834,PRD1020,Watches,2022-12-01,Changed mind,412.66,Canada
+RET2495,ORD121840,PRD1020,Watches,2022-11-20,Gift return,412.66,United States
+RET2496,ORD121853,PRD1031,Belts,2023-01-11,Better price found,24.77,United States
+RET2497,ORD121856,PRD1024,Sunglasses,2024-04-20,Wrong size,76.03,United Kingdom
+RET2498,ORD121861,PRD1032,Belts,2023-01-07,Changed mind,69.94,United States
+RET2499,ORD121879,PRD1008,Bags,2022-02-02,Wrong size,51.34,United States
+RET2500,ORD121925,PRD1003,Bags,2023-07-11,Defective item,87.9,Canada
+RET2501,ORD121954,PRD1002,Bags,2023-09-27,Not as described,259.42,United States
+RET2502,ORD121991,PRD1003,Bags,2024-06-18,Defective item,87.9,Australia
+RET2503,ORD121999,PRD1013,Jewellery,2024-07-03,Wrong size,28.54,United States
+RET2504,ORD122003,PRD1018,Watches,2023-02-12,Defective item,289.08,United Kingdom
+RET2505,ORD122043,PRD1020,Watches,2024-04-02,Better price found,412.66,United States
+RET2506,ORD122079,PRD1004,Bags,2024-09-28,Better price found,136.77,United States
+RET2507,ORD122102,PRD1031,Belts,2023-04-22,Wrong size,24.77,Australia
+RET2508,ORD122123,PRD1023,Sunglasses,2023-11-04,Wrong size,120.94,United States
+RET2509,ORD122129,PRD1001,Bags,2023-07-19,Changed mind,148.0,United Kingdom
+RET2510,ORD122156,PRD1001,Bags,2022-11-30,Better price found,148.0,United States
+RET2511,ORD122168,PRD1010,Jewellery,2022-12-12,Changed mind,91.88,Canada
+RET2512,ORD122171,PRD1026,Sunglasses,2024-02-25,Wrong size,148.49,United States
+RET2513,ORD122174,PRD1008,Bags,2023-02-10,Defective item,51.34,United States
+RET2514,ORD122176,PRD1020,Watches,2024-07-04,Defective item,412.66,United States
+RET2515,ORD122184,PRD1030,Scarves,2023-07-09,Wrong size,106.99,United Kingdom
+RET2516,ORD122194,PRD1010,Jewellery,2023-02-23,Not as described,91.88,United States
+RET2517,ORD122197,PRD1009,Jewellery,2024-03-25,Changed mind,25.56,United States
+RET2518,ORD122211,PRD1005,Bags,2022-11-18,Not as described,50.66,United Kingdom
+RET2519,ORD122212,PRD1004,Bags,2024-10-28,Changed mind,136.77,Australia
+RET2520,ORD122220,PRD1026,Sunglasses,2024-07-29,Wrong size,148.49,United States
+RET2521,ORD122236,PRD1015,Jewellery,2023-04-16,Not as described,33.82,United States
+RET2522,ORD122254,PRD1023,Sunglasses,2023-04-17,Better price found,120.94,United Kingdom
+RET2523,ORD122259,PRD1030,Scarves,2022-05-13,Changed mind,106.99,United States
+RET2524,ORD122271,PRD1008,Bags,2024-05-22,Wrong size,51.34,United States
+RET2525,ORD122273,PRD1012,Jewellery,2023-03-05,Wrong size,157.31,Australia
+RET2526,ORD122309,PRD1003,Bags,2023-08-18,Wrong size,87.9,United States
+RET2527,ORD122318,PRD1003,Bags,2023-07-18,Defective item,87.9,Canada
+RET2528,ORD122330,PRD1032,Belts,2024-02-19,Better price found,69.94,United Kingdom
+RET2529,ORD122336,PRD1029,Scarves,2024-05-08,Changed mind,113.0,United States
+RET2530,ORD122352,PRD1033,Belts,2024-02-26,Gift return,86.54,United Kingdom
+RET2531,ORD122362,PRD1019,Watches,2023-03-02,Gift return,394.01,United States
+RET2532,ORD122367,PRD1011,Jewellery,2023-10-10,Not as described,79.96,United States
+RET2533,ORD122369,PRD1016,Jewellery,2023-05-01,Changed mind,23.57,United Kingdom
+RET2534,ORD122374,PRD1029,Scarves,2022-02-21,Gift return,113.0,United States
+RET2535,ORD122379,PRD1006,Bags,2024-10-05,Defective item,45.21,United States
+RET2536,ORD122388,PRD1021,Watches,2024-01-26,Wrong size,210.92,Australia
+RET2537,ORD122417,PRD1016,Jewellery,2023-12-23,Wrong size,23.57,United States
+RET2538,ORD122423,PRD1028,Scarves,2023-09-19,Gift return,92.58,United Kingdom
+RET2539,ORD122425,PRD1003,Bags,2024-06-01,Changed mind,87.9,United States
+RET2540,ORD122430,PRD1005,Bags,2024-09-21,Defective item,50.66,United States
+RET2541,ORD122451,PRD1027,Sunglasses,2024-05-24,Changed mind,35.64,Canada
+RET2542,ORD122459,PRD1004,Bags,2023-12-07,Better price found,136.77,United States
+RET2543,ORD122495,PRD1017,Watches,2022-08-27,Defective item,330.2,United States
+RET2544,ORD122540,PRD1022,Watches,2022-10-05,Wrong size,111.06,United States
+RET2545,ORD122543,PRD1023,Sunglasses,2024-03-07,Not as described,120.94,Canada
+RET2546,ORD122555,PRD1018,Watches,2024-04-10,Wrong size,289.08,United States
+RET2547,ORD122586,PRD1004,Bags,2023-07-22,Defective item,136.77,Canada
+RET2548,ORD122589,PRD1012,Jewellery,2023-01-10,Defective item,157.31,Australia
+RET2549,ORD122607,PRD1007,Bags,2022-02-03,Gift return,128.67,Canada
+RET2550,ORD122611,PRD1027,Sunglasses,2024-04-30,Defective item,35.64,Canada
+RET2551,ORD122630,PRD1003,Bags,2022-05-03,Defective item,87.9,United Kingdom
+RET2552,ORD122634,PRD1022,Watches,2022-07-24,Not as described,111.06,Canada
+RET2553,ORD122641,PRD1005,Bags,2023-03-02,Better price found,50.66,Australia
+RET2554,ORD122642,PRD1021,Watches,2022-06-23,Wrong size,210.92,United States
+RET2555,ORD122646,PRD1023,Sunglasses,2023-02-23,Changed mind,120.94,United States
+RET2556,ORD122647,PRD1003,Bags,2022-05-05,Defective item,87.9,Canada
+RET2557,ORD122658,PRD1022,Watches,2023-06-06,Not as described,111.06,Canada
+RET2558,ORD122665,PRD1002,Bags,2022-05-19,Wrong size,259.42,United Kingdom
+RET2559,ORD122682,PRD1002,Bags,2023-11-30,Changed mind,259.42,Australia
+RET2560,ORD122683,PRD1007,Bags,2022-11-05,Wrong size,128.67,Australia
+RET2561,ORD122704,PRD1013,Jewellery,2023-11-08,Wrong size,28.54,United Kingdom
+RET2562,ORD122719,PRD1006,Bags,2022-09-21,Defective item,45.21,United Kingdom
+RET2563,ORD122740,PRD1029,Scarves,2024-01-03,Changed mind,113.0,United Kingdom
+RET2564,ORD122742,PRD1017,Watches,2022-07-30,Not as described,330.2,United Kingdom
+RET2565,ORD122748,PRD1017,Watches,2023-02-18,Wrong size,330.2,United Kingdom
+RET2566,ORD122775,PRD1002,Bags,2023-07-29,Wrong size,259.42,United States
+RET2567,ORD122781,PRD1001,Bags,2022-12-31,Gift return,148.0,United States
+RET2568,ORD122802,PRD1020,Watches,2023-12-07,Wrong size,412.66,United Kingdom
+RET2569,ORD122833,PRD1025,Sunglasses,2024-09-24,Changed mind,69.07,United States
+RET2570,ORD122866,PRD1013,Jewellery,2023-12-05,Not as described,28.54,United Kingdom
+RET2571,ORD122890,PRD1031,Belts,2024-01-06,Changed mind,24.77,Canada
+RET2572,ORD122907,PRD1004,Bags,2022-02-25,Wrong size,136.77,United States
+RET2573,ORD122909,PRD1008,Bags,2023-01-16,Defective item,51.34,United Kingdom
+RET2574,ORD122996,PRD1006,Bags,2024-10-12,Changed mind,45.21,United States
+RET2575,ORD123002,PRD1003,Bags,2024-02-23,Defective item,87.9,Australia
+RET2576,ORD123021,PRD1025,Sunglasses,2023-06-19,Better price found,69.07,United States
+RET2577,ORD123041,PRD1007,Bags,2024-06-05,Not as described,128.67,Australia
+RET2578,ORD123070,PRD1002,Bags,2023-03-15,Not as described,259.42,United States
+RET2579,ORD123094,PRD1003,Bags,2022-08-05,Wrong size,87.9,United States
+RET2580,ORD123097,PRD1012,Jewellery,2024-09-14,Wrong size,157.31,Australia
+RET2581,ORD123101,PRD1016,Jewellery,2024-01-13,Not as described,23.57,Canada
+RET2582,ORD123122,PRD1007,Bags,2024-08-22,Wrong size,128.67,United States
+RET2583,ORD123137,PRD1006,Bags,2023-12-23,Wrong size,45.21,United Kingdom
+RET2584,ORD123142,PRD1027,Sunglasses,2022-12-14,Changed mind,35.64,Canada
+RET2585,ORD123156,PRD1033,Belts,2024-08-18,Wrong size,86.54,United States
+RET2586,ORD123168,PRD1024,Sunglasses,2022-08-22,Wrong size,76.03,United States
+RET2587,ORD123175,PRD1013,Jewellery,2023-01-09,Wrong size,28.54,United States
+RET2588,ORD123198,PRD1007,Bags,2023-12-16,Changed mind,128.67,United States
+RET2589,ORD123201,PRD1017,Watches,2022-05-11,Not as described,330.2,Canada
+RET2590,ORD123209,PRD1006,Bags,2024-04-12,Wrong size,45.21,United States
+RET2591,ORD123214,PRD1018,Watches,2023-03-06,Better price found,289.08,United States
+RET2592,ORD123231,PRD1024,Sunglasses,2024-10-03,Defective item,76.03,United Kingdom
+RET2593,ORD123231,PRD1027,Sunglasses,2024-10-18,Changed mind,35.64,United Kingdom
+RET2594,ORD123237,PRD1030,Scarves,2022-12-03,Changed mind,106.99,Australia
+RET2595,ORD123246,PRD1001,Bags,2022-12-04,Not as described,148.0,United States
+RET2596,ORD123273,PRD1014,Jewellery,2023-07-14,Gift return,109.25,United States
+RET2597,ORD123329,PRD1024,Sunglasses,2023-03-27,Changed mind,76.03,United States
+RET2598,ORD123340,PRD1026,Sunglasses,2023-11-18,Changed mind,148.49,Canada
+RET2599,ORD123351,PRD1019,Watches,2023-12-15,Wrong size,394.01,Canada
+RET2600,ORD123367,PRD1025,Sunglasses,2023-12-03,Wrong size,69.07,United Kingdom
+RET2601,ORD123369,PRD1004,Bags,2022-12-23,Defective item,136.77,Canada
+RET2602,ORD123369,PRD1030,Scarves,2022-12-16,Not as described,106.99,Canada
+RET2603,ORD123387,PRD1022,Watches,2024-02-28,Defective item,111.06,United States
+RET2604,ORD123390,PRD1021,Watches,2023-09-30,Wrong size,210.92,United States
+RET2605,ORD123398,PRD1015,Jewellery,2022-11-01,Defective item,33.82,Canada
+RET2606,ORD123411,PRD1019,Watches,2022-12-07,Wrong size,394.01,United Kingdom
+RET2607,ORD123425,PRD1007,Bags,2022-07-16,Better price found,128.67,Canada
+RET2608,ORD123426,PRD1012,Jewellery,2024-10-27,Better price found,157.31,Australia
+RET2609,ORD123444,PRD1006,Bags,2023-07-26,Better price found,45.21,United States
+RET2610,ORD123452,PRD1010,Jewellery,2023-01-05,Not as described,91.88,United Kingdom
+RET2611,ORD123453,PRD1018,Watches,2023-07-22,Wrong size,289.08,United Kingdom
+RET2612,ORD123455,PRD1025,Sunglasses,2024-05-27,Defective item,69.07,United States
+RET2613,ORD123456,PRD1004,Bags,2022-08-27,Defective item,136.77,United Kingdom
+RET2614,ORD123457,PRD1015,Jewellery,2022-12-28,Changed mind,33.82,United Kingdom
+RET2615,ORD123470,PRD1012,Jewellery,2022-07-06,Wrong size,157.31,United States
+RET2616,ORD123484,PRD1001,Bags,2022-12-01,Wrong size,148.0,Canada
+RET2617,ORD123497,PRD1027,Sunglasses,2023-01-20,Wrong size,35.64,United States
+RET2618,ORD123506,PRD1006,Bags,2023-01-08,Wrong size,45.21,United States
+RET2619,ORD123522,PRD1008,Bags,2024-05-10,Defective item,51.34,United States
+RET2620,ORD123532,PRD1032,Belts,2022-12-29,Wrong size,69.94,United Kingdom
+RET2621,ORD123541,PRD1007,Bags,2022-12-27,Not as described,128.67,United States
+RET2622,ORD123543,PRD1012,Jewellery,2022-03-25,Wrong size,157.31,United Kingdom
+RET2623,ORD123544,PRD1012,Jewellery,2023-11-24,Gift return,157.31,United States
+RET2624,ORD123566,PRD1006,Bags,2023-11-27,Defective item,45.21,Australia
+RET2625,ORD123600,PRD1030,Scarves,2022-05-25,Defective item,106.99,United States
+RET2626,ORD123612,PRD1018,Watches,2023-07-21,Wrong size,289.08,Canada
+RET2627,ORD123633,PRD1019,Watches,2024-04-25,Defective item,394.01,United States
+RET2628,ORD123637,PRD1033,Belts,2024-09-11,Not as described,86.54,United States
+RET2629,ORD123642,PRD1002,Bags,2024-03-20,Wrong size,259.42,Australia
+RET2630,ORD123673,PRD1021,Watches,2022-05-01,Not as described,210.92,United States
+RET2631,ORD123682,PRD1007,Bags,2024-07-14,Not as described,128.67,United States
+RET2632,ORD123686,PRD1021,Watches,2023-08-26,Gift return,210.92,United States
+RET2633,ORD123709,PRD1002,Bags,2024-09-03,Not as described,259.42,Canada
+RET2634,ORD123710,PRD1022,Watches,2023-01-04,Wrong size,111.06,Australia
+RET2635,ORD123712,PRD1008,Bags,2022-09-06,Wrong size,51.34,United States
+RET2636,ORD123728,PRD1014,Jewellery,2022-12-24,Wrong size,109.25,United States
+RET2637,ORD123766,PRD1027,Sunglasses,2023-01-12,Changed mind,35.64,United States
+RET2638,ORD123773,PRD1002,Bags,2022-11-07,Better price found,259.42,United States
+RET2639,ORD123773,PRD1007,Bags,2022-11-04,Defective item,128.67,United States
+RET2640,ORD123783,PRD1016,Jewellery,2024-05-18,Wrong size,23.57,Canada
+RET2641,ORD123799,PRD1009,Jewellery,2023-04-20,Changed mind,25.56,Australia
+RET2642,ORD123807,PRD1007,Bags,2023-01-24,Changed mind,128.67,United Kingdom
+RET2643,ORD123844,PRD1019,Watches,2022-01-31,Changed mind,394.01,United Kingdom
+RET2644,ORD123854,PRD1003,Bags,2022-09-18,Not as described,87.9,Australia
+RET2645,ORD123858,PRD1007,Bags,2022-06-22,Not as described,128.67,Australia
+RET2646,ORD123864,PRD1017,Watches,2024-02-05,Changed mind,330.2,Australia
+RET2647,ORD123892,PRD1026,Sunglasses,2023-12-06,Defective item,148.49,United States
+RET2648,ORD123896,PRD1018,Watches,2024-01-01,Defective item,289.08,United Kingdom
+RET2649,ORD123910,PRD1033,Belts,2023-11-04,Defective item,86.54,Australia
+RET2650,ORD123939,PRD1003,Bags,2023-12-15,Not as described,87.9,United States
+RET2651,ORD123939,PRD1006,Bags,2023-12-16,Defective item,45.21,United States
+RET2652,ORD123950,PRD1025,Sunglasses,2023-12-31,Wrong size,69.07,United States
+RET2653,ORD124001,PRD1007,Bags,2023-12-30,Not as described,128.67,United States
+RET2654,ORD124007,PRD1005,Bags,2023-04-07,Not as described,50.66,United States
+RET2655,ORD124015,PRD1012,Jewellery,2024-03-05,Wrong size,157.31,United States
+RET2656,ORD124023,PRD1023,Sunglasses,2022-07-14,Defective item,120.94,United Kingdom
+RET2657,ORD124026,PRD1026,Sunglasses,2022-09-16,Changed mind,148.49,United States
+RET2658,ORD124050,PRD1026,Sunglasses,2022-03-31,Wrong size,148.49,Australia
+RET2659,ORD124078,PRD1024,Sunglasses,2022-10-11,Not as described,76.03,United States
+RET2660,ORD124135,PRD1027,Sunglasses,2023-04-20,Wrong size,35.64,United States
+RET2661,ORD124149,PRD1007,Bags,2024-01-15,Gift return,128.67,Australia
+RET2662,ORD124158,PRD1027,Sunglasses,2023-08-07,Changed mind,35.64,United States
+RET2663,ORD124229,PRD1025,Sunglasses,2022-12-01,Defective item,69.07,United Kingdom
+RET2664,ORD124232,PRD1008,Bags,2023-01-25,Not as described,51.34,United States
+RET2665,ORD124251,PRD1032,Belts,2022-04-07,Wrong size,69.94,United States
+RET2666,ORD124268,PRD1015,Jewellery,2024-08-22,Better price found,33.82,United States
+RET2667,ORD124272,PRD1008,Bags,2024-08-26,Wrong size,51.34,United Kingdom
+RET2668,ORD124284,PRD1006,Bags,2023-06-07,Wrong size,45.21,United States
+RET2669,ORD124326,PRD1027,Sunglasses,2024-04-05,Better price found,35.64,Canada
+RET2670,ORD124362,PRD1019,Watches,2024-04-30,Defective item,394.01,United States
+RET2671,ORD124364,PRD1016,Jewellery,2022-11-25,Defective item,23.57,United States
+RET2672,ORD124366,PRD1012,Jewellery,2022-07-13,Defective item,157.31,Australia
+RET2673,ORD124381,PRD1030,Scarves,2022-10-27,Defective item,106.99,United States
+RET2674,ORD124403,PRD1004,Bags,2022-05-15,Changed mind,136.77,Canada
+RET2675,ORD124404,PRD1003,Bags,2022-03-30,Wrong size,87.9,United States
+RET2676,ORD124441,PRD1027,Sunglasses,2023-03-24,Changed mind,35.64,United Kingdom
+RET2677,ORD124444,PRD1008,Bags,2024-06-10,Defective item,51.34,United States
+RET2678,ORD124446,PRD1002,Bags,2022-11-10,Defective item,259.42,United Kingdom
+RET2679,ORD124458,PRD1001,Bags,2022-06-05,Better price found,148.0,Australia
+RET2680,ORD124463,PRD1009,Jewellery,2023-09-08,Not as described,25.56,Australia
+RET2681,ORD124499,PRD1014,Jewellery,2024-01-29,Defective item,109.25,United Kingdom
+RET2682,ORD124513,PRD1024,Sunglasses,2023-08-20,Wrong size,76.03,United Kingdom
+RET2683,ORD124531,PRD1024,Sunglasses,2022-05-19,Gift return,76.03,United Kingdom
+RET2684,ORD124560,PRD1008,Bags,2022-08-21,Changed mind,51.34,United States
+RET2685,ORD124585,PRD1008,Bags,2024-08-31,Defective item,51.34,United States
+RET2686,ORD124614,PRD1011,Jewellery,2022-03-06,Wrong size,79.96,United Kingdom
+RET2687,ORD124618,PRD1026,Sunglasses,2022-11-05,Wrong size,148.49,United States
+RET2688,ORD124620,PRD1006,Bags,2023-03-26,Not as described,45.21,United States
+RET2689,ORD124631,PRD1016,Jewellery,2022-12-24,Better price found,23.57,United Kingdom
+RET2690,ORD124637,PRD1013,Jewellery,2023-05-31,Defective item,28.54,United States
+RET2691,ORD124665,PRD1019,Watches,2022-03-01,Wrong size,394.01,United States
+RET2692,ORD124690,PRD1028,Scarves,2023-09-16,Defective item,92.58,United States
+RET2693,ORD124695,PRD1006,Bags,2022-05-29,Changed mind,45.21,United States
+RET2694,ORD124735,PRD1011,Jewellery,2023-01-18,Defective item,79.96,United States
+RET2695,ORD124755,PRD1001,Bags,2022-10-17,Defective item,148.0,United States
+RET2696,ORD124760,PRD1007,Bags,2023-12-02,Wrong size,128.67,Canada
+RET2697,ORD124793,PRD1005,Bags,2024-08-04,Wrong size,50.66,United States
+RET2698,ORD124798,PRD1002,Bags,2022-12-30,Wrong size,259.42,United Kingdom
+RET2699,ORD124808,PRD1031,Belts,2023-11-04,Wrong size,24.77,United Kingdom
+RET2700,ORD124816,PRD1033,Belts,2022-03-30,Wrong size,86.54,United States
+RET2701,ORD124831,PRD1016,Jewellery,2023-03-03,Wrong size,23.57,United States
+RET2702,ORD124843,PRD1001,Bags,2023-10-14,Wrong size,148.0,United States
+RET2703,ORD124847,PRD1003,Bags,2022-11-30,Wrong size,87.9,Canada
+RET2704,ORD124877,PRD1003,Bags,2023-11-25,Changed mind,87.9,United Kingdom
+RET2705,ORD124880,PRD1001,Bags,2024-01-03,Changed mind,148.0,Canada
+RET2706,ORD124893,PRD1001,Bags,2023-03-09,Not as described,148.0,United States
+RET2707,ORD124898,PRD1004,Bags,2023-11-06,Defective item,136.77,United Kingdom
+RET2708,ORD124913,PRD1010,Jewellery,2023-08-06,Wrong size,91.88,United States
+RET2709,ORD124950,PRD1007,Bags,2024-08-13,Wrong size,128.67,Australia
+RET2710,ORD124955,PRD1025,Sunglasses,2023-04-05,Changed mind,69.07,United States
+RET2711,ORD124964,PRD1005,Bags,2023-07-20,Gift return,50.66,Canada
+RET2712,ORD124986,PRD1030,Scarves,2022-05-03,Defective item,106.99,Canada
+RET2713,ORD125018,PRD1024,Sunglasses,2023-03-06,Not as described,76.03,United Kingdom
+RET2714,ORD125025,PRD1003,Bags,2022-11-06,Changed mind,87.9,United Kingdom
+RET2715,ORD125031,PRD1017,Watches,2023-12-01,Changed mind,330.2,United States
+RET2716,ORD125031,PRD1028,Scarves,2023-12-02,Defective item,92.58,United States
+RET2717,ORD125062,PRD1017,Watches,2024-01-06,Better price found,330.2,United States
+RET2718,ORD125082,PRD1010,Jewellery,2023-03-18,Wrong size,91.88,United Kingdom
+RET2719,ORD125127,PRD1004,Bags,2023-12-27,Not as described,136.77,United States
+RET2720,ORD125132,PRD1021,Watches,2024-06-27,Changed mind,210.92,United States
+RET2721,ORD125134,PRD1010,Jewellery,2023-01-29,Defective item,91.88,United States
+RET2722,ORD125147,PRD1016,Jewellery,2022-11-28,Not as described,23.57,Australia
+RET2723,ORD125152,PRD1026,Sunglasses,2023-08-10,Wrong size,148.49,Canada
+RET2724,ORD125207,PRD1025,Sunglasses,2024-10-10,Wrong size,69.07,Canada
+RET2725,ORD125209,PRD1001,Bags,2024-03-19,Defective item,148.0,United States
+RET2726,ORD125228,PRD1004,Bags,2022-11-19,Wrong size,136.77,United Kingdom
+RET2727,ORD125232,PRD1017,Watches,2024-03-10,Wrong size,330.2,United States
+RET2728,ORD125268,PRD1001,Bags,2022-06-13,Wrong size,148.0,Canada
+RET2729,ORD125287,PRD1006,Bags,2023-05-08,Wrong size,45.21,United Kingdom
+RET2730,ORD125296,PRD1012,Jewellery,2024-04-06,Changed mind,157.31,United States
+RET2731,ORD125297,PRD1010,Jewellery,2024-10-02,Changed mind,91.88,United States
+RET2732,ORD125301,PRD1021,Watches,2022-04-02,Wrong size,210.92,United Kingdom
+RET2733,ORD125301,PRD1019,Watches,2022-04-15,Changed mind,394.01,United Kingdom
+RET2734,ORD125356,PRD1015,Jewellery,2024-07-30,Wrong size,33.82,United Kingdom
+RET2735,ORD125398,PRD1011,Jewellery,2023-07-05,Changed mind,79.96,Australia
+RET2736,ORD125404,PRD1031,Belts,2024-10-24,Defective item,24.77,United States
+RET2737,ORD125438,PRD1003,Bags,2022-06-16,Defective item,87.9,United States
+RET2738,ORD125441,PRD1019,Watches,2023-09-13,Wrong size,394.01,United States
+RET2739,ORD125458,PRD1016,Jewellery,2023-07-21,Not as described,23.57,Canada
+RET2740,ORD125466,PRD1008,Bags,2022-08-24,Wrong size,51.34,Canada
+RET2741,ORD125479,PRD1026,Sunglasses,2024-03-14,Better price found,148.49,United States
+RET2742,ORD125486,PRD1019,Watches,2023-12-05,Not as described,394.01,United States
+RET2743,ORD125490,PRD1006,Bags,2022-08-18,Defective item,45.21,United States
+RET2744,ORD125510,PRD1003,Bags,2022-08-02,Defective item,87.9,United Kingdom
+RET2745,ORD125515,PRD1007,Bags,2023-06-28,Gift return,128.67,United States
+RET2746,ORD125532,PRD1022,Watches,2024-01-06,Defective item,111.06,United Kingdom
+RET2747,ORD125551,PRD1026,Sunglasses,2022-12-21,Gift return,148.49,United Kingdom
+RET2748,ORD125578,PRD1004,Bags,2022-02-14,Changed mind,136.77,United States
+RET2749,ORD125581,PRD1029,Scarves,2023-07-13,Wrong size,113.0,Australia
+RET2750,ORD125583,PRD1012,Jewellery,2023-03-27,Wrong size,157.31,United States
+RET2751,ORD125583,PRD1032,Belts,2023-03-27,Not as described,69.94,United States
+RET2752,ORD125586,PRD1002,Bags,2024-02-12,Not as described,259.42,United States
+RET2753,ORD125620,PRD1001,Bags,2023-10-13,Gift return,148.0,United States
+RET2754,ORD125642,PRD1011,Jewellery,2023-03-10,Changed mind,79.96,United States
+RET2755,ORD125660,PRD1025,Sunglasses,2024-01-11,Wrong size,69.07,United States
+RET2756,ORD125664,PRD1022,Watches,2022-11-10,Defective item,111.06,United States
+RET2757,ORD125664,PRD1026,Sunglasses,2022-11-27,Wrong size,148.49,United States
+RET2758,ORD125665,PRD1027,Sunglasses,2024-01-19,Changed mind,35.64,United States
+RET2759,ORD125703,PRD1004,Bags,2023-10-04,Gift return,136.77,Canada
+RET2760,ORD125703,PRD1022,Watches,2023-10-01,Not as described,111.06,Canada
+RET2761,ORD125749,PRD1002,Bags,2022-06-18,Defective item,259.42,Canada
+RET2762,ORD125755,PRD1023,Sunglasses,2022-06-13,Wrong size,120.94,Canada
+RET2763,ORD125764,PRD1004,Bags,2023-09-13,Wrong size,136.77,Canada
+RET2764,ORD125819,PRD1008,Bags,2024-08-31,Defective item,51.34,Canada
+RET2765,ORD125823,PRD1001,Bags,2023-07-16,Changed mind,148.0,United States
+RET2766,ORD125831,PRD1007,Bags,2022-10-11,Changed mind,128.67,United Kingdom
+RET2767,ORD125844,PRD1008,Bags,2022-03-02,Gift return,51.34,United States
+RET2768,ORD125849,PRD1024,Sunglasses,2023-06-02,Wrong size,76.03,United Kingdom
+RET2769,ORD125851,PRD1012,Jewellery,2022-11-28,Not as described,157.31,United States
+RET2770,ORD125861,PRD1023,Sunglasses,2022-11-23,Gift return,120.94,United States
+RET2771,ORD125862,PRD1023,Sunglasses,2024-03-13,Changed mind,120.94,Canada
+RET2772,ORD125894,PRD1019,Watches,2024-07-03,Better price found,394.01,Canada
+RET2773,ORD125897,PRD1006,Bags,2024-06-06,Not as described,45.21,United Kingdom
+RET2774,ORD125937,PRD1008,Bags,2024-02-08,Defective item,51.34,United States
+RET2775,ORD125951,PRD1011,Jewellery,2024-05-30,Better price found,79.96,United Kingdom
+RET2776,ORD125964,PRD1020,Watches,2022-12-20,Wrong size,412.66,United Kingdom
+RET2777,ORD125966,PRD1023,Sunglasses,2023-12-04,Defective item,120.94,United States
+RET2778,ORD125981,PRD1032,Belts,2022-02-20,Changed mind,69.94,Australia
+RET2779,ORD125998,PRD1012,Jewellery,2022-11-21,Defective item,157.31,United States
+RET2780,ORD126014,PRD1019,Watches,2023-11-12,Better price found,394.01,United States
+RET2781,ORD126022,PRD1007,Bags,2022-12-22,Wrong size,128.67,United States
+RET2782,ORD126035,PRD1007,Bags,2022-12-13,Defective item,128.67,United States
+RET2783,ORD126035,PRD1017,Watches,2022-12-12,Wrong size,330.2,United States
+RET2784,ORD126037,PRD1010,Jewellery,2024-03-14,Better price found,91.88,United States
+RET2785,ORD126051,PRD1001,Bags,2023-01-24,Not as described,148.0,United States
+RET2786,ORD126056,PRD1012,Jewellery,2022-11-25,Wrong size,157.31,United States
+RET2787,ORD126063,PRD1005,Bags,2022-12-25,Not as described,50.66,United States
+RET2788,ORD126070,PRD1023,Sunglasses,2022-10-18,Defective item,120.94,United States
+RET2789,ORD126077,PRD1027,Sunglasses,2024-08-16,Changed mind,35.64,United States
+RET2790,ORD126100,PRD1007,Bags,2024-07-26,Wrong size,128.67,United States
+RET2791,ORD126104,PRD1002,Bags,2022-11-11,Wrong size,259.42,United Kingdom
+RET2792,ORD126105,PRD1027,Sunglasses,2024-07-16,Not as described,35.64,United States
+RET2793,ORD126126,PRD1003,Bags,2023-06-25,Wrong size,87.9,United States
+RET2794,ORD126195,PRD1033,Belts,2022-06-21,Better price found,86.54,United States
+RET2795,ORD126206,PRD1022,Watches,2024-04-02,Better price found,111.06,United States
+RET2796,ORD126214,PRD1013,Jewellery,2023-10-18,Defective item,28.54,United Kingdom
+RET2797,ORD126221,PRD1007,Bags,2024-02-07,Wrong size,128.67,Australia
+RET2798,ORD126221,PRD1025,Sunglasses,2024-01-27,Changed mind,69.07,Australia
+RET2799,ORD126274,PRD1017,Watches,2023-01-03,Better price found,330.2,United States
+RET2800,ORD126276,PRD1016,Jewellery,2024-01-20,Changed mind,23.57,United States
+RET2801,ORD126280,PRD1026,Sunglasses,2023-05-09,Not as described,148.49,United States
+RET2802,ORD126282,PRD1003,Bags,2022-12-01,Better price found,87.9,United States
+RET2803,ORD126308,PRD1020,Watches,2024-06-09,Better price found,412.66,United States
+RET2804,ORD126388,PRD1004,Bags,2023-03-08,Not as described,136.77,United Kingdom
+RET2805,ORD126389,PRD1008,Bags,2023-09-20,Changed mind,51.34,United States
+RET2806,ORD126399,PRD1004,Bags,2023-07-28,Changed mind,136.77,United States
+RET2807,ORD126402,PRD1018,Watches,2023-10-16,Better price found,289.08,United States
+RET2808,ORD126420,PRD1020,Watches,2024-04-03,Changed mind,412.66,United States
+RET2809,ORD126423,PRD1008,Bags,2023-12-05,Defective item,51.34,United States
+RET2810,ORD126423,PRD1001,Bags,2023-12-01,Changed mind,148.0,United States
+RET2811,ORD126437,PRD1001,Bags,2022-02-03,Gift return,148.0,United States
+RET2812,ORD126455,PRD1012,Jewellery,2023-12-03,Wrong size,157.31,United States
+RET2813,ORD126466,PRD1017,Watches,2024-10-24,Wrong size,330.2,United Kingdom
+RET2814,ORD126508,PRD1029,Scarves,2023-12-12,Better price found,113.0,United Kingdom
+RET2815,ORD126537,PRD1021,Watches,2023-11-04,Wrong size,210.92,United States
+RET2816,ORD126561,PRD1018,Watches,2023-01-01,Gift return,289.08,Canada
+RET2817,ORD126564,PRD1020,Watches,2022-12-20,Wrong size,412.66,United Kingdom
+RET2818,ORD126693,PRD1028,Scarves,2023-09-23,Better price found,92.58,United States
+RET2819,ORD126693,PRD1015,Jewellery,2023-09-11,Wrong size,33.82,United States
+RET2820,ORD126711,PRD1008,Bags,2022-06-08,Changed mind,51.34,Canada
+RET2821,ORD126754,PRD1030,Scarves,2023-11-26,Better price found,106.99,Canada
+RET2822,ORD126767,PRD1023,Sunglasses,2022-04-18,Defective item,120.94,Canada
+RET2823,ORD126786,PRD1005,Bags,2022-04-20,Wrong size,50.66,United States
+RET2824,ORD126806,PRD1008,Bags,2024-06-19,Not as described,51.34,Australia
+RET2825,ORD126811,PRD1024,Sunglasses,2023-07-08,Defective item,76.03,United States
+RET2826,ORD126817,PRD1009,Jewellery,2022-07-26,Changed mind,25.56,United States
+RET2827,ORD126822,PRD1008,Bags,2023-03-15,Gift return,51.34,United States
+RET2828,ORD126824,PRD1013,Jewellery,2022-10-06,Defective item,28.54,United States
+RET2829,ORD126832,PRD1021,Watches,2024-10-31,Wrong size,210.92,United States
+RET2830,ORD126834,PRD1028,Scarves,2022-12-08,Defective item,92.58,United States
+RET2831,ORD126867,PRD1026,Sunglasses,2022-07-24,Changed mind,148.49,United States
+RET2832,ORD126875,PRD1003,Bags,2023-11-26,Wrong size,87.9,Australia
+RET2833,ORD126878,PRD1024,Sunglasses,2022-05-14,Not as described,76.03,United Kingdom
+RET2834,ORD126885,PRD1005,Bags,2024-05-22,Changed mind,50.66,United States
+RET2835,ORD126894,PRD1015,Jewellery,2022-08-24,Defective item,33.82,Canada
+RET2836,ORD126922,PRD1030,Scarves,2023-08-14,Gift return,106.99,United States
+RET2837,ORD126935,PRD1009,Jewellery,2023-01-06,Gift return,25.56,Australia
+RET2838,ORD126937,PRD1028,Scarves,2024-09-29,Changed mind,92.58,Canada
+RET2839,ORD126938,PRD1027,Sunglasses,2024-01-03,Wrong size,35.64,United Kingdom
+RET2840,ORD126939,PRD1005,Bags,2022-02-08,Changed mind,50.66,United Kingdom
+RET2841,ORD126940,PRD1006,Bags,2023-04-04,Not as described,45.21,Canada
+RET2842,ORD126943,PRD1024,Sunglasses,2024-01-17,Not as described,76.03,United States
+RET2843,ORD126950,PRD1008,Bags,2022-03-04,Not as described,51.34,United States
+RET2844,ORD126955,PRD1014,Jewellery,2024-04-17,Better price found,109.25,United States
+RET2845,ORD126982,PRD1021,Watches,2024-09-12,Defective item,210.92,United States
+RET2846,ORD127007,PRD1021,Watches,2022-01-20,Changed mind,210.92,Canada
+RET2847,ORD127038,PRD1015,Jewellery,2022-12-19,Changed mind,33.82,United States
+RET2848,ORD127078,PRD1025,Sunglasses,2022-03-15,Gift return,69.07,United States
+RET2849,ORD127104,PRD1004,Bags,2022-01-17,Wrong size,136.77,Canada
+RET2850,ORD127105,PRD1007,Bags,2022-08-28,Defective item,128.67,United Kingdom
+RET2851,ORD127107,PRD1019,Watches,2023-08-11,Defective item,394.01,United States
+RET2852,ORD127109,PRD1007,Bags,2023-06-08,Wrong size,128.67,United Kingdom
+RET2853,ORD127132,PRD1010,Jewellery,2022-02-15,Wrong size,91.88,United States
+RET2854,ORD127134,PRD1007,Bags,2022-06-26,Wrong size,128.67,Canada
+RET2855,ORD127182,PRD1021,Watches,2022-04-10,Wrong size,210.92,United States
+RET2856,ORD127190,PRD1006,Bags,2023-01-13,Defective item,45.21,United States
+RET2857,ORD127213,PRD1015,Jewellery,2024-11-14,Not as described,33.82,United States
+RET2858,ORD127226,PRD1006,Bags,2024-01-06,Changed mind,45.21,United Kingdom
+RET2859,ORD127240,PRD1005,Bags,2022-05-18,Wrong size,50.66,United States
+RET2860,ORD127256,PRD1003,Bags,2023-07-03,Gift return,87.9,United Kingdom
+RET2861,ORD127267,PRD1023,Sunglasses,2022-06-23,Defective item,120.94,United States
+RET2862,ORD127290,PRD1001,Bags,2022-09-12,Not as described,148.0,Australia
+RET2863,ORD127291,PRD1033,Belts,2023-05-14,Not as described,86.54,United States
+RET2864,ORD127295,PRD1010,Jewellery,2023-01-25,Wrong size,91.88,Canada
+RET2865,ORD127306,PRD1026,Sunglasses,2023-12-10,Changed mind,148.49,United States
+RET2866,ORD127329,PRD1009,Jewellery,2023-09-02,Changed mind,25.56,United States
+RET2867,ORD127356,PRD1022,Watches,2022-09-02,Changed mind,111.06,United Kingdom
+RET2868,ORD127388,PRD1003,Bags,2024-03-24,Wrong size,87.9,United Kingdom
+RET2869,ORD127392,PRD1004,Bags,2024-05-10,Better price found,136.77,United Kingdom
+RET2870,ORD127393,PRD1014,Jewellery,2024-01-02,Wrong size,109.25,United Kingdom
+RET2871,ORD127401,PRD1002,Bags,2022-05-15,Not as described,259.42,Canada
+RET2872,ORD127416,PRD1007,Bags,2024-01-12,Better price found,128.67,United States
+RET2873,ORD127467,PRD1026,Sunglasses,2022-03-10,Not as described,148.49,United States
+RET2874,ORD127477,PRD1002,Bags,2024-08-10,Wrong size,259.42,United States
+RET2875,ORD127509,PRD1030,Scarves,2024-05-04,Better price found,106.99,United Kingdom
+RET2876,ORD127525,PRD1006,Bags,2024-01-02,Gift return,45.21,United Kingdom
+RET2877,ORD127553,PRD1025,Sunglasses,2024-02-21,Not as described,69.07,United Kingdom
+RET2878,ORD127554,PRD1017,Watches,2022-07-04,Changed mind,330.2,Canada
+RET2879,ORD127563,PRD1013,Jewellery,2022-08-16,Defective item,28.54,United States
+RET2880,ORD127563,PRD1022,Watches,2022-08-21,Wrong size,111.06,United States
+RET2881,ORD127577,PRD1019,Watches,2023-10-13,Changed mind,394.01,United States
+RET2882,ORD127593,PRD1020,Watches,2023-06-05,Wrong size,412.66,United States
+RET2883,ORD127608,PRD1002,Bags,2023-04-29,Changed mind,259.42,Canada
+RET2884,ORD127658,PRD1006,Bags,2023-05-15,Changed mind,45.21,Canada
+RET2885,ORD127660,PRD1014,Jewellery,2022-01-19,Defective item,109.25,United Kingdom
+RET2886,ORD127699,PRD1003,Bags,2022-02-21,Defective item,87.9,Australia
+RET2887,ORD127707,PRD1016,Jewellery,2022-05-31,Changed mind,23.57,Canada
+RET2888,ORD127724,PRD1003,Bags,2024-06-26,Gift return,87.9,United States
+RET2889,ORD127732,PRD1027,Sunglasses,2022-12-30,Changed mind,35.64,United Kingdom
+RET2890,ORD127750,PRD1016,Jewellery,2022-12-21,Wrong size,23.57,United States
+RET2891,ORD127785,PRD1002,Bags,2023-10-22,Changed mind,259.42,United States
+RET2892,ORD127791,PRD1011,Jewellery,2023-01-08,Wrong size,79.96,United States
+RET2893,ORD127795,PRD1006,Bags,2023-01-12,Not as described,45.21,United States
+RET2894,ORD127829,PRD1008,Bags,2023-11-17,Wrong size,51.34,United States
+RET2895,ORD127838,PRD1005,Bags,2022-12-04,Defective item,50.66,United States
+RET2896,ORD127840,PRD1006,Bags,2024-01-21,Wrong size,45.21,Australia
+RET2897,ORD127854,PRD1026,Sunglasses,2022-02-16,Defective item,148.49,United States
+RET2898,ORD127855,PRD1005,Bags,2022-06-13,Gift return,50.66,United Kingdom
+RET2899,ORD127863,PRD1006,Bags,2024-09-10,Better price found,45.21,United States
+RET2900,ORD127883,PRD1003,Bags,2024-04-16,Wrong size,87.9,United Kingdom
+RET2901,ORD127887,PRD1021,Watches,2022-02-17,Better price found,210.92,United Kingdom
+RET2902,ORD127907,PRD1032,Belts,2023-03-06,Defective item,69.94,United States
+RET2903,ORD127909,PRD1021,Watches,2023-11-30,Changed mind,210.92,United States
+RET2904,ORD127931,PRD1005,Bags,2024-10-15,Defective item,50.66,United States
+RET2905,ORD127939,PRD1001,Bags,2023-11-10,Defective item,148.0,United Kingdom
+RET2906,ORD127953,PRD1012,Jewellery,2022-05-05,Not as described,157.31,United States
+RET2907,ORD127985,PRD1015,Jewellery,2023-10-15,Better price found,33.82,United States
+RET2908,ORD127988,PRD1013,Jewellery,2024-10-18,Wrong size,28.54,United Kingdom
+RET2909,ORD127993,PRD1006,Bags,2023-12-30,Changed mind,45.21,United States
+RET2910,ORD128012,PRD1021,Watches,2022-12-12,Gift return,210.92,Canada
+RET2911,ORD128033,PRD1025,Sunglasses,2023-11-28,Defective item,69.07,Australia
+RET2912,ORD128041,PRD1025,Sunglasses,2022-11-25,Changed mind,69.07,United States
+RET2913,ORD128041,PRD1002,Bags,2022-12-14,Changed mind,259.42,United States
+RET2914,ORD128072,PRD1033,Belts,2023-02-20,Better price found,86.54,United Kingdom
+RET2915,ORD128103,PRD1003,Bags,2023-11-28,Wrong size,87.9,Australia
+RET2916,ORD128122,PRD1025,Sunglasses,2023-07-30,Wrong size,69.07,United States
+RET2917,ORD128136,PRD1033,Belts,2022-07-15,Wrong size,86.54,Canada
+RET2918,ORD128142,PRD1001,Bags,2023-12-29,Defective item,148.0,United States
+RET2919,ORD128153,PRD1024,Sunglasses,2022-09-21,Changed mind,76.03,Australia
+RET2920,ORD128157,PRD1014,Jewellery,2023-09-08,Not as described,109.25,United Kingdom
+RET2921,ORD128162,PRD1010,Jewellery,2024-04-22,Defective item,91.88,United States
+RET2922,ORD128183,PRD1010,Jewellery,2022-03-23,Wrong size,91.88,Canada
+RET2923,ORD128216,PRD1022,Watches,2023-09-23,Gift return,111.06,Australia
+RET2924,ORD128247,PRD1021,Watches,2022-10-13,Not as described,210.92,United States
+RET2925,ORD128247,PRD1019,Watches,2022-10-20,Not as described,394.01,United States
+RET2926,ORD128284,PRD1010,Jewellery,2023-01-27,Wrong size,91.88,United Kingdom
+RET2927,ORD128305,PRD1004,Bags,2023-10-02,Changed mind,136.77,United States
+RET2928,ORD128321,PRD1026,Sunglasses,2024-07-21,Not as described,148.49,United States
+RET2929,ORD128354,PRD1030,Scarves,2023-12-24,Wrong size,106.99,Australia
+RET2930,ORD128412,PRD1018,Watches,2023-01-16,Wrong size,289.08,Canada
+RET2931,ORD128421,PRD1030,Scarves,2024-06-24,Defective item,106.99,United Kingdom
+RET2932,ORD128461,PRD1002,Bags,2022-10-24,Defective item,259.42,Canada
+RET2933,ORD128491,PRD1030,Scarves,2022-11-19,Defective item,106.99,United Kingdom
+RET2934,ORD128519,PRD1006,Bags,2024-08-17,Wrong size,45.21,United Kingdom
+RET2935,ORD128555,PRD1006,Bags,2024-09-15,Defective item,45.21,United States
+RET2936,ORD128555,PRD1004,Bags,2024-09-06,Wrong size,136.77,United States
+RET2937,ORD128563,PRD1012,Jewellery,2023-01-07,Defective item,157.31,Canada
+RET2938,ORD128575,PRD1001,Bags,2023-01-08,Gift return,148.0,Canada
+RET2939,ORD128586,PRD1021,Watches,2023-06-13,Wrong size,210.92,United States
+RET2940,ORD128589,PRD1018,Watches,2023-12-30,Not as described,289.08,United States
+RET2941,ORD128600,PRD1019,Watches,2022-07-26,Gift return,394.01,United Kingdom
+RET2942,ORD128629,PRD1023,Sunglasses,2024-04-03,Wrong size,120.94,United States
+RET2943,ORD128670,PRD1008,Bags,2023-12-11,Wrong size,51.34,Canada
+RET2944,ORD128679,PRD1014,Jewellery,2023-01-18,Not as described,109.25,United Kingdom
+RET2945,ORD128683,PRD1017,Watches,2024-04-10,Wrong size,330.2,United States
+RET2946,ORD128690,PRD1002,Bags,2024-06-21,Not as described,259.42,United States
+RET2947,ORD128704,PRD1023,Sunglasses,2022-04-20,Changed mind,120.94,Australia
+RET2948,ORD128732,PRD1016,Jewellery,2022-12-15,Defective item,23.57,United States
+RET2949,ORD128732,PRD1018,Watches,2022-12-23,Gift return,289.08,United States
+RET2950,ORD128735,PRD1003,Bags,2024-06-06,Not as described,87.9,United States
+RET2951,ORD128736,PRD1018,Watches,2022-05-13,Defective item,289.08,Canada
+RET2952,ORD128745,PRD1023,Sunglasses,2022-11-30,Wrong size,120.94,United States
+RET2953,ORD128756,PRD1019,Watches,2022-02-20,Wrong size,394.01,Canada
+RET2954,ORD128788,PRD1006,Bags,2024-09-06,Wrong size,45.21,United Kingdom
+RET2955,ORD128810,PRD1004,Bags,2024-01-16,Changed mind,136.77,Canada
+RET2956,ORD128838,PRD1022,Watches,2024-01-05,Defective item,111.06,United Kingdom
+RET2957,ORD128840,PRD1002,Bags,2023-06-22,Not as described,259.42,United States
+RET2958,ORD128846,PRD1002,Bags,2022-11-10,Gift return,259.42,United States
+RET2959,ORD128847,PRD1024,Sunglasses,2022-05-23,Defective item,76.03,United States
+RET2960,ORD128856,PRD1023,Sunglasses,2023-07-24,Changed mind,120.94,United States
+RET2961,ORD128864,PRD1024,Sunglasses,2023-11-23,Not as described,76.03,Canada
+RET2962,ORD128882,PRD1019,Watches,2022-03-01,Wrong size,394.01,United Kingdom
+RET2963,ORD128887,PRD1016,Jewellery,2022-11-19,Defective item,23.57,United States
+RET2964,ORD128894,PRD1031,Belts,2022-11-29,Defective item,24.77,Canada
+RET2965,ORD128898,PRD1005,Bags,2024-06-02,Changed mind,50.66,United States
+RET2966,ORD128899,PRD1004,Bags,2023-12-24,Defective item,136.77,Canada
+RET2967,ORD128909,PRD1001,Bags,2022-03-28,Changed mind,148.0,United States
+RET2968,ORD128934,PRD1016,Jewellery,2022-08-12,Not as described,23.57,United States
+RET2969,ORD128973,PRD1031,Belts,2024-06-27,Defective item,24.77,United States
+RET2970,ORD128973,PRD1003,Bags,2024-06-22,Better price found,87.9,United States
+RET2971,ORD128979,PRD1006,Bags,2023-12-26,Defective item,45.21,Canada
+RET2972,ORD129008,PRD1021,Watches,2022-12-01,Changed mind,210.92,United States
+RET2973,ORD129009,PRD1025,Sunglasses,2023-09-19,Changed mind,69.07,Canada
+RET2974,ORD129016,PRD1016,Jewellery,2022-07-04,Not as described,23.57,United States
+RET2975,ORD129037,PRD1002,Bags,2023-10-31,Better price found,259.42,United States
+RET2976,ORD129041,PRD1005,Bags,2023-08-10,Wrong size,50.66,United Kingdom
+RET2977,ORD129055,PRD1013,Jewellery,2024-09-20,Changed mind,28.54,United States
+RET2978,ORD129073,PRD1001,Bags,2023-12-15,Defective item,148.0,United Kingdom
+RET2979,ORD129079,PRD1021,Watches,2022-06-16,Changed mind,210.92,United States
+RET2980,ORD129094,PRD1004,Bags,2024-09-20,Wrong size,136.77,Canada
+RET2981,ORD129094,PRD1022,Watches,2024-09-10,Changed mind,111.06,Canada
+RET2982,ORD129096,PRD1025,Sunglasses,2022-01-26,Not as described,69.07,United States
+RET2983,ORD129151,PRD1002,Bags,2023-08-14,Changed mind,259.42,United States
+RET2984,ORD129172,PRD1027,Sunglasses,2023-11-15,Wrong size,35.64,Canada
+RET2985,ORD129187,PRD1017,Watches,2022-05-31,Defective item,330.2,Australia
+RET2986,ORD129212,PRD1014,Jewellery,2024-06-16,Changed mind,109.25,United States
+RET2987,ORD129219,PRD1003,Bags,2024-10-03,Not as described,87.9,United States
+RET2988,ORD129224,PRD1022,Watches,2023-09-26,Wrong size,111.06,United States
+RET2989,ORD129246,PRD1029,Scarves,2022-08-05,Changed mind,113.0,United States
+RET2990,ORD129255,PRD1019,Watches,2024-05-04,Wrong size,394.01,United Kingdom
+RET2991,ORD129288,PRD1033,Belts,2023-12-31,Better price found,86.54,United States
+RET2992,ORD129292,PRD1004,Bags,2022-11-16,Better price found,136.77,United Kingdom
+RET2993,ORD129300,PRD1014,Jewellery,2024-02-20,Defective item,109.25,United States
+RET2994,ORD129310,PRD1008,Bags,2023-12-28,Better price found,51.34,Canada
+RET2995,ORD129312,PRD1025,Sunglasses,2022-10-09,Defective item,69.07,Australia
+RET2996,ORD129316,PRD1012,Jewellery,2022-01-29,Better price found,157.31,United Kingdom
+RET2997,ORD129316,PRD1003,Bags,2022-02-07,Not as described,87.9,United Kingdom
+RET2998,ORD129332,PRD1028,Scarves,2024-05-11,Not as described,92.58,United States
+RET2999,ORD129346,PRD1014,Jewellery,2023-05-07,Better price found,109.25,United Kingdom
+RET3000,ORD129347,PRD1020,Watches,2023-06-04,Changed mind,412.66,United Kingdom
+RET3001,ORD129347,PRD1005,Bags,2023-05-27,Wrong size,50.66,United Kingdom
+RET3002,ORD129350,PRD1005,Bags,2024-09-03,Not as described,50.66,United States
+RET3003,ORD129358,PRD1019,Watches,2024-09-03,Wrong size,394.01,United States
+RET3004,ORD129373,PRD1009,Jewellery,2022-10-30,Gift return,25.56,United Kingdom
+RET3005,ORD129395,PRD1010,Jewellery,2023-12-09,Wrong size,91.88,Australia
+RET3006,ORD129421,PRD1002,Bags,2023-01-06,Wrong size,259.42,United States
+RET3007,ORD129441,PRD1002,Bags,2024-03-07,Not as described,259.42,United States
+RET3008,ORD129461,PRD1010,Jewellery,2022-04-17,Defective item,91.88,United States
+RET3009,ORD129467,PRD1018,Watches,2022-01-28,Changed mind,289.08,United States
+RET3010,ORD129474,PRD1011,Jewellery,2024-06-08,Changed mind,79.96,United States
+RET3011,ORD129500,PRD1009,Jewellery,2024-02-21,Defective item,25.56,United States
+RET3012,ORD129501,PRD1031,Belts,2024-01-05,Changed mind,24.77,United States
+RET3013,ORD129502,PRD1007,Bags,2024-08-11,Defective item,128.67,United States
+RET3014,ORD129512,PRD1030,Scarves,2022-12-25,Changed mind,106.99,United States
+RET3015,ORD129518,PRD1022,Watches,2024-02-18,Defective item,111.06,United States
+RET3016,ORD129573,PRD1021,Watches,2023-10-21,Changed mind,210.92,Australia
+RET3017,ORD129598,PRD1021,Watches,2023-12-07,Changed mind,210.92,United States
+RET3018,ORD129623,PRD1019,Watches,2024-03-17,Defective item,394.01,United States
+RET3019,ORD129625,PRD1005,Bags,2023-10-18,Wrong size,50.66,Canada
+RET3020,ORD129644,PRD1006,Bags,2024-03-20,Better price found,45.21,United States
+RET3021,ORD129670,PRD1007,Bags,2022-06-05,Not as described,128.67,United States
+RET3022,ORD129678,PRD1010,Jewellery,2022-12-29,Wrong size,91.88,United Kingdom
+RET3023,ORD129679,PRD1025,Sunglasses,2022-12-08,Defective item,69.07,Canada
+RET3024,ORD129694,PRD1004,Bags,2022-05-08,Gift return,136.77,United States
+RET3025,ORD129751,PRD1013,Jewellery,2022-12-17,Defective item,28.54,Canada
+RET3026,ORD129772,PRD1013,Jewellery,2023-03-09,Changed mind,28.54,United States
+RET3027,ORD129778,PRD1005,Bags,2024-10-20,Defective item,50.66,United Kingdom
+RET3028,ORD129779,PRD1026,Sunglasses,2024-05-31,Not as described,148.49,United States
+RET3029,ORD129831,PRD1006,Bags,2022-11-29,Defective item,45.21,United States
+RET3030,ORD129838,PRD1027,Sunglasses,2023-02-17,Wrong size,35.64,United States
+RET3031,ORD129839,PRD1023,Sunglasses,2022-09-14,Changed mind,120.94,United Kingdom
+RET3032,ORD129839,PRD1026,Sunglasses,2022-09-15,Not as described,148.49,United Kingdom
+RET3033,ORD129842,PRD1006,Bags,2024-01-31,Not as described,45.21,Australia
+RET3034,ORD129858,PRD1009,Jewellery,2023-01-03,Better price found,25.56,United Kingdom
+RET3035,ORD129874,PRD1022,Watches,2024-02-11,Wrong size,111.06,United States
+RET3036,ORD129890,PRD1023,Sunglasses,2023-01-05,Defective item,120.94,United States
+RET3037,ORD129917,PRD1018,Watches,2022-12-17,Wrong size,289.08,United States
+RET3038,ORD129943,PRD1014,Jewellery,2022-12-02,Wrong size,109.25,United Kingdom
+RET3039,ORD129949,PRD1007,Bags,2023-07-30,Wrong size,128.67,United States
+RET3040,ORD129949,PRD1015,Jewellery,2023-07-25,Defective item,33.82,United States
+RET3041,ORD129951,PRD1014,Jewellery,2022-11-24,Not as described,109.25,United Kingdom
+RET3042,ORD129954,PRD1004,Bags,2023-02-14,Changed mind,136.77,United States
+RET3043,ORD129979,PRD1007,Bags,2023-09-16,Gift return,128.67,United States
+RET3044,ORD130011,PRD1006,Bags,2024-08-07,Not as described,45.21,United States
+RET3045,ORD130026,PRD1017,Watches,2022-03-26,Not as described,330.2,Canada
+RET3046,ORD130037,PRD1005,Bags,2022-08-07,Wrong size,50.66,United Kingdom
+RET3047,ORD130066,PRD1016,Jewellery,2024-02-10,Changed mind,23.57,United Kingdom
+RET3048,ORD130070,PRD1005,Bags,2023-12-29,Changed mind,50.66,United States
+RET3049,ORD130071,PRD1007,Bags,2022-03-02,Changed mind,128.67,United States
+RET3050,ORD130100,PRD1007,Bags,2024-01-16,Defective item,128.67,Canada
+RET3051,ORD130106,PRD1003,Bags,2023-10-31,Wrong size,87.9,United Kingdom
+RET3052,ORD130114,PRD1009,Jewellery,2023-12-27,Defective item,25.56,Canada
+RET3053,ORD130136,PRD1001,Bags,2023-08-20,Changed mind,148.0,United States
+RET3054,ORD130160,PRD1029,Scarves,2023-01-07,Changed mind,113.0,Australia
+RET3055,ORD130160,PRD1013,Jewellery,2023-01-05,Not as described,28.54,Australia
+RET3056,ORD130165,PRD1020,Watches,2022-02-15,Wrong size,412.66,United States
+RET3057,ORD130174,PRD1013,Jewellery,2022-12-08,Not as described,28.54,Canada
+RET3058,ORD130176,PRD1009,Jewellery,2022-05-05,Changed mind,25.56,United States
+RET3059,ORD130183,PRD1004,Bags,2023-01-16,Better price found,136.77,United Kingdom
+RET3060,ORD130187,PRD1001,Bags,2023-01-04,Better price found,148.0,Australia
+RET3061,ORD130188,PRD1018,Watches,2023-01-17,Better price found,289.08,United Kingdom
+RET3062,ORD130188,PRD1025,Sunglasses,2023-01-09,Defective item,69.07,United Kingdom
+RET3063,ORD130192,PRD1002,Bags,2024-02-23,Wrong size,259.42,United Kingdom
+RET3064,ORD130216,PRD1004,Bags,2024-02-27,Not as described,136.77,United States
+RET3065,ORD130219,PRD1018,Watches,2023-01-14,Defective item,289.08,United Kingdom
+RET3066,ORD130261,PRD1001,Bags,2022-11-24,Gift return,148.0,Canada
+RET3067,ORD130268,PRD1026,Sunglasses,2022-07-08,Wrong size,148.49,United States
+RET3068,ORD130283,PRD1005,Bags,2023-08-31,Defective item,50.66,United States
+RET3069,ORD130296,PRD1024,Sunglasses,2022-05-08,Wrong size,76.03,United Kingdom
+RET3070,ORD130303,PRD1007,Bags,2023-06-23,Wrong size,128.67,United States
+RET3071,ORD130305,PRD1018,Watches,2022-11-25,Wrong size,289.08,United States
+RET3072,ORD130309,PRD1007,Bags,2023-10-30,Changed mind,128.67,United Kingdom
+RET3073,ORD130310,PRD1024,Sunglasses,2023-06-18,Changed mind,76.03,United States
+RET3074,ORD130319,PRD1022,Watches,2023-07-08,Better price found,111.06,United States
+RET3075,ORD130333,PRD1016,Jewellery,2024-08-17,Wrong size,23.57,Canada
+RET3076,ORD130340,PRD1006,Bags,2023-12-05,Not as described,45.21,United States
+RET3077,ORD130363,PRD1032,Belts,2024-10-08,Changed mind,69.94,Canada
+RET3078,ORD130390,PRD1011,Jewellery,2024-03-14,Better price found,79.96,Australia
+RET3079,ORD130390,PRD1027,Sunglasses,2024-04-01,Defective item,35.64,Australia
+RET3080,ORD130416,PRD1023,Sunglasses,2024-06-27,Wrong size,120.94,United States
+RET3081,ORD130438,PRD1021,Watches,2024-02-26,Defective item,210.92,United States
+RET3082,ORD130450,PRD1008,Bags,2022-04-06,Changed mind,51.34,United States
+RET3083,ORD130450,PRD1022,Watches,2022-04-17,Changed mind,111.06,United States
+RET3084,ORD130470,PRD1018,Watches,2024-02-27,Not as described,289.08,United States
+RET3085,ORD130471,PRD1004,Bags,2024-08-31,Better price found,136.77,Canada
+RET3086,ORD130471,PRD1006,Bags,2024-09-03,Better price found,45.21,Canada
+RET3087,ORD130492,PRD1023,Sunglasses,2023-11-24,Wrong size,120.94,Australia
+RET3088,ORD130493,PRD1027,Sunglasses,2022-12-10,Defective item,35.64,United Kingdom
+RET3089,ORD130501,PRD1004,Bags,2024-04-06,Wrong size,136.77,United Kingdom
+RET3090,ORD130509,PRD1027,Sunglasses,2024-05-20,Not as described,35.64,Australia
+RET3091,ORD130516,PRD1005,Bags,2022-11-08,Changed mind,50.66,United States
+RET3092,ORD130529,PRD1005,Bags,2022-07-29,Changed mind,50.66,United Kingdom
+RET3093,ORD130555,PRD1002,Bags,2024-08-16,Wrong size,259.42,United States
+RET3094,ORD130578,PRD1018,Watches,2023-01-07,Wrong size,289.08,United States
+RET3095,ORD130592,PRD1027,Sunglasses,2022-09-03,Defective item,35.64,United States
+RET3096,ORD130610,PRD1014,Jewellery,2023-06-12,Changed mind,109.25,United Kingdom
+RET3097,ORD130627,PRD1006,Bags,2023-07-14,Changed mind,45.21,United States
+RET3098,ORD130629,PRD1005,Bags,2023-01-02,Wrong size,50.66,United States
+RET3099,ORD130665,PRD1015,Jewellery,2022-09-04,Not as described,33.82,United States
+RET3100,ORD130677,PRD1019,Watches,2022-08-07,Changed mind,394.01,Canada
+RET3101,ORD130681,PRD1026,Sunglasses,2023-11-17,Gift return,148.49,United States
+RET3102,ORD130683,PRD1025,Sunglasses,2022-03-24,Changed mind,69.07,United States
+RET3103,ORD130711,PRD1022,Watches,2022-09-18,Gift return,111.06,Australia
+RET3104,ORD130753,PRD1010,Jewellery,2023-03-30,Changed mind,91.88,United Kingdom
+RET3105,ORD130753,PRD1011,Jewellery,2023-04-02,Not as described,79.96,United Kingdom
+RET3106,ORD130769,PRD1028,Scarves,2022-06-19,Wrong size,92.58,United States
+RET3107,ORD130776,PRD1033,Belts,2024-05-23,Better price found,86.54,Canada
+RET3108,ORD130828,PRD1007,Bags,2024-07-15,Wrong size,128.67,United States
+RET3109,ORD130835,PRD1029,Scarves,2024-08-28,Changed mind,113.0,United Kingdom
+RET3110,ORD130840,PRD1032,Belts,2022-01-12,Changed mind,69.94,United States
+RET3111,ORD130841,PRD1022,Watches,2022-12-28,Changed mind,111.06,United States
+RET3112,ORD130862,PRD1002,Bags,2024-03-09,Changed mind,259.42,United States
+RET3113,ORD130870,PRD1008,Bags,2024-04-06,Gift return,51.34,United States
+RET3114,ORD130916,PRD1023,Sunglasses,2023-01-14,Wrong size,120.94,United States
+RET3115,ORD130919,PRD1008,Bags,2023-01-01,Not as described,51.34,United States
+RET3116,ORD130920,PRD1017,Watches,2023-12-02,Not as described,330.2,Australia
+RET3117,ORD130920,PRD1015,Jewellery,2023-12-05,Not as described,33.82,Australia
+RET3118,ORD130929,PRD1017,Watches,2024-06-11,Wrong size,330.2,United States
+RET3119,ORD130936,PRD1031,Belts,2022-06-28,Changed mind,24.77,United Kingdom
+RET3120,ORD130936,PRD1027,Sunglasses,2022-07-06,Defective item,35.64,United Kingdom
+RET3121,ORD130955,PRD1022,Watches,2023-12-12,Better price found,111.06,Canada
+RET3122,ORD130961,PRD1006,Bags,2023-07-09,Defective item,45.21,United States
+RET3123,ORD131000,PRD1024,Sunglasses,2024-06-06,Changed mind,76.03,United States
+RET3124,ORD131018,PRD1006,Bags,2022-04-26,Changed mind,45.21,United States
+RET3125,ORD131045,PRD1021,Watches,2022-12-31,Wrong size,210.92,United States
+RET3126,ORD131076,PRD1016,Jewellery,2022-11-09,Better price found,23.57,United States
+RET3127,ORD131080,PRD1023,Sunglasses,2024-01-18,Defective item,120.94,United Kingdom
+RET3128,ORD131086,PRD1025,Sunglasses,2024-10-10,Changed mind,69.07,United States
+RET3129,ORD131102,PRD1017,Watches,2022-12-12,Not as described,330.2,Canada
+RET3130,ORD131123,PRD1018,Watches,2023-09-14,Wrong size,289.08,United Kingdom
+RET3131,ORD131137,PRD1019,Watches,2024-02-28,Wrong size,394.01,Canada
+RET3132,ORD131143,PRD1003,Bags,2024-01-27,Changed mind,87.9,Canada
+RET3133,ORD131149,PRD1020,Watches,2024-07-07,Wrong size,412.66,United States
+RET3134,ORD131156,PRD1005,Bags,2024-11-13,Not as described,50.66,United States
+RET3135,ORD131157,PRD1021,Watches,2023-09-25,Changed mind,210.92,United Kingdom
+RET3136,ORD131164,PRD1003,Bags,2022-06-27,Wrong size,87.9,United States
+RET3137,ORD131168,PRD1005,Bags,2024-10-28,Wrong size,50.66,Australia
+RET3138,ORD131183,PRD1030,Scarves,2023-08-15,Changed mind,106.99,United States
+RET3139,ORD131185,PRD1015,Jewellery,2023-08-16,Not as described,33.82,United States
+RET3140,ORD131195,PRD1030,Scarves,2023-11-14,Gift return,106.99,Australia
+RET3141,ORD131207,PRD1024,Sunglasses,2023-02-13,Wrong size,76.03,United States
+RET3142,ORD131207,PRD1018,Watches,2023-01-30,Not as described,289.08,United States
+RET3143,ORD131216,PRD1007,Bags,2022-12-02,Wrong size,128.67,United States
+RET3144,ORD131220,PRD1015,Jewellery,2023-07-09,Better price found,33.82,United States
+RET3145,ORD131240,PRD1004,Bags,2022-12-24,Defective item,136.77,United States
+RET3146,ORD131247,PRD1006,Bags,2023-12-16,Wrong size,45.21,Canada
+RET3147,ORD131265,PRD1013,Jewellery,2024-05-17,Changed mind,28.54,United Kingdom
+RET3148,ORD131274,PRD1024,Sunglasses,2022-06-30,Wrong size,76.03,United States
+RET3149,ORD131277,PRD1014,Jewellery,2024-05-31,Defective item,109.25,Australia
+RET3150,ORD131279,PRD1001,Bags,2022-05-30,Changed mind,148.0,United States
+RET3151,ORD131330,PRD1020,Watches,2023-03-24,Changed mind,412.66,United States
+RET3152,ORD131337,PRD1008,Bags,2023-11-22,Wrong size,51.34,United States
+RET3153,ORD131341,PRD1027,Sunglasses,2022-11-28,Gift return,35.64,United States
+RET3154,ORD131361,PRD1003,Bags,2022-03-06,Defective item,87.9,United States
+RET3155,ORD131407,PRD1013,Jewellery,2024-03-22,Wrong size,28.54,Canada
+RET3156,ORD131408,PRD1007,Bags,2023-01-07,Defective item,128.67,Canada
+RET3157,ORD131425,PRD1019,Watches,2023-06-17,Better price found,394.01,United Kingdom
+RET3158,ORD131451,PRD1022,Watches,2022-10-03,Changed mind,111.06,United States
+RET3159,ORD131453,PRD1003,Bags,2024-04-02,Changed mind,87.9,United Kingdom
+RET3160,ORD131454,PRD1019,Watches,2023-12-12,Changed mind,394.01,United Kingdom
+RET3161,ORD131499,PRD1006,Bags,2024-06-09,Defective item,45.21,Australia
+RET3162,ORD131531,PRD1008,Bags,2024-08-23,Wrong size,51.34,United Kingdom
+RET3163,ORD131533,PRD1018,Watches,2023-08-09,Changed mind,289.08,United Kingdom
+RET3164,ORD131539,PRD1033,Belts,2022-12-11,Wrong size,86.54,Canada
+RET3165,ORD131562,PRD1008,Bags,2023-12-31,Gift return,51.34,United Kingdom
+RET3166,ORD131572,PRD1005,Bags,2022-11-10,Defective item,50.66,United States
+RET3167,ORD131611,PRD1008,Bags,2022-04-16,Not as described,51.34,United States
+RET3168,ORD131618,PRD1020,Watches,2023-01-17,Defective item,412.66,United States
+RET3169,ORD131631,PRD1014,Jewellery,2022-06-18,Not as described,109.25,United Kingdom
+RET3170,ORD131640,PRD1030,Scarves,2023-06-03,Gift return,106.99,Canada
+RET3171,ORD131650,PRD1022,Watches,2022-12-07,Defective item,111.06,United Kingdom
+RET3172,ORD131653,PRD1002,Bags,2022-09-24,Wrong size,259.42,United States
+RET3173,ORD131661,PRD1020,Watches,2022-09-06,Wrong size,412.66,United States
+RET3174,ORD131674,PRD1001,Bags,2023-11-09,Changed mind,148.0,United Kingdom
+RET3175,ORD131676,PRD1021,Watches,2022-05-24,Not as described,210.92,United Kingdom
+RET3176,ORD131685,PRD1002,Bags,2022-09-07,Defective item,259.42,Canada
+RET3177,ORD131687,PRD1026,Sunglasses,2024-02-18,Gift return,148.49,United States
+RET3178,ORD131697,PRD1008,Bags,2023-11-10,Better price found,51.34,United States
+RET3179,ORD131731,PRD1016,Jewellery,2022-09-12,Defective item,23.57,United States
+RET3180,ORD131744,PRD1002,Bags,2024-07-09,Changed mind,259.42,United Kingdom
+RET3181,ORD131772,PRD1016,Jewellery,2022-12-16,Changed mind,23.57,United States
+RET3182,ORD131793,PRD1003,Bags,2024-01-02,Wrong size,87.9,United States
+RET3183,ORD131806,PRD1004,Bags,2023-06-03,Better price found,136.77,United States
+RET3184,ORD131839,PRD1027,Sunglasses,2023-12-04,Changed mind,35.64,United Kingdom
+RET3185,ORD131869,PRD1004,Bags,2023-12-31,Better price found,136.77,United States
+RET3186,ORD131879,PRD1021,Watches,2022-03-21,Changed mind,210.92,United States
+RET3187,ORD131883,PRD1007,Bags,2022-04-20,Not as described,128.67,United States
+RET3188,ORD131884,PRD1016,Jewellery,2023-02-12,Changed mind,23.57,Canada
+RET3189,ORD131924,PRD1022,Watches,2024-07-20,Defective item,111.06,United States
+RET3190,ORD131954,PRD1024,Sunglasses,2023-08-21,Wrong size,76.03,Canada
+RET3191,ORD131963,PRD1009,Jewellery,2024-04-20,Changed mind,25.56,United States
+RET3192,ORD131980,PRD1015,Jewellery,2024-09-09,Defective item,33.82,United States
+RET3193,ORD131998,PRD1021,Watches,2023-07-06,Defective item,210.92,Australia
+RET3194,ORD131999,PRD1007,Bags,2023-06-16,Defective item,128.67,Australia
+RET3195,ORD132004,PRD1015,Jewellery,2024-03-22,Wrong size,33.82,United Kingdom
+RET3196,ORD132011,PRD1005,Bags,2022-12-02,Defective item,50.66,United States
+RET3197,ORD132047,PRD1018,Watches,2024-11-05,Changed mind,289.08,United States
+RET3198,ORD132098,PRD1006,Bags,2023-05-21,Wrong size,45.21,Canada
+RET3199,ORD132105,PRD1008,Bags,2023-12-17,Changed mind,51.34,United States
+RET3200,ORD132109,PRD1021,Watches,2022-07-20,Defective item,210.92,United States
+RET3201,ORD132110,PRD1020,Watches,2024-03-21,Not as described,412.66,United States
+RET3202,ORD132132,PRD1007,Bags,2022-04-02,Wrong size,128.67,United States
+RET3203,ORD132159,PRD1025,Sunglasses,2023-11-24,Changed mind,69.07,United States
+RET3204,ORD132168,PRD1031,Belts,2024-10-14,Better price found,24.77,United Kingdom
+RET3205,ORD132200,PRD1024,Sunglasses,2022-09-09,Defective item,76.03,United States
+RET3206,ORD132203,PRD1018,Watches,2024-08-14,Changed mind,289.08,Canada
+RET3207,ORD132233,PRD1004,Bags,2022-11-25,Not as described,136.77,Australia
+RET3208,ORD132257,PRD1021,Watches,2024-02-22,Changed mind,210.92,United States
+RET3209,ORD132269,PRD1023,Sunglasses,2024-01-28,Gift return,120.94,United States
+RET3210,ORD132275,PRD1025,Sunglasses,2024-01-08,Not as described,69.07,Australia
+RET3211,ORD132301,PRD1019,Watches,2023-01-19,Better price found,394.01,Canada
+RET3212,ORD132321,PRD1005,Bags,2024-07-28,Changed mind,50.66,United States
+RET3213,ORD132328,PRD1008,Bags,2022-01-29,Not as described,51.34,United States
+RET3214,ORD132374,PRD1002,Bags,2023-05-26,Gift return,259.42,Canada
+RET3215,ORD132392,PRD1012,Jewellery,2022-11-08,Changed mind,157.31,Australia
+RET3216,ORD132395,PRD1002,Bags,2022-02-16,Defective item,259.42,United States
+RET3217,ORD132416,PRD1023,Sunglasses,2022-03-12,Defective item,120.94,United States
+RET3218,ORD132419,PRD1024,Sunglasses,2023-10-06,Wrong size,76.03,Canada
+RET3219,ORD132453,PRD1008,Bags,2024-06-07,Wrong size,51.34,United States
+RET3220,ORD132494,PRD1021,Watches,2023-12-30,Better price found,210.92,United States
+RET3221,ORD132516,PRD1008,Bags,2023-08-12,Not as described,51.34,United States
+RET3222,ORD132518,PRD1028,Scarves,2024-09-16,Defective item,92.58,United States
+RET3223,ORD132520,PRD1023,Sunglasses,2022-12-16,Changed mind,120.94,Canada
+RET3224,ORD132547,PRD1027,Sunglasses,2022-06-03,Changed mind,35.64,United States
+RET3225,ORD132550,PRD1013,Jewellery,2022-08-05,Not as described,28.54,United Kingdom
+RET3226,ORD132557,PRD1010,Jewellery,2022-08-22,Not as described,91.88,United States
+RET3227,ORD132559,PRD1031,Belts,2023-11-19,Changed mind,24.77,United Kingdom
+RET3228,ORD132565,PRD1005,Bags,2024-02-20,Not as described,50.66,United Kingdom
+RET3229,ORD132571,PRD1005,Bags,2022-03-02,Not as described,50.66,United Kingdom
+RET3230,ORD132604,PRD1018,Watches,2023-08-31,Wrong size,289.08,Canada
+RET3231,ORD132607,PRD1028,Scarves,2023-12-06,Better price found,92.58,United States
+RET3232,ORD132642,PRD1023,Sunglasses,2023-01-02,Changed mind,120.94,United States
+RET3233,ORD132651,PRD1020,Watches,2022-11-09,Defective item,412.66,United States
+RET3234,ORD132664,PRD1021,Watches,2023-03-18,Gift return,210.92,Canada
+RET3235,ORD132692,PRD1019,Watches,2022-11-11,Changed mind,394.01,United States
+RET3236,ORD132703,PRD1017,Watches,2024-03-08,Defective item,330.2,Canada
+RET3237,ORD132712,PRD1018,Watches,2023-04-18,Not as described,289.08,Canada
+RET3238,ORD132735,PRD1007,Bags,2023-02-15,Changed mind,128.67,United States
+RET3239,ORD132743,PRD1027,Sunglasses,2022-11-15,Wrong size,35.64,United Kingdom
+RET3240,ORD132774,PRD1018,Watches,2022-06-25,Changed mind,289.08,United Kingdom
+RET3241,ORD132797,PRD1014,Jewellery,2022-07-01,Defective item,109.25,United States
+RET3242,ORD132797,PRD1017,Watches,2022-07-07,Changed mind,330.2,United States
+RET3243,ORD132805,PRD1028,Scarves,2023-11-12,Changed mind,92.58,Canada
+RET3244,ORD132817,PRD1018,Watches,2024-04-30,Not as described,289.08,Canada
+RET3245,ORD132919,PRD1008,Bags,2023-01-05,Wrong size,51.34,United States
+RET3246,ORD132991,PRD1001,Bags,2023-12-29,Not as described,148.0,United States
+RET3247,ORD133001,PRD1019,Watches,2024-02-10,Changed mind,394.01,United Kingdom
+RET3248,ORD133002,PRD1004,Bags,2022-08-17,Not as described,136.77,United States
+RET3249,ORD133003,PRD1004,Bags,2023-03-14,Changed mind,136.77,United Kingdom
+RET3250,ORD133011,PRD1005,Bags,2022-08-31,Wrong size,50.66,United Kingdom
+RET3251,ORD133014,PRD1003,Bags,2022-10-24,Better price found,87.9,United States
+RET3252,ORD133026,PRD1026,Sunglasses,2023-12-14,Defective item,148.49,United Kingdom
+RET3253,ORD133035,PRD1006,Bags,2023-12-12,Changed mind,45.21,United States
+RET3254,ORD133064,PRD1022,Watches,2023-05-06,Better price found,111.06,United States
+RET3255,ORD133069,PRD1014,Jewellery,2024-09-19,Wrong size,109.25,United States
+RET3256,ORD133088,PRD1003,Bags,2023-08-31,Changed mind,87.9,United States
+RET3257,ORD133114,PRD1025,Sunglasses,2022-06-24,Changed mind,69.07,United States
+RET3258,ORD133138,PRD1019,Watches,2024-07-26,Defective item,394.01,United States
+RET3259,ORD133145,PRD1033,Belts,2022-07-19,Changed mind,86.54,United States
+RET3260,ORD133152,PRD1015,Jewellery,2023-12-11,Not as described,33.82,United States
+RET3261,ORD133192,PRD1033,Belts,2024-01-09,Defective item,86.54,United States
+RET3262,ORD133228,PRD1017,Watches,2024-11-11,Wrong size,330.2,Australia
+RET3263,ORD133231,PRD1001,Bags,2022-09-24,Wrong size,148.0,United Kingdom
+RET3264,ORD133247,PRD1015,Jewellery,2024-07-28,Defective item,33.82,United States
+RET3265,ORD133259,PRD1026,Sunglasses,2022-10-09,Defective item,148.49,United States
+RET3266,ORD133274,PRD1014,Jewellery,2023-09-11,Wrong size,109.25,United States
+RET3267,ORD133289,PRD1001,Bags,2022-12-09,Changed mind,148.0,Australia
+RET3268,ORD133295,PRD1002,Bags,2024-10-24,Defective item,259.42,Australia
+RET3269,ORD133303,PRD1013,Jewellery,2023-01-02,Not as described,28.54,United States
+RET3270,ORD133305,PRD1003,Bags,2022-07-20,Defective item,87.9,United Kingdom
+RET3271,ORD133392,PRD1026,Sunglasses,2023-12-05,Changed mind,148.49,United States
+RET3272,ORD133417,PRD1005,Bags,2022-12-05,Gift return,50.66,United States
+RET3273,ORD133420,PRD1026,Sunglasses,2023-04-22,Changed mind,148.49,Australia
+RET3274,ORD133439,PRD1023,Sunglasses,2024-11-02,Wrong size,120.94,Canada
+RET3275,ORD133459,PRD1005,Bags,2023-04-18,Wrong size,50.66,United States
+RET3276,ORD133500,PRD1027,Sunglasses,2024-06-07,Not as described,35.64,Australia
+RET3277,ORD133503,PRD1023,Sunglasses,2022-11-02,Better price found,120.94,Australia
+RET3278,ORD133503,PRD1005,Bags,2022-11-08,Changed mind,50.66,Australia
+RET3279,ORD133504,PRD1008,Bags,2022-09-02,Defective item,51.34,United States
+RET3280,ORD133526,PRD1005,Bags,2022-12-19,Wrong size,50.66,Canada
+RET3281,ORD133537,PRD1026,Sunglasses,2023-04-12,Gift return,148.49,Canada
+RET3282,ORD133543,PRD1022,Watches,2023-11-10,Defective item,111.06,United Kingdom
+RET3283,ORD133560,PRD1003,Bags,2024-10-26,Wrong size,87.9,United States
+RET3284,ORD133583,PRD1015,Jewellery,2023-10-15,Changed mind,33.82,United Kingdom
+RET3285,ORD133590,PRD1011,Jewellery,2022-03-10,Wrong size,79.96,United Kingdom
+RET3286,ORD133598,PRD1017,Watches,2022-03-16,Wrong size,330.2,United States
+RET3287,ORD133615,PRD1020,Watches,2023-03-15,Defective item,412.66,United States
+RET3288,ORD133619,PRD1025,Sunglasses,2024-01-03,Changed mind,69.07,United Kingdom
+RET3289,ORD133622,PRD1007,Bags,2024-01-06,Changed mind,128.67,United States
+RET3290,ORD133630,PRD1003,Bags,2023-10-08,Changed mind,87.9,Australia
+RET3291,ORD133657,PRD1031,Belts,2023-01-14,Gift return,24.77,Australia
+RET3292,ORD133681,PRD1022,Watches,2022-12-20,Wrong size,111.06,United States
+RET3293,ORD133688,PRD1006,Bags,2023-01-06,Better price found,45.21,United States
+RET3294,ORD133688,PRD1026,Sunglasses,2023-01-03,Changed mind,148.49,United States
+RET3295,ORD133720,PRD1002,Bags,2024-02-07,Changed mind,259.42,United States
+RET3296,ORD133723,PRD1019,Watches,2023-06-15,Defective item,394.01,United States
+RET3297,ORD133764,PRD1020,Watches,2023-06-17,Gift return,412.66,United States
+RET3298,ORD133771,PRD1011,Jewellery,2022-07-04,Wrong size,79.96,Australia
+RET3299,ORD133791,PRD1004,Bags,2023-01-12,Changed mind,136.77,United States
+RET3300,ORD133795,PRD1019,Watches,2023-03-02,Wrong size,394.01,United States
+RET3301,ORD133831,PRD1018,Watches,2023-12-07,Changed mind,289.08,United States
+RET3302,ORD133846,PRD1007,Bags,2023-03-01,Changed mind,128.67,United Kingdom
+RET3303,ORD133851,PRD1022,Watches,2024-01-26,Gift return,111.06,Canada
+RET3304,ORD133866,PRD1025,Sunglasses,2023-11-24,Changed mind,69.07,United States
+RET3305,ORD133948,PRD1027,Sunglasses,2024-01-03,Better price found,35.64,United Kingdom
+RET3306,ORD133987,PRD1005,Bags,2023-12-25,Wrong size,50.66,Canada
+RET3307,ORD134024,PRD1013,Jewellery,2024-01-10,Defective item,28.54,United States
+RET3308,ORD134024,PRD1025,Sunglasses,2023-12-22,Not as described,69.07,United States
+RET3309,ORD134034,PRD1024,Sunglasses,2023-12-22,Changed mind,76.03,United States
+RET3310,ORD134075,PRD1024,Sunglasses,2022-12-06,Not as described,76.03,United States
+RET3311,ORD134084,PRD1004,Bags,2024-04-14,Wrong size,136.77,United Kingdom
+RET3312,ORD134143,PRD1008,Bags,2024-09-01,Not as described,51.34,United Kingdom
+RET3313,ORD134190,PRD1003,Bags,2022-12-31,Changed mind,87.9,United Kingdom
+RET3314,ORD134214,PRD1026,Sunglasses,2024-10-25,Defective item,148.49,United Kingdom
+RET3315,ORD134248,PRD1017,Watches,2022-09-27,Wrong size,330.2,United States
+RET3316,ORD134265,PRD1003,Bags,2023-06-09,Changed mind,87.9,United States
+RET3317,ORD134297,PRD1001,Bags,2024-05-25,Wrong size,148.0,United States
+RET3318,ORD134299,PRD1023,Sunglasses,2023-05-12,Wrong size,120.94,United States
+RET3319,ORD134302,PRD1013,Jewellery,2022-12-24,Better price found,28.54,United States
+RET3320,ORD134317,PRD1003,Bags,2024-10-04,Defective item,87.9,United States
+RET3321,ORD134336,PRD1012,Jewellery,2023-11-30,Changed mind,157.31,United States
+RET3322,ORD134341,PRD1014,Jewellery,2024-05-27,Wrong size,109.25,United States
+RET3323,ORD134371,PRD1027,Sunglasses,2023-01-05,Changed mind,35.64,United Kingdom
+RET3324,ORD134380,PRD1005,Bags,2022-01-25,Gift return,50.66,United Kingdom
+RET3325,ORD134389,PRD1029,Scarves,2024-08-30,Not as described,113.0,United States
+RET3326,ORD134393,PRD1013,Jewellery,2024-11-03,Wrong size,28.54,United States
+RET3327,ORD134399,PRD1009,Jewellery,2022-08-30,Wrong size,25.56,United States
+RET3328,ORD134413,PRD1011,Jewellery,2022-12-08,Defective item,79.96,United States
+RET3329,ORD134458,PRD1018,Watches,2024-04-26,Defective item,289.08,United States
+RET3330,ORD134469,PRD1020,Watches,2022-10-09,Wrong size,412.66,Australia
+RET3331,ORD134474,PRD1006,Bags,2022-05-09,Wrong size,45.21,United Kingdom
+RET3332,ORD134490,PRD1001,Bags,2023-03-02,Changed mind,148.0,United States
+RET3333,ORD134496,PRD1032,Belts,2022-03-28,Wrong size,69.94,United States
+RET3334,ORD134525,PRD1019,Watches,2022-04-11,Better price found,394.01,United States
+RET3335,ORD134527,PRD1005,Bags,2023-12-28,Changed mind,50.66,United States
+RET3336,ORD134558,PRD1022,Watches,2024-01-09,Gift return,111.06,United States
+RET3337,ORD134605,PRD1005,Bags,2022-12-17,Changed mind,50.66,United States
+RET3338,ORD134617,PRD1032,Belts,2024-08-05,Changed mind,69.94,Canada
+RET3339,ORD134617,PRD1026,Sunglasses,2024-08-02,Defective item,148.49,Canada
+RET3340,ORD134626,PRD1009,Jewellery,2024-02-06,Defective item,25.56,United States
+RET3341,ORD134628,PRD1021,Watches,2022-07-04,Wrong size,210.92,Canada
+RET3342,ORD134631,PRD1020,Watches,2023-11-30,Changed mind,412.66,United States
+RET3343,ORD134668,PRD1010,Jewellery,2024-08-02,Wrong size,91.88,United States
+RET3344,ORD134689,PRD1001,Bags,2024-06-04,Defective item,148.0,United States
+RET3345,ORD134690,PRD1009,Jewellery,2024-08-15,Wrong size,25.56,United States
+RET3346,ORD134704,PRD1026,Sunglasses,2023-01-06,Better price found,148.49,United States
+RET3347,ORD134711,PRD1021,Watches,2023-12-01,Not as described,210.92,United Kingdom
+RET3348,ORD134731,PRD1013,Jewellery,2024-04-17,Changed mind,28.54,Canada
+RET3349,ORD134759,PRD1030,Scarves,2024-05-26,Wrong size,106.99,United Kingdom
+RET3350,ORD134761,PRD1026,Sunglasses,2023-01-07,Changed mind,148.49,United States
+RET3351,ORD134777,PRD1022,Watches,2022-05-13,Wrong size,111.06,United States
+RET3352,ORD134794,PRD1006,Bags,2024-10-23,Not as described,45.21,United States
+RET3353,ORD134794,PRD1003,Bags,2024-09-27,Not as described,87.9,United States
+RET3354,ORD134802,PRD1026,Sunglasses,2023-12-06,Wrong size,148.49,Canada
+RET3355,ORD134806,PRD1001,Bags,2024-01-10,Not as described,148.0,Australia
+RET3356,ORD134845,PRD1022,Watches,2024-01-09,Not as described,111.06,Australia
+RET3357,ORD134864,PRD1019,Watches,2022-02-13,Changed mind,394.01,United States
+RET3358,ORD134876,PRD1002,Bags,2023-05-12,Wrong size,259.42,Canada
+RET3359,ORD134878,PRD1018,Watches,2023-01-17,Better price found,289.08,United Kingdom
+RET3360,ORD134886,PRD1014,Jewellery,2022-12-20,Wrong size,109.25,United Kingdom
+RET3361,ORD134888,PRD1002,Bags,2023-01-14,Wrong size,259.42,United States
+RET3362,ORD134905,PRD1002,Bags,2022-11-20,Changed mind,259.42,United States
+RET3363,ORD134952,PRD1014,Jewellery,2024-05-05,Defective item,109.25,Australia
+RET3364,ORD134966,PRD1002,Bags,2022-04-19,Defective item,259.42,Australia
+RET3365,ORD134972,PRD1005,Bags,2023-01-10,Not as described,50.66,United States
+RET3366,ORD134975,PRD1010,Jewellery,2024-04-26,Defective item,91.88,Canada
+RET3367,ORD134991,PRD1029,Scarves,2022-12-10,Defective item,113.0,Canada
+RET3368,ORD134996,PRD1022,Watches,2023-04-02,Changed mind,111.06,Australia
+RET3369,ORD134997,PRD1017,Watches,2022-12-23,Not as described,330.2,Australia
